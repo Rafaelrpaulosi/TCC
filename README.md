@@ -53,7 +53,7 @@ node verificador/validacao/rodar-validacao.js
 
 ## Licença
 
-Ainda não definida. Até lá, para reutilizar o código ou os dados, entre em contato com o autor.
+Código (pasta `verificador/` e scripts): licença MIT, no arquivo `LICENSE`. Dados, enunciados, transcrições e textos: Creative Commons Atribuição 4.0 Internacional (CC BY 4.0), no arquivo `LICENSE-DADOS.md`. Em qualquer reutilização, cite o trabalho conforme abaixo.
 
 ## Situação
 
