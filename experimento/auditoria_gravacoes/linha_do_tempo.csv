@@ -1,0 +1,16 @@
+ordem,id_execucao,data,inicio_gravacao,fim_cronometro,hora_print,tempo_cronometro_min,intervalo_parado_min,verificacao,fonte_inicio
+1,B1-A-01,2026-10-08,15:24,15:42,nao anotada,18.46,0,dois clipes; cronometro continuo,creation_time do clipe com cronometro em 00:00
+2,B2-A-01,2026-10-08,16:35,18:06,18:08,55.36,35.6,seis clipes; parado entre cerca de 17:05 e 17:41,creation_time do clipe com cronometro em 00:00
+3,B3-A-01,2026-10-09,06:39,07:01,07:06 (informada pelo autor),22.24,0,tres clipes; cronometro continuo,creation_time do clipe com cronometro em 00:00
+4,B4-A-01,2026-10-09,07:13,08:07 (reaberta 08:23 a 08:25),08:28,51.15,4.9,dez clipes; parado entre 07:30 e 07:41,creation_time do clipe com cronometro em 00:00
+5,B5-A-01,2026-10-09,08:37,08:56,08:59,19.87,0,quatro clipes; cronometro continuo,creation_time do clipe com cronometro em 00:00
+6,B1-B-01,2026-10-09,10:49,11:15,11:16,20.19,6.3,quatro clipes; parado entre 11:02 e 11:08 com o agente aguardando validacao,creation_time do clipe com cronometro em 00:00
+7,B2-B-01,2026-10-09,11:22,11:41,11:41,17.16,1.3,quatro clipes; parado entre 11:36 e 11:38,creation_time do clipe com cronometro em 00:00
+8,B3-B-01,2026-10-09,13:23,13:38,13:39,14.56,0,tres clipes; cronometro continuo,creation_time do clipe com cronometro em 00:00
+9,B4-B-01,2026-10-09,13:50,14:05,14:05,15.25,nao verificavel apos 10 min,dois clipes; continuo ate 10 min de cronometro,creation_time do clipe com cronometro em 00:00
+10,B5-B-01,2026-10-09,14:18,14:37,14:38,18.63,nao verificavel,um clipe de 2 min,creation_time do clipe com cronometro em 00:00
+11,B1-C-01,2026-10-09,15:38,15:53,15:53,16.23,nao verificavel apos 4 min,dois clipes; continuo ate 4 min de cronometro,creation_time do clipe com cronometro em 00:00
+12,B2-C-01,2026-10-09,16:02,16:14,16:16,11.88,nao verificavel,um clipe,creation_time do clipe com cronometro em 00:00
+13,B3-C-01,2026-10-09,16:24,16:34,16:35,9.70,nao verificavel,um clipe,creation_time do clipe com cronometro em 00:00
+14,B4-C-01,2026-10-09,16:41,16:54,16:55,12.66,nao verificavel,um clipe,creation_time do clipe com cronometro em 00:00
+15,B5-C-01,2026-10-09,17:02,17:11,17:16,8.93,nao verificavel (print 5 min depois do fim calculado),um clipe,creation_time do clipe com cronometro em 00:00

@@ -1,0 +1,118 @@
+prototipo,criterio,gravidade,no,noId,detalhe
+REGISTRO DE CONSULTA,contraste_componente_1.4.11,reprova,Menu,13:1571,razao 1.07:1 (minimo 3:1)
+REGISTRO DE CONSULTA,aderencia_design_system,alerta,Vector,"I13:1571;1030:19153;380:10016","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+REGISTRO DE CONSULTA,aderencia_design_system,alerta,Vector,"I13:1571;1030:19153;380:10017","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+REGISTRO DE CONSULTA,aderencia_design_system,alerta,Vector,"I13:1571;1030:19153;380:10018","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+REGISTRO DE CONSULTA,aderencia_design_system,alerta,Vector,"I13:1571;1030:19153;380:10019","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+REGISTRO DE CONSULTA,aderencia_design_system,alerta,Vector,"I13:1571;1030:19153;380:10020","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+REGISTRO DE CONSULTA,aderencia_design_system,alerta,Vector,"I13:1571;1030:19153;380:10021","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+REGISTRO DE CONSULTA,contraste_texto_1.4.3,reprova,Menu Item,"I13:1571;1030:19169;1919:18661;932:12065",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+REGISTRO DE CONSULTA,contraste_texto_1.4.3,reprova,Maria Cristina,"I13:1571;4740:100680;4683:100714",razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+REGISTRO DE CONSULTA,contraste_texto_1.4.3,reprova,Consultório Campo Largo,"I13:1571;4740:100680;4683:100716",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+REGISTRO DE CONSULTA,aderencia_design_system,alerta,Ellipse 3,"I13:1571;4740:100680;4683:100718;632:10618","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+REGISTRO DE CONSULTA,contraste_texto_1.4.3,reprova,Label,"I13:1571;23440:551616;23233:562999",razao 4.36:1 (minimo 4.5:1) sobre fundo #FFFFFF
+REGISTRO DE CONSULTA,contraste_componente_1.4.11,reprova,Header - Prontuário novo,13:1638,razao 1.07:1 (minimo 3:1)
+REGISTRO DE CONSULTA,contraste_texto_1.4.3,reprova,(505000),"I13:1638;44335:17824;10520:186848",razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+REGISTRO DE CONSULTA,contraste_texto_1.4.3,reprova,15/08/1984,"I13:1638;44335:17824;12472:248894",razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+REGISTRO DE CONSULTA,contraste_texto_1.4.3,reprova,Label,"I13:1638;44335:17824;38515:103787;346:8875",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+REGISTRO DE CONSULTA,contraste_texto_1.4.3,reprova,Label,"I13:1638;44335:17839;346:9110",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+REGISTRO DE CONSULTA,contraste_texto_1.4.3,reprova,Tab Title,"I13:1641;997:13665",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+REGISTRO DE CONSULTA,contraste_texto_1.4.3,reprova,Tab Title,"I13:1645;10656:198457",razao 1.27:1 (minimo 4.5:1) sobre fundo #FFFFFF
+REGISTRO DE CONSULTA,contraste_texto_1.4.3,reprova,Label,"I13:2048;344:8838",razao 1.32:1 (minimo 4.5:1) sobre fundo #E0E4EC
+REGISTRO DE CONSULTA,aderencia_design_system,alerta,Ellipse 3,"I13:1752;632:10618","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+REGISTRO DE CONSULTA,contraste_texto_1.4.3,reprova,(,13:1757,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+REGISTRO DE CONSULTA,contraste_texto_1.4.3,reprova,CRM,13:1758,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+REGISTRO DE CONSULTA,contraste_texto_1.4.3,reprova,•,13:1759,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+REGISTRO DE CONSULTA,contraste_texto_1.4.3,reprova,Especialidade,13:1760,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+REGISTRO DE CONSULTA,contraste_texto_1.4.3,reprova,),13:1761,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+REGISTRO DE CONSULTA,contraste_texto_1.4.3,reprova,Plano 1,13:1763,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+REGISTRO DE CONSULTA,contraste_texto_1.4.3,reprova,•,13:1764,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+REGISTRO DE CONSULTA,alvo_toque_2.5.8,reprova,Grayscale Tag,13:1766,76x23 px (minimo 24x24)
+REGISTRO DE CONSULTA,contraste_texto_1.4.3,reprova,•,13:1767,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+REGISTRO DE CONSULTA,contraste_componente_1.4.11,reprova,Icon/ lock-open,13:1775,razao 1.00:1 (minimo 3:1)
+REGISTRO DE CONSULTA,alvo_toque_2.5.8,reprova,Icon/ lock-open,13:1775,16x16 px (minimo 24x24)
+REGISTRO DE CONSULTA,contraste_texto_1.4.3,reprova,Label,"I13:1795;347:8643",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+REGISTRO DE CONSULTA,aderencia_design_system,alerta,Ellipse 3,"I13:1799;632:10618","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+REGISTRO DE CONSULTA,contraste_texto_1.4.3,reprova,(,13:1804,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+REGISTRO DE CONSULTA,contraste_texto_1.4.3,reprova,CRM,13:1805,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+REGISTRO DE CONSULTA,contraste_texto_1.4.3,reprova,•,13:1806,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+REGISTRO DE CONSULTA,contraste_texto_1.4.3,reprova,Especialidade,13:1807,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+REGISTRO DE CONSULTA,contraste_texto_1.4.3,reprova,),13:1808,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+REGISTRO DE CONSULTA,contraste_texto_1.4.3,reprova,Plano 1,13:1810,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+REGISTRO DE CONSULTA,contraste_texto_1.4.3,reprova,•,13:1811,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+REGISTRO DE CONSULTA,alvo_toque_2.5.8,reprova,Grayscale Tag,13:1813,76x23 px (minimo 24x24)
+REGISTRO DE CONSULTA,contraste_texto_1.4.3,reprova,•,13:1814,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+REGISTRO DE CONSULTA,contraste_componente_1.4.11,reprova,Icon/ lock-open,13:1822,razao 1.00:1 (minimo 3:1)
+REGISTRO DE CONSULTA,alvo_toque_2.5.8,reprova,Icon/ lock-open,13:1822,16x16 px (minimo 24x24)
+REGISTRO DE CONSULTA,contraste_texto_1.4.3,reprova,Label,"I13:1842;347:8643",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+REGISTRO DE CONSULTA,aderencia_design_system,alerta,Ellipse 3,"I13:1846;632:10618","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+REGISTRO DE CONSULTA,contraste_texto_1.4.3,reprova,(,13:1851,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+REGISTRO DE CONSULTA,contraste_texto_1.4.3,reprova,CRM,13:1852,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+REGISTRO DE CONSULTA,contraste_texto_1.4.3,reprova,•,13:1853,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+REGISTRO DE CONSULTA,contraste_texto_1.4.3,reprova,Especialidade,13:1854,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+REGISTRO DE CONSULTA,contraste_texto_1.4.3,reprova,),13:1855,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+REGISTRO DE CONSULTA,contraste_texto_1.4.3,reprova,Plano 1,13:1857,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+REGISTRO DE CONSULTA,contraste_texto_1.4.3,reprova,•,13:1858,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+REGISTRO DE CONSULTA,alvo_toque_2.5.8,reprova,Grayscale Tag,13:1860,76x23 px (minimo 24x24)
+REGISTRO DE CONSULTA,contraste_texto_1.4.3,reprova,•,13:1861,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+REGISTRO DE CONSULTA,contraste_componente_1.4.11,reprova,Icon/ lock-open,13:1869,razao 1.00:1 (minimo 3:1)
+REGISTRO DE CONSULTA,alvo_toque_2.5.8,reprova,Icon/ lock-open,13:1869,16x16 px (minimo 24x24)
+REGISTRO DE CONSULTA,contraste_texto_1.4.3,reprova,Label,"I13:1889;347:8643",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+REGISTRO DE CONSULTA 02,contraste_componente_1.4.11,reprova,Menu,13:2058,razao 1.07:1 (minimo 3:1)
+REGISTRO DE CONSULTA 02,aderencia_design_system,alerta,Vector,"I13:2058;1030:19153;380:10016","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+REGISTRO DE CONSULTA 02,aderencia_design_system,alerta,Vector,"I13:2058;1030:19153;380:10017","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+REGISTRO DE CONSULTA 02,aderencia_design_system,alerta,Vector,"I13:2058;1030:19153;380:10018","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+REGISTRO DE CONSULTA 02,aderencia_design_system,alerta,Vector,"I13:2058;1030:19153;380:10019","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+REGISTRO DE CONSULTA 02,aderencia_design_system,alerta,Vector,"I13:2058;1030:19153;380:10020","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+REGISTRO DE CONSULTA 02,aderencia_design_system,alerta,Vector,"I13:2058;1030:19153;380:10021","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+REGISTRO DE CONSULTA 02,contraste_texto_1.4.3,reprova,Menu Item,"I13:2058;1030:19169;1919:18661;932:12065",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+REGISTRO DE CONSULTA 02,contraste_texto_1.4.3,reprova,Maria Cristina,"I13:2058;4740:100680;4683:100714",razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+REGISTRO DE CONSULTA 02,contraste_texto_1.4.3,reprova,Consultório Campo Largo,"I13:2058;4740:100680;4683:100716",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+REGISTRO DE CONSULTA 02,aderencia_design_system,alerta,Ellipse 3,"I13:2058;4740:100680;4683:100718;632:10618","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+REGISTRO DE CONSULTA 02,contraste_texto_1.4.3,reprova,Label,"I13:2058;23440:551616;23233:562999",razao 4.36:1 (minimo 4.5:1) sobre fundo #FFFFFF
+REGISTRO DE CONSULTA 02,contraste_componente_1.4.11,reprova,Header - Prontuário novo,13:2060,razao 1.07:1 (minimo 3:1)
+REGISTRO DE CONSULTA 02,contraste_texto_1.4.3,reprova,(505000),"I13:2060;44335:17824;10520:186848",razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+REGISTRO DE CONSULTA 02,contraste_texto_1.4.3,reprova,15/08/1984,"I13:2060;44335:17824;12472:248894",razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+REGISTRO DE CONSULTA 02,contraste_texto_1.4.3,reprova,Label,"I13:2060;44335:17824;38515:103787;346:8875",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+REGISTRO DE CONSULTA 02,contraste_texto_1.4.3,reprova,Label,"I13:2060;44335:17839;346:9110",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+REGISTRO DE CONSULTA 02,contraste_texto_1.4.3,reprova,Tab Title,"I13:2063;997:13665",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+REGISTRO DE CONSULTA 02,contraste_texto_1.4.3,reprova,Tab Title,"I13:2067;10656:198457",razao 1.27:1 (minimo 4.5:1) sobre fundo #FFFFFF
+REGISTRO DE CONSULTA 02,aderencia_design_system,alerta,Ellipse 3,"I13:2092;632:10618","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+REGISTRO DE CONSULTA 02,contraste_texto_1.4.3,reprova,(,13:2097,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+REGISTRO DE CONSULTA 02,contraste_texto_1.4.3,reprova,CRM,13:2098,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+REGISTRO DE CONSULTA 02,contraste_texto_1.4.3,reprova,•,13:2099,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+REGISTRO DE CONSULTA 02,contraste_texto_1.4.3,reprova,Especialidade,13:2100,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+REGISTRO DE CONSULTA 02,contraste_texto_1.4.3,reprova,),13:2101,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+REGISTRO DE CONSULTA 02,contraste_texto_1.4.3,reprova,Plano 1,13:2103,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+REGISTRO DE CONSULTA 02,contraste_texto_1.4.3,reprova,•,13:2104,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+REGISTRO DE CONSULTA 02,alvo_toque_2.5.8,reprova,Grayscale Tag,13:2106,76x23 px (minimo 24x24)
+REGISTRO DE CONSULTA 02,contraste_texto_1.4.3,reprova,•,13:2107,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+REGISTRO DE CONSULTA 02,contraste_componente_1.4.11,reprova,Icon/ lock-open,13:2115,razao 1.00:1 (minimo 3:1)
+REGISTRO DE CONSULTA 02,alvo_toque_2.5.8,reprova,Icon/ lock-open,13:2115,16x16 px (minimo 24x24)
+REGISTRO DE CONSULTA 02,contraste_texto_1.4.3,reprova,Label,"I13:2135;347:8643",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+REGISTRO DE CONSULTA 02,aderencia_design_system,alerta,Ellipse 3,"I13:2139;632:10618","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+REGISTRO DE CONSULTA 02,contraste_texto_1.4.3,reprova,(,13:2144,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+REGISTRO DE CONSULTA 02,contraste_texto_1.4.3,reprova,CRM,13:2145,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+REGISTRO DE CONSULTA 02,contraste_texto_1.4.3,reprova,•,13:2146,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+REGISTRO DE CONSULTA 02,contraste_texto_1.4.3,reprova,Especialidade,13:2147,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+REGISTRO DE CONSULTA 02,contraste_texto_1.4.3,reprova,),13:2148,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+REGISTRO DE CONSULTA 02,contraste_texto_1.4.3,reprova,Plano 1,13:2150,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+REGISTRO DE CONSULTA 02,contraste_texto_1.4.3,reprova,•,13:2151,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+REGISTRO DE CONSULTA 02,alvo_toque_2.5.8,reprova,Grayscale Tag,13:2153,76x23 px (minimo 24x24)
+REGISTRO DE CONSULTA 02,contraste_texto_1.4.3,reprova,•,13:2154,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+REGISTRO DE CONSULTA 02,contraste_componente_1.4.11,reprova,Icon/ lock-open,13:2162,razao 1.00:1 (minimo 3:1)
+REGISTRO DE CONSULTA 02,alvo_toque_2.5.8,reprova,Icon/ lock-open,13:2162,16x16 px (minimo 24x24)
+REGISTRO DE CONSULTA 02,contraste_texto_1.4.3,reprova,Label,"I13:2182;347:8643",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+REGISTRO DE CONSULTA 02,aderencia_design_system,alerta,Ellipse 3,"I13:2186;632:10618","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+REGISTRO DE CONSULTA 02,contraste_texto_1.4.3,reprova,(,13:2191,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+REGISTRO DE CONSULTA 02,contraste_texto_1.4.3,reprova,CRM,13:2192,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+REGISTRO DE CONSULTA 02,contraste_texto_1.4.3,reprova,•,13:2193,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+REGISTRO DE CONSULTA 02,contraste_texto_1.4.3,reprova,Especialidade,13:2194,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+REGISTRO DE CONSULTA 02,contraste_texto_1.4.3,reprova,),13:2195,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+REGISTRO DE CONSULTA 02,contraste_texto_1.4.3,reprova,Plano 1,13:2197,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+REGISTRO DE CONSULTA 02,contraste_texto_1.4.3,reprova,•,13:2198,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+REGISTRO DE CONSULTA 02,alvo_toque_2.5.8,reprova,Grayscale Tag,13:2200,76x23 px (minimo 24x24)
+REGISTRO DE CONSULTA 02,contraste_texto_1.4.3,reprova,•,13:2201,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+REGISTRO DE CONSULTA 02,contraste_componente_1.4.11,reprova,Icon/ lock-open,13:2209,razao 1.00:1 (minimo 3:1)
+REGISTRO DE CONSULTA 02,alvo_toque_2.5.8,reprova,Icon/ lock-open,13:2209,16x16 px (minimo 24x24)
+REGISTRO DE CONSULTA 02,contraste_texto_1.4.3,reprova,Label,"I13:2229;347:8643",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF

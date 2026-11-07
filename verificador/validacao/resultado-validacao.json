@@ -1,0 +1,199 @@
+{
+  "gerado_em": "2026-10-09T16:21:00.797Z",
+  "total_frames": 12,
+  "frames_classificados_corretamente": 12,
+  "taxa_acerto_frames": 100,
+  "agregado": {
+    "verdadeiros_positivos": 10,
+    "falsos_positivos": 0,
+    "falsos_negativos": 0,
+    "precisao": 1,
+    "revocacao": 1,
+    "f1": 1
+  },
+  "por_criterio": {
+    "contraste_texto_1.4.3": {
+      "tp": 3,
+      "fp": 0,
+      "fn": 0
+    },
+    "contraste_componente_1.4.11": {
+      "tp": 2,
+      "fp": 0,
+      "fn": 0
+    },
+    "alvo_toque_2.5.8": {
+      "tp": 2,
+      "fp": 0,
+      "fn": 0
+    },
+    "valor_fora_token": {
+      "tp": 2,
+      "fp": 0,
+      "fn": 0
+    },
+    "aderencia_design_system": {
+      "tp": 1,
+      "fp": 0,
+      "fn": 0
+    }
+  },
+  "detalhe": [
+    {
+      "frame": "F01_texto_normal_ok",
+      "esperado": {
+        "reprova": [],
+        "alerta": []
+      },
+      "detectado_reprova": [],
+      "detectado_alerta": [],
+      "ok": true
+    },
+    {
+      "frame": "F02_texto_normal_baixo_contraste",
+      "esperado": {
+        "reprova": [
+          "contraste_texto_1.4.3"
+        ],
+        "alerta": []
+      },
+      "detectado_reprova": [
+        "contraste_texto_1.4.3"
+      ],
+      "detectado_alerta": [],
+      "ok": true
+    },
+    {
+      "frame": "F03_texto_grande_no_limiar",
+      "esperado": {
+        "reprova": [],
+        "alerta": []
+      },
+      "detectado_reprova": [],
+      "detectado_alerta": [],
+      "ok": true
+    },
+    {
+      "frame": "F04_texto_pequeno_mesmo_cinza_reprova",
+      "esperado": {
+        "reprova": [
+          "contraste_texto_1.4.3"
+        ],
+        "alerta": []
+      },
+      "detectado_reprova": [
+        "contraste_texto_1.4.3"
+      ],
+      "detectado_alerta": [],
+      "ok": true
+    },
+    {
+      "frame": "F05_botao_alvo_pequeno",
+      "esperado": {
+        "reprova": [
+          "alvo_toque_2.5.8"
+        ],
+        "alerta": []
+      },
+      "detectado_reprova": [
+        "alvo_toque_2.5.8"
+      ],
+      "detectado_alerta": [],
+      "ok": true
+    },
+    {
+      "frame": "F06_botao_alvo_ok",
+      "esperado": {
+        "reprova": [],
+        "alerta": []
+      },
+      "detectado_reprova": [],
+      "detectado_alerta": [],
+      "ok": true
+    },
+    {
+      "frame": "F07_componente_baixo_contraste",
+      "esperado": {
+        "reprova": [
+          "contraste_componente_1.4.11"
+        ],
+        "alerta": []
+      },
+      "detectado_reprova": [
+        "contraste_componente_1.4.11"
+      ],
+      "detectado_alerta": [],
+      "ok": true
+    },
+    {
+      "frame": "F08_cor_fora_do_token",
+      "esperado": {
+        "reprova": [],
+        "alerta": [
+          "valor_fora_token"
+        ]
+      },
+      "detectado_reprova": [],
+      "detectado_alerta": [
+        "valor_fora_token"
+      ],
+      "ok": true
+    },
+    {
+      "frame": "F09_tamanho_fonte_fora_do_token",
+      "esperado": {
+        "reprova": [],
+        "alerta": [
+          "valor_fora_token"
+        ]
+      },
+      "detectado_reprova": [],
+      "detectado_alerta": [
+        "valor_fora_token"
+      ],
+      "ok": true
+    },
+    {
+      "frame": "F10_aderencia_baixa",
+      "esperado": {
+        "reprova": [],
+        "alerta": [
+          "aderencia_design_system"
+        ]
+      },
+      "detectado_reprova": [],
+      "detectado_alerta": [
+        "aderencia_design_system"
+      ],
+      "ok": true
+    },
+    {
+      "frame": "F11_aderencia_alta",
+      "esperado": {
+        "reprova": [],
+        "alerta": []
+      },
+      "detectado_reprova": [],
+      "detectado_alerta": [],
+      "ok": true
+    },
+    {
+      "frame": "F12_multiplos_defeitos",
+      "esperado": {
+        "reprova": [
+          "contraste_texto_1.4.3",
+          "contraste_componente_1.4.11",
+          "alvo_toque_2.5.8"
+        ],
+        "alerta": []
+      },
+      "detectado_reprova": [
+        "contraste_texto_1.4.3",
+        "contraste_componente_1.4.11",
+        "alvo_toque_2.5.8"
+      ],
+      "detectado_alerta": [],
+      "ok": true
+    }
+  ]
+}

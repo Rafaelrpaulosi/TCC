@@ -1,0 +1,1229 @@
+{
+  "gerado_em": "2026-10-09T18:55:57.979Z",
+  "fonte": "figma:[chave do arquivo do Ambiente C]:4:2173,9:3676",
+  "fileKey": "[chave do arquivo do Ambiente C]",
+  "total_prototipos": 2,
+  "prototipos": [
+    {
+      "prototipo": "01 Lista de pacientes do dia",
+      "prototipoId": "4:2173",
+      "metricas": {
+        "densidade_total_nos": 424,
+        "textos_total": 96,
+        "textos_aprovados_contraste": 49,
+        "textos_pct_conformidade_1_4_3": 51.04,
+        "componentes_total": 20,
+        "componentes_aprovados_contraste": 7,
+        "componentes_pct_conformidade_1_4_11": 35,
+        "alvos_toque_total": 20,
+        "alvos_toque_aprovados": 17,
+        "alvos_toque_pct_conformidade_2_5_8": 85,
+        "aderencia_design_system_pct": 98.33,
+        "aderencia_nos_aderentes": 294,
+        "aderencia_nos_elegiveis": 299,
+        "cores_distintas_fora_token": 22,
+        "tamanhos_fonte_distintos_fora_token": 7
+      },
+      "valoresForaToken": {
+        "cores": [
+          "#000000",
+          "#003F1A",
+          "#14261C",
+          "#1A1D22",
+          "#1E2606",
+          "#495916",
+          "#54A275",
+          "#594600",
+          "#5D6066",
+          "#65C997",
+          "#8F9299",
+          "#A1D6B7",
+          "#B1D349",
+          "#C4C8D0",
+          "#D0FA7D",
+          "#E0E4EC",
+          "#ED1450",
+          "#EFFFBF",
+          "#F5F7FC",
+          "#FEEB7F",
+          "#FFBFD1",
+          "#FFFFFF"
+        ],
+        "tamanhosFonte": [
+          8,
+          11,
+          12,
+          14,
+          16,
+          22,
+          24
+        ]
+      },
+      "findings": [
+        {
+          "prototipo": "01 Lista de pacientes do dia",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Menu",
+          "noId": "4:2174",
+          "detalhe": "razao 1.00:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "01 Lista de pacientes do dia",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Vector",
+          "noId": "I4:2174;1:2661;1:2705",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "01 Lista de pacientes do dia",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Vector",
+          "noId": "I4:2174;1:2661;1:2707",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "01 Lista de pacientes do dia",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Vector",
+          "noId": "I4:2174;1:2661;1:2708",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "01 Lista de pacientes do dia",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Vector",
+          "noId": "I4:2174;1:2661;1:2709",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "01 Lista de pacientes do dia",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Menu Item",
+          "noId": "I4:2174;1:2662;1:3169;1:3273",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "01 Lista de pacientes do dia",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Maria Cristina",
+          "noId": "I4:2174;1:2664;1:3289",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "01 Lista de pacientes do dia",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Consultório Campo Largo",
+          "noId": "I4:2174;1:2664;1:3294",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "01 Lista de pacientes do dia",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Ellipse 3",
+          "noId": "I4:2174;1:2664;1:3296;1:2954",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "01 Lista de pacientes do dia",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I4:2174;1:2665;1:3327",
+          "detalhe": "razao 4.36:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "01 Lista de pacientes do dia",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Page Header",
+          "noId": "4:2250",
+          "detalhe": "razao 1.07:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "01 Lista de pacientes do dia",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Tag/Color",
+          "noId": "7:2264",
+          "detalhe": "razao 1.01:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "01 Lista de pacientes do dia",
+          "criterio": "alvo_toque_2.5.8",
+          "gravidade": "reprova",
+          "no": "Tag/Color",
+          "noId": "7:2264",
+          "detalhe": "69x23 px (minimo 24x24)"
+        },
+        {
+          "prototipo": "01 Lista de pacientes do dia",
+          "criterio": "alvo_toque_2.5.8",
+          "gravidade": "reprova",
+          "no": "Agenda/Tag",
+          "noId": "7:2268",
+          "detalhe": "50x23 px (minimo 24x24)"
+        },
+        {
+          "prototipo": "01 Lista de pacientes do dia",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Icon/clock",
+          "noId": "7:2274",
+          "detalhe": "razao 1.00:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "01 Lista de pacientes do dia",
+          "criterio": "alvo_toque_2.5.8",
+          "gravidade": "reprova",
+          "no": "Icon/clock",
+          "noId": "7:2274",
+          "detalhe": "16x16 px (minimo 24x24)"
+        },
+        {
+          "prototipo": "01 Lista de pacientes do dia",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Tab Title",
+          "noId": "I7:2285;1:2787",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "01 Lista de pacientes do dia",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Search Bar",
+          "noId": "7:2309",
+          "detalhe": "razao 1.07:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "01 Lista de pacientes do dia",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Pesquisar",
+          "noId": "I7:2309;1:1300;1:3044",
+          "detalhe": "razao 2.91:1 (minimo 4.5:1) sobre fundo #F5F7FC"
+        },
+        {
+          "prototipo": "01 Lista de pacientes do dia",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Paciente 08:00",
+          "noId": "7:2317",
+          "detalhe": "razao 1.07:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "01 Lista de pacientes do dia",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I7:2317;1:1537;1:2147;1:657",
+          "detalhe": "razao 1.32:1 (minimo 4.5:1) sobre fundo #E0E4EC"
+        },
+        {
+          "prototipo": "01 Lista de pacientes do dia",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Dérick Cabral Castanheira",
+          "noId": "I7:2317;1:1545",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "01 Lista de pacientes do dia",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "I7:2317;1:1546",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "01 Lista de pacientes do dia",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "I7:2317;1:1548",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "01 Lista de pacientes do dia",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "07:50",
+          "noId": "I7:2317;1:1551",
+          "detalhe": "razao 1.68:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "01 Lista de pacientes do dia",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "I7:2317;1:1552",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "01 Lista de pacientes do dia",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "08:12",
+          "noId": "I7:2317;1:1555",
+          "detalhe": "razao 1.68:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "01 Lista de pacientes do dia",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I7:2317;1:1563",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "01 Lista de pacientes do dia",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Paciente 08:20",
+          "noId": "7:2384",
+          "detalhe": "razao 1.07:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "01 Lista de pacientes do dia",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I7:2384;1:1537;1:2147;1:657",
+          "detalhe": "razao 1.32:1 (minimo 4.5:1) sobre fundo #E0E4EC"
+        },
+        {
+          "prototipo": "01 Lista de pacientes do dia",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Dérick Cabral Castanheira",
+          "noId": "I7:2384;1:1545",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "01 Lista de pacientes do dia",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "I7:2384;1:1546",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "01 Lista de pacientes do dia",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "I7:2384;1:1548",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "01 Lista de pacientes do dia",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "07:50",
+          "noId": "I7:2384;1:1551",
+          "detalhe": "razao 1.68:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "01 Lista de pacientes do dia",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "I7:2384;1:1552",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "01 Lista de pacientes do dia",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "08:12",
+          "noId": "I7:2384;1:1555",
+          "detalhe": "razao 1.68:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "01 Lista de pacientes do dia",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I7:2384;1:1563",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "01 Lista de pacientes do dia",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Paciente 08:40",
+          "noId": "7:2447",
+          "detalhe": "razao 1.07:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "01 Lista de pacientes do dia",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I7:2447;1:1678;1:2177;1:755",
+          "detalhe": "razao 2.83:1 (minimo 4.5:1) sobre fundo #FFBFD1"
+        },
+        {
+          "prototipo": "01 Lista de pacientes do dia",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Dérick Cabral Castanheira",
+          "noId": "I7:2447;1:1686",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "01 Lista de pacientes do dia",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "I7:2447;1:1687",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "01 Lista de pacientes do dia",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I7:2447;1:1695",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "01 Lista de pacientes do dia",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Paciente 09:00",
+          "noId": "7:2505",
+          "detalhe": "razao 1.07:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "01 Lista de pacientes do dia",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Dérick Cabral Castanheira",
+          "noId": "I7:2505;1:1395",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "01 Lista de pacientes do dia",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "I7:2505;1:1396",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "01 Lista de pacientes do dia",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "I7:2505;1:1398",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "01 Lista de pacientes do dia",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "07:50",
+          "noId": "I7:2505;1:1401",
+          "detalhe": "razao 1.68:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "01 Lista de pacientes do dia",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I7:2505;1:1409",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "01 Lista de pacientes do dia",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Paciente 09:20",
+          "noId": "7:2573",
+          "detalhe": "razao 1.07:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "01 Lista de pacientes do dia",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Dérick Cabral Castanheira",
+          "noId": "I7:2573;1:1395",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "01 Lista de pacientes do dia",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "I7:2573;1:1396",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "01 Lista de pacientes do dia",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "I7:2573;1:1398",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "01 Lista de pacientes do dia",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "07:50",
+          "noId": "I7:2573;1:1401",
+          "detalhe": "razao 1.68:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "01 Lista de pacientes do dia",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I7:2573;1:1409",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "01 Lista de pacientes do dia",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Paciente 09:40",
+          "noId": "7:2632",
+          "detalhe": "razao 1.07:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "01 Lista de pacientes do dia",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Dérick Cabral Castanheira",
+          "noId": "I7:2632;1:1373",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "01 Lista de pacientes do dia",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "I7:2632;1:1374",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "01 Lista de pacientes do dia",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I7:2632;1:1383",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "01 Lista de pacientes do dia",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Paciente 10:00",
+          "noId": "7:2692",
+          "detalhe": "razao 1.07:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "01 Lista de pacientes do dia",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Dérick Cabral Castanheira",
+          "noId": "I7:2692;1:1373",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "01 Lista de pacientes do dia",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "I7:2692;1:1374",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "01 Lista de pacientes do dia",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I7:2692;1:1377;1:2228;1:414",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "01 Lista de pacientes do dia",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I7:2692;1:1383",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "01 Lista de pacientes do dia",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Paciente 10:20",
+          "noId": "7:2746",
+          "detalhe": "razao 1.07:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "01 Lista de pacientes do dia",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I7:2746;1:1371;1:2260;1:2206;1:2297",
+          "detalhe": "razao 2.02:1 (minimo 4.5:1) sobre fundo #65C997"
+        },
+        {
+          "prototipo": "01 Lista de pacientes do dia",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Dérick Cabral Castanheira",
+          "noId": "I7:2746;1:1373",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "01 Lista de pacientes do dia",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "I7:2746;1:1374",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "01 Lista de pacientes do dia",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I7:2746;1:1383",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        }
+      ]
+    },
+    {
+      "prototipo": "02 Atendimento iniciado",
+      "prototipoId": "9:3676",
+      "metricas": {
+        "densidade_total_nos": 419,
+        "textos_total": 95,
+        "textos_aprovados_contraste": 47,
+        "textos_pct_conformidade_1_4_3": 49.47,
+        "componentes_total": 20,
+        "componentes_aprovados_contraste": 7,
+        "componentes_pct_conformidade_1_4_11": 35,
+        "alvos_toque_total": 20,
+        "alvos_toque_aprovados": 17,
+        "alvos_toque_pct_conformidade_2_5_8": 85,
+        "aderencia_design_system_pct": 97.97,
+        "aderencia_nos_aderentes": 290,
+        "aderencia_nos_elegiveis": 296,
+        "cores_distintas_fora_token": 23,
+        "tamanhos_fonte_distintos_fora_token": 7
+      },
+      "valoresForaToken": {
+        "cores": [
+          "#000000",
+          "#003F1A",
+          "#14261C",
+          "#144027",
+          "#1A1D22",
+          "#1E2606",
+          "#495916",
+          "#54A275",
+          "#594600",
+          "#5D6066",
+          "#65C997",
+          "#8F9299",
+          "#A1D6B7",
+          "#B1D349",
+          "#C4C8D0",
+          "#D0FA7D",
+          "#E0E4EC",
+          "#ED1450",
+          "#EFFFBF",
+          "#F5F7FC",
+          "#FEEB7F",
+          "#FFBFD1",
+          "#FFFFFF"
+        ],
+        "tamanhosFonte": [
+          8,
+          11,
+          12,
+          14,
+          16,
+          22,
+          24
+        ]
+      },
+      "findings": [
+        {
+          "prototipo": "02 Atendimento iniciado",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Menu",
+          "noId": "9:3677",
+          "detalhe": "razao 1.00:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "02 Atendimento iniciado",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Vector",
+          "noId": "I9:3677;1:2661;1:2705",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "02 Atendimento iniciado",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Vector",
+          "noId": "I9:3677;1:2661;1:2707",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "02 Atendimento iniciado",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Vector",
+          "noId": "I9:3677;1:2661;1:2708",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "02 Atendimento iniciado",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Vector",
+          "noId": "I9:3677;1:2661;1:2709",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "02 Atendimento iniciado",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Menu Item",
+          "noId": "I9:3677;1:2662;1:3169;1:3273",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "02 Atendimento iniciado",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Maria Cristina",
+          "noId": "I9:3677;1:2664;1:3289",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "02 Atendimento iniciado",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Consultório Campo Largo",
+          "noId": "I9:3677;1:2664;1:3294",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "02 Atendimento iniciado",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Ellipse 3",
+          "noId": "I9:3677;1:2664;1:3296;1:2954",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "02 Atendimento iniciado",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I9:3677;1:2665;1:3327",
+          "detalhe": "razao 4.36:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "02 Atendimento iniciado",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Page Header",
+          "noId": "9:3678",
+          "detalhe": "razao 1.07:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "02 Atendimento iniciado",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Tag/Color",
+          "noId": "9:3686",
+          "detalhe": "razao 1.53:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "02 Atendimento iniciado",
+          "criterio": "alvo_toque_2.5.8",
+          "gravidade": "reprova",
+          "no": "Tag/Color",
+          "noId": "9:3686",
+          "detalhe": "79x23 px (minimo 24x24)"
+        },
+        {
+          "prototipo": "02 Atendimento iniciado",
+          "criterio": "alvo_toque_2.5.8",
+          "gravidade": "reprova",
+          "no": "Agenda/Tag",
+          "noId": "9:3687",
+          "detalhe": "50x23 px (minimo 24x24)"
+        },
+        {
+          "prototipo": "02 Atendimento iniciado",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Icon/clock",
+          "noId": "9:3689",
+          "detalhe": "razao 1.00:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "02 Atendimento iniciado",
+          "criterio": "alvo_toque_2.5.8",
+          "gravidade": "reprova",
+          "no": "Icon/clock",
+          "noId": "9:3689",
+          "detalhe": "16x16 px (minimo 24x24)"
+        },
+        {
+          "prototipo": "02 Atendimento iniciado",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Rectangle",
+          "noId": "I9:3691;1:382;580:11214",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "02 Atendimento iniciado",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Tab Title",
+          "noId": "I9:3694;1:2787",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "02 Atendimento iniciado",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Search Bar",
+          "noId": "9:3698",
+          "detalhe": "razao 1.07:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "02 Atendimento iniciado",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Pesquisar",
+          "noId": "I9:3698;1:1300;1:3044",
+          "detalhe": "razao 2.91:1 (minimo 4.5:1) sobre fundo #F5F7FC"
+        },
+        {
+          "prototipo": "02 Atendimento iniciado",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Paciente 08:00",
+          "noId": "9:3700",
+          "detalhe": "razao 1.07:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "02 Atendimento iniciado",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I9:3700;1:1537;1:2147;1:657",
+          "detalhe": "razao 1.32:1 (minimo 4.5:1) sobre fundo #E0E4EC"
+        },
+        {
+          "prototipo": "02 Atendimento iniciado",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Dérick Cabral Castanheira",
+          "noId": "I9:3700;1:1545",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "02 Atendimento iniciado",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "I9:3700;1:1546",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "02 Atendimento iniciado",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "I9:3700;1:1548",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "02 Atendimento iniciado",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "07:50",
+          "noId": "I9:3700;1:1551",
+          "detalhe": "razao 1.68:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "02 Atendimento iniciado",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "I9:3700;1:1552",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "02 Atendimento iniciado",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "08:12",
+          "noId": "I9:3700;1:1555",
+          "detalhe": "razao 1.68:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "02 Atendimento iniciado",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I9:3700;1:1563",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "02 Atendimento iniciado",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Paciente 08:20",
+          "noId": "9:3701",
+          "detalhe": "razao 1.07:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "02 Atendimento iniciado",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I9:3701;1:1537;1:2147;1:657",
+          "detalhe": "razao 1.32:1 (minimo 4.5:1) sobre fundo #E0E4EC"
+        },
+        {
+          "prototipo": "02 Atendimento iniciado",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Dérick Cabral Castanheira",
+          "noId": "I9:3701;1:1545",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "02 Atendimento iniciado",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "I9:3701;1:1546",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "02 Atendimento iniciado",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "I9:3701;1:1548",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "02 Atendimento iniciado",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "07:50",
+          "noId": "I9:3701;1:1551",
+          "detalhe": "razao 1.68:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "02 Atendimento iniciado",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "I9:3701;1:1552",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "02 Atendimento iniciado",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "08:12",
+          "noId": "I9:3701;1:1555",
+          "detalhe": "razao 1.68:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "02 Atendimento iniciado",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I9:3701;1:1563",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "02 Atendimento iniciado",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Paciente 08:40",
+          "noId": "9:3702",
+          "detalhe": "razao 1.07:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "02 Atendimento iniciado",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I9:3702;1:1678;1:2177;1:755",
+          "detalhe": "razao 2.83:1 (minimo 4.5:1) sobre fundo #FFBFD1"
+        },
+        {
+          "prototipo": "02 Atendimento iniciado",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Dérick Cabral Castanheira",
+          "noId": "I9:3702;1:1686",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "02 Atendimento iniciado",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "I9:3702;1:1687",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "02 Atendimento iniciado",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I9:3702;1:1695",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "02 Atendimento iniciado",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Paciente 09:00",
+          "noId": "9:3703",
+          "detalhe": "razao 1.07:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "02 Atendimento iniciado",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I9:3703;1:1387;1:2159;1:650",
+          "detalhe": "razao 1.32:1 (minimo 4.5:1) sobre fundo #E0E4EC"
+        },
+        {
+          "prototipo": "02 Atendimento iniciado",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Dérick Cabral Castanheira",
+          "noId": "I9:3703;1:1395",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "02 Atendimento iniciado",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "I9:3703;1:1396",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "02 Atendimento iniciado",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "I9:3703;1:1398",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "02 Atendimento iniciado",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "07:50",
+          "noId": "I9:3703;1:1401",
+          "detalhe": "razao 1.68:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "02 Atendimento iniciado",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I9:3703;1:1409",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "02 Atendimento iniciado",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Paciente 09:20",
+          "noId": "9:3704",
+          "detalhe": "razao 1.07:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "02 Atendimento iniciado",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Dérick Cabral Castanheira",
+          "noId": "I9:3704;1:1395",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "02 Atendimento iniciado",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "I9:3704;1:1396",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "02 Atendimento iniciado",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "I9:3704;1:1398",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "02 Atendimento iniciado",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "07:50",
+          "noId": "I9:3704;1:1401",
+          "detalhe": "razao 1.68:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "02 Atendimento iniciado",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I9:3704;1:1409",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "02 Atendimento iniciado",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Paciente 09:40",
+          "noId": "9:3705",
+          "detalhe": "razao 1.07:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "02 Atendimento iniciado",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Dérick Cabral Castanheira",
+          "noId": "I9:3705;1:1373",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "02 Atendimento iniciado",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "I9:3705;1:1374",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "02 Atendimento iniciado",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I9:3705;1:1383",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "02 Atendimento iniciado",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Paciente 10:00",
+          "noId": "9:3706",
+          "detalhe": "razao 1.07:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "02 Atendimento iniciado",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Dérick Cabral Castanheira",
+          "noId": "I9:3706;1:1373",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "02 Atendimento iniciado",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "I9:3706;1:1374",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "02 Atendimento iniciado",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I9:3706;1:1377;1:2228;1:414",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "02 Atendimento iniciado",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I9:3706;1:1383",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "02 Atendimento iniciado",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Paciente 10:20",
+          "noId": "9:3707",
+          "detalhe": "razao 1.07:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "02 Atendimento iniciado",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I9:3707;1:1371;1:2260;1:2206;1:2297",
+          "detalhe": "razao 2.02:1 (minimo 4.5:1) sobre fundo #65C997"
+        },
+        {
+          "prototipo": "02 Atendimento iniciado",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Dérick Cabral Castanheira",
+          "noId": "I9:3707;1:1373",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "02 Atendimento iniciado",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "I9:3707;1:1374",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "02 Atendimento iniciado",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I9:3707;1:1383",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        }
+      ]
+    }
+  ]
+}

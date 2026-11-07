@@ -1,0 +1,41 @@
+prototipo,criterio,gravidade,no,noId,detalhe
+01 Registro da consulta (inicial),contraste_componente_1.4.11,reprova,Menu,19:2174,razao 1.00:1 (minimo 3:1)
+01 Registro da consulta (inicial),aderencia_design_system,alerta,Vector,"I19:2174;1:2661;1:2705","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+01 Registro da consulta (inicial),aderencia_design_system,alerta,Vector,"I19:2174;1:2661;1:2707","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+01 Registro da consulta (inicial),aderencia_design_system,alerta,Vector,"I19:2174;1:2661;1:2708","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+01 Registro da consulta (inicial),aderencia_design_system,alerta,Vector,"I19:2174;1:2661;1:2709","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+01 Registro da consulta (inicial),contraste_texto_1.4.3,reprova,Menu Item,"I19:2174;1:2662;1:3169;1:3273",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+01 Registro da consulta (inicial),contraste_texto_1.4.3,reprova,Maria Cristina,"I19:2174;1:2664;1:3289",razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+01 Registro da consulta (inicial),contraste_texto_1.4.3,reprova,Consultório Campo Largo,"I19:2174;1:2664;1:3294",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+01 Registro da consulta (inicial),aderencia_design_system,alerta,Ellipse 3,"I19:2174;1:2664;1:3296;1:2954","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+01 Registro da consulta (inicial),contraste_texto_1.4.3,reprova,Label,"I19:2174;1:2665;1:3327",razao 4.36:1 (minimo 4.5:1) sobre fundo #FFFFFF
+01 Registro da consulta (inicial),contraste_componente_1.4.11,reprova,Page Header,19:2250,razao 1.07:1 (minimo 3:1)
+01 Registro da consulta (inicial),contraste_texto_1.4.3,reprova,Label,"I19:2250;1:2733;346:9110",razao 2.88:1 (minimo 4.5:1) sobre fundo #F5F7FC
+01 Registro da consulta (inicial),contraste_texto_1.4.3,reprova,mask,"I20:2298;1:1027;1:3009",razao 2.91:1 (minimo 4.5:1) sobre fundo #F5F7FC
+01 Registro da consulta (inicial),contraste_texto_1.4.3,reprova,mask,"I20:2307;1:1027;1:3009",razao 2.91:1 (minimo 4.5:1) sobre fundo #F5F7FC
+01 Registro da consulta (inicial),contraste_texto_1.4.3,reprova,mask,"I20:2316;1:1027;1:3009",razao 2.91:1 (minimo 4.5:1) sobre fundo #F5F7FC
+01 Registro da consulta (inicial),contraste_texto_1.4.3,reprova,mask,"I20:2325;1:1027;1:3009",razao 2.91:1 (minimo 4.5:1) sobre fundo #F5F7FC
+01 Registro da consulta (inicial),contraste_texto_1.4.3,reprova,mask,"I20:2365;1:1116;1:3021",razao 2.91:1 (minimo 4.5:1) sobre fundo #F5F7FC
+01 Registro da consulta (inicial),contraste_componente_1.4.11,reprova,Alerta de alergia,20:2383,razao 1.14:1 (minimo 3:1)
+01 Registro da consulta (inicial),contraste_texto_1.4.3,reprova,mask,"I20:2394;1:1027;1:3009",razao 2.91:1 (minimo 4.5:1) sobre fundo #F5F7FC
+01 Registro da consulta (inicial),contraste_texto_1.4.3,reprova,mask,"I20:2403;1:1027;1:3009",razao 2.91:1 (minimo 4.5:1) sobre fundo #F5F7FC
+01 Registro da consulta (inicial),contraste_texto_1.4.3,reprova,mask,"I20:2413;1:1027;1:3009",razao 2.91:1 (minimo 4.5:1) sobre fundo #F5F7FC
+01 Registro da consulta (inicial),contraste_texto_1.4.3,reprova,mask,"I20:2422;1:1116;1:3021",razao 2.91:1 (minimo 4.5:1) sobre fundo #F5F7FC
+01 Registro da consulta (inicial),contraste_texto_1.4.3,reprova,Label,"I20:2432;1:440",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+01 Registro da consulta (inicial),contraste_texto_1.4.3,reprova,Label,"I19:2273;1:414",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+01 Registro da consulta (inicial),contraste_texto_1.4.3,reprova,Label,"I19:2279;1:367",razao 1.32:1 (minimo 4.5:1) sobre fundo #E0E4EC
+02 Registro da consulta (preenchido),contraste_componente_1.4.11,reprova,Menu,21:2410,razao 1.00:1 (minimo 3:1)
+02 Registro da consulta (preenchido),aderencia_design_system,alerta,Vector,"I21:2410;1:2661;1:2705","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+02 Registro da consulta (preenchido),aderencia_design_system,alerta,Vector,"I21:2410;1:2661;1:2707","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+02 Registro da consulta (preenchido),aderencia_design_system,alerta,Vector,"I21:2410;1:2661;1:2708","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+02 Registro da consulta (preenchido),aderencia_design_system,alerta,Vector,"I21:2410;1:2661;1:2709","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+02 Registro da consulta (preenchido),contraste_texto_1.4.3,reprova,Menu Item,"I21:2410;1:2662;1:3169;1:3273",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+02 Registro da consulta (preenchido),contraste_texto_1.4.3,reprova,Maria Cristina,"I21:2410;1:2664;1:3289",razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+02 Registro da consulta (preenchido),contraste_texto_1.4.3,reprova,Consultório Campo Largo,"I21:2410;1:2664;1:3294",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+02 Registro da consulta (preenchido),aderencia_design_system,alerta,Ellipse 3,"I21:2410;1:2664;1:3296;1:2954","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+02 Registro da consulta (preenchido),contraste_texto_1.4.3,reprova,Label,"I21:2410;1:2665;1:3327",razao 4.36:1 (minimo 4.5:1) sobre fundo #FFFFFF
+02 Registro da consulta (preenchido),contraste_componente_1.4.11,reprova,Page Header,21:2411,razao 1.07:1 (minimo 3:1)
+02 Registro da consulta (preenchido),contraste_texto_1.4.3,reprova,Label,"I21:2411;1:2733;346:9110",razao 2.88:1 (minimo 4.5:1) sobre fundo #F5F7FC
+02 Registro da consulta (preenchido),contraste_componente_1.4.11,reprova,Alerta de alergia,21:2434,razao 1.14:1 (minimo 3:1)
+02 Registro da consulta (preenchido),contraste_texto_1.4.3,reprova,Label,"I21:2442;1:440",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+02 Registro da consulta (preenchido),contraste_texto_1.4.3,reprova,Label,"I21:2444;1:414",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF

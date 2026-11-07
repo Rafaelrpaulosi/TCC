@@ -1,0 +1,49 @@
+execucao,clipe,inicio_clipe,cron_inicio,cron_fim,obs
+sem bloco,Gravacao de Tela 2026-10-08 145000.mp4,2026-10-08 14:46:58,00:00:00.00,00:00:00.00,arquivo do DS aberto; cronometro nao iniciado
+B1-A-01,atendimento 01.mp4,2026-10-08 15:24:00,00:00:00.00,00:02:36.48,
+B1-A-01,atendimento bloco 01 parte 02.mp4,2026-10-08 15:40:30,00:16:27.80,00:18:27.64,cronometro parado antes do fim do clipe
+sem bloco,Gravacao de Tela 2026-10-08 161650.mp4,2026-10-08 16:13:40,00:00:00.00,00:01:56.08,pagina B2-A-01 vazia; cronometro depois zerado
+B2-A-01,DADOS PACIENTE INICIO.mp4,2026-10-08 16:35:06,00:00:00.00,00:02:25.99,
+B2-A-01,DADOS PACIENTE 2.mp4,2026-10-08 16:45:21,00:10:10.00,00:13:24.24,cron_inicio estimado por leitura em t=5 s (00:10:15.19)
+B2-A-01,DADOS PACIENTE 3.mp4,2026-10-08 16:57:26,00:22:15.60,00:24:28.48,
+B2-A-01,DADOS PACIENTE 4.mp4,2026-10-08 17:41:40,00:30:54.84,00:33:37.10,cronometro parado no primeiro quadro e retomado em seguida
+B2-A-01,Gravacao de Tela 2026-10-08 180217.mp4,2026-10-08 17:53:37,00:42:51.36,00:50:43.15,
+B2-A-01,DADOS PACIENTE 5.mp4,2026-10-08 18:04:43,00:53:34.88,00:54:21.65,
+B3-A-01,Registro da consulta 01.mp4,2026-10-09 06:35:30,00:00:00.00,00:00:00.00,
+B3-A-01,Registro da consulta 01.01.mp4,2026-10-09 06:38:57,00:00:00.00,00:02:13.41,video congelado no fim
+B3-A-01,Registro da consulta 02.mp4,2026-10-09 06:45:16,00:06:18.45,00:13:18.37,
+B3-A-01,Registro da consulta 03.mp4,2026-10-09 06:57:25,00:18:27.86,00:20:55.79,
+B4-A-01,Relatorio de consulta.mp4,2026-10-09 07:12:38,00:00:00.00,00:03:39.59,
+B4-A-01,Relatorio de consulta 2.mp4,2026-10-09 07:22:04,00:09:25.20,00:13:05.88,
+B4-A-01,Registro da consulta 04.mp4,2026-10-09 07:27:44,00:15:05.13,00:17:04.84,
+B4-A-01,Registro da consulta 05.mp4,2026-10-09 07:41:10,00:23:38.63,00:24:28.32,
+B4-A-01,Registro da consulta 06.mp4,2026-10-09 07:47:36,00:30:04.45,00:31:13.08,
+B4-A-01,Registro da consulta 07.mp4,2026-10-09 07:50:47,00:33:15.20,00:34:51.83,
+B4-A-01,Registro da consulta 08.mp4,2026-10-09 07:54:56,00:37:24.63,00:38:59.55,
+B4-A-01,Registro da consulta 09.mp4,2026-10-09 07:58:34,00:41:01.96,00:41:57.60,
+B4-A-01,Registro da consulta 10.mp4,2026-10-09 08:04:12,00:46:39.62,00:47:49.14,
+B4-A-01,Registro da consulta 11.mp4,2026-10-09 08:23:37,00:49:22.61,00:50:05.32,trecho reaberto apos o primeiro fechamento
+B5-A-01,FINALIZAR ATENDIMENTO.mp4,2026-10-09 08:36:35,00:00:00.00,00:00:33.68,
+B5-A-01,finalizar atendimento 02.mp4,2026-10-09 08:41:05,00:04:25.89,00:06:23.76,
+B5-A-01,finalizar atendimento 03.mp4,2026-10-09 08:47:50,00:11:11.69,00:12:52.61,
+B5-A-01,finalizar atendimento 04.mp4,2026-10-09 08:54:55,00:18:16.42,00:19:44.11,
+B1-B-01,Teste com IA/Bloco 1 .mp4,2026-10-09 10:48:52,00:00:00.00,00:01:26.42,
+B1-B-01,Teste com IA/Bloco 1 02.mp4,2026-10-09 10:52:51,00:03:56.99,00:08:01.76,
+B1-B-01,Gravacao de Tela 2026-10-09 110214.mp4,2026-10-09 11:01:39,00:12:44.69,00:13:16.53,cronometro parado no fim do clipe; agente aguardando validacao
+B1-B-01,Teste com IA/Bloco 1 03.mp4,2026-10-09 11:13:03,00:17:50.99,00:19:54.84,correcao digitada e apagada antes de aprovar
+B2-B-01,Teste com IA/bloco 02.mp4,2026-10-09 11:22:00,00:00:00.00,00:01:45.53,
+B2-B-01,Teste com IA/bloco 02 01.mp4,2026-10-09 11:25:17,00:03:16.08,00:05:52.96,
+B2-B-01,Teste com IA/bloco 02 ok.mp4,2026-10-09 11:33:30,00:11:28.53,00:13:57.41,
+B2-B-01,Teste com IA/bloco 02 ultimo.mp4,2026-10-09 11:38:00,00:14:39.62,00:16:31.22,
+B3-B-01,Teste com IA/bloco 03.mp4,2026-10-09 13:23:00,00:00:00.00,00:01:44.35,
+B3-B-01,Teste com IA/bloco 03 01.mp4,2026-10-09 13:28:08,00:05:07.48,00:07:43.38,
+B3-B-01,Teste com IA/bloco 03 02.mp4,2026-10-09 13:35:18,00:12:17.09,00:14:10.96,
+B4-B-01,Teste com IA/bloco 04.mp4,2026-10-09 13:50:00,00:00:00.00,00:01:30.51,
+B4-B-01,Teste com IA/bloco 04 02.mp4,2026-10-09 13:54:13,00:04:11.19,00:10:06.94,
+B5-B-01,Teste com IA/bloco 05.mp4,2026-10-09 14:18:16,00:00:00.19,00:01:38.92,
+B1-C-01,teste IA C/Bloco 01.mp4,2026-10-09 15:37:35,00:00:00.24,00:00:40.09,
+B1-C-01,teste IA C/Bloco 01 2.mp4,2026-10-09 15:40:42,00:03:07.98,00:03:47.77,
+B2-C-01,teste IA C/bloco 02.mp4,2026-10-09 16:01:41,00:00:00.00,00:01:05.03,
+B3-C-01,teste IA C/bloco 03.mp4,2026-10-09 16:23:48,00:00:00.00,00:02:33.66,
+B4-C-01,teste IA C/bloco 04.mp4,2026-10-09 16:40:48,00:00:00.00,00:04:07.38,
+B5-C-01,teste IA C/bloco 05.mp4,2026-10-09 17:01:58,00:00:00.00,00:01:51.45,

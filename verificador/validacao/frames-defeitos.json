@@ -1,0 +1,724 @@
+{
+  "name": "Validacao Verificador - Defeitos Injetados",
+  "document": {
+    "id": "0:0",
+    "name": "Document",
+    "type": "DOCUMENT",
+    "children": [
+      {
+        "id": "0:1",
+        "name": "Pagina 1",
+        "type": "CANVAS",
+        "children": [
+          {
+            "id": "1:1",
+            "name": "F01_texto_normal_ok",
+            "type": "FRAME",
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "color": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1
+                },
+                "opacity": 1
+              }
+            ],
+            "absoluteBoundingBox": {
+              "x": 0,
+              "y": 0,
+              "width": 375,
+              "height": 812
+            },
+            "children": [
+              {
+                "id": "1:11",
+                "name": "titulo",
+                "type": "TEXT",
+                "characters": "Amostra",
+                "fills": [
+                  {
+                    "type": "SOLID",
+                    "visible": true,
+                    "color": {
+                      "r": 0,
+                      "g": 0,
+                      "b": 0
+                    },
+                    "opacity": 1
+                  }
+                ],
+                "style": {
+                  "fontSize": 16,
+                  "fontWeight": 400
+                },
+                "styles": {
+                  "fill": "S:tok"
+                }
+              }
+            ]
+          },
+          {
+            "id": "1:2",
+            "name": "F02_texto_normal_baixo_contraste",
+            "type": "FRAME",
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "color": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1
+                },
+                "opacity": 1
+              }
+            ],
+            "absoluteBoundingBox": {
+              "x": 0,
+              "y": 0,
+              "width": 375,
+              "height": 812
+            },
+            "children": [
+              {
+                "id": "1:21",
+                "name": "titulo",
+                "type": "TEXT",
+                "characters": "Amostra",
+                "fills": [
+                  {
+                    "type": "SOLID",
+                    "visible": true,
+                    "color": {
+                      "r": 0.8666666666666667,
+                      "g": 0.8666666666666667,
+                      "b": 0.8666666666666667
+                    },
+                    "opacity": 1
+                  }
+                ],
+                "style": {
+                  "fontSize": 16,
+                  "fontWeight": 400
+                },
+                "styles": {
+                  "fill": "S:tok"
+                }
+              }
+            ]
+          },
+          {
+            "id": "1:3",
+            "name": "F03_texto_grande_no_limiar",
+            "type": "FRAME",
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "color": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1
+                },
+                "opacity": 1
+              }
+            ],
+            "absoluteBoundingBox": {
+              "x": 0,
+              "y": 0,
+              "width": 375,
+              "height": 812
+            },
+            "children": [
+              {
+                "id": "1:31",
+                "name": "titulo",
+                "type": "TEXT",
+                "characters": "Amostra",
+                "fills": [
+                  {
+                    "type": "SOLID",
+                    "visible": true,
+                    "color": {
+                      "r": 0.5372549019607843,
+                      "g": 0.5372549019607843,
+                      "b": 0.5372549019607843
+                    },
+                    "opacity": 1
+                  }
+                ],
+                "style": {
+                  "fontSize": 40,
+                  "fontWeight": 400
+                },
+                "styles": {
+                  "fill": "S:tok"
+                }
+              }
+            ]
+          },
+          {
+            "id": "1:4",
+            "name": "F04_texto_pequeno_mesmo_cinza_reprova",
+            "type": "FRAME",
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "color": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1
+                },
+                "opacity": 1
+              }
+            ],
+            "absoluteBoundingBox": {
+              "x": 0,
+              "y": 0,
+              "width": 375,
+              "height": 812
+            },
+            "children": [
+              {
+                "id": "1:41",
+                "name": "nota",
+                "type": "TEXT",
+                "characters": "Amostra",
+                "fills": [
+                  {
+                    "type": "SOLID",
+                    "visible": true,
+                    "color": {
+                      "r": 0.5372549019607843,
+                      "g": 0.5372549019607843,
+                      "b": 0.5372549019607843
+                    },
+                    "opacity": 1
+                  }
+                ],
+                "style": {
+                  "fontSize": 14,
+                  "fontWeight": 400
+                },
+                "styles": {
+                  "fill": "S:tok"
+                }
+              }
+            ]
+          },
+          {
+            "id": "1:5",
+            "name": "F05_botao_alvo_pequeno",
+            "type": "FRAME",
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "color": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1
+                },
+                "opacity": 1
+              }
+            ],
+            "absoluteBoundingBox": {
+              "x": 0,
+              "y": 0,
+              "width": 375,
+              "height": 812
+            },
+            "children": [
+              {
+                "id": "1:51",
+                "name": "Botao Confirmar",
+                "type": "INSTANCE",
+                "fills": [
+                  {
+                    "type": "SOLID",
+                    "visible": true,
+                    "color": {
+                      "r": 0.043137254901960784,
+                      "g": 0.37254901960784315,
+                      "b": 0.7490196078431373
+                    },
+                    "opacity": 1
+                  }
+                ],
+                "absoluteBoundingBox": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 18,
+                  "height": 18
+                },
+                "componentId": "C:btn",
+                "styles": {
+                  "fill": "S:tok"
+                }
+              }
+            ]
+          },
+          {
+            "id": "1:6",
+            "name": "F06_botao_alvo_ok",
+            "type": "FRAME",
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "color": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1
+                },
+                "opacity": 1
+              }
+            ],
+            "absoluteBoundingBox": {
+              "x": 0,
+              "y": 0,
+              "width": 375,
+              "height": 812
+            },
+            "children": [
+              {
+                "id": "1:61",
+                "name": "Botao Confirmar",
+                "type": "INSTANCE",
+                "fills": [
+                  {
+                    "type": "SOLID",
+                    "visible": true,
+                    "color": {
+                      "r": 0.043137254901960784,
+                      "g": 0.37254901960784315,
+                      "b": 0.7490196078431373
+                    },
+                    "opacity": 1
+                  }
+                ],
+                "absoluteBoundingBox": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 48,
+                  "height": 40
+                },
+                "componentId": "C:btn",
+                "styles": {
+                  "fill": "S:tok"
+                }
+              }
+            ]
+          },
+          {
+            "id": "1:7",
+            "name": "F07_componente_baixo_contraste",
+            "type": "FRAME",
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "color": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1
+                },
+                "opacity": 1
+              }
+            ],
+            "absoluteBoundingBox": {
+              "x": 0,
+              "y": 0,
+              "width": 375,
+              "height": 812
+            },
+            "children": [
+              {
+                "id": "1:71",
+                "name": "Botao Secundario",
+                "type": "INSTANCE",
+                "fills": [
+                  {
+                    "type": "SOLID",
+                    "visible": true,
+                    "color": {
+                      "r": 0.8784313725490196,
+                      "g": 0.8784313725490196,
+                      "b": 0.8784313725490196
+                    },
+                    "opacity": 1
+                  }
+                ],
+                "absoluteBoundingBox": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 120,
+                  "height": 44
+                },
+                "componentId": "C:btn",
+                "styles": {
+                  "fill": "S:tok"
+                }
+              }
+            ]
+          },
+          {
+            "id": "1:8",
+            "name": "F08_cor_fora_do_token",
+            "type": "FRAME",
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "color": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1
+                },
+                "opacity": 1
+              }
+            ],
+            "absoluteBoundingBox": {
+              "x": 0,
+              "y": 0,
+              "width": 375,
+              "height": 812
+            },
+            "children": [
+              {
+                "id": "1:81",
+                "name": "faixa-decorativa",
+                "type": "RECTANGLE",
+                "fills": [
+                  {
+                    "type": "SOLID",
+                    "visible": true,
+                    "color": {
+                      "r": 0.49019607843137253,
+                      "g": 0.16470588235294117,
+                      "b": 0.9098039215686274
+                    },
+                    "opacity": 1
+                  }
+                ],
+                "absoluteBoundingBox": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 100,
+                  "height": 40
+                },
+                "styles": {
+                  "fill": "S:tok"
+                }
+              }
+            ]
+          },
+          {
+            "id": "1:9",
+            "name": "F09_tamanho_fonte_fora_do_token",
+            "type": "FRAME",
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "color": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1
+                },
+                "opacity": 1
+              }
+            ],
+            "absoluteBoundingBox": {
+              "x": 0,
+              "y": 0,
+              "width": 375,
+              "height": 812
+            },
+            "children": [
+              {
+                "id": "1:91",
+                "name": "legenda",
+                "type": "TEXT",
+                "characters": "Amostra",
+                "fills": [
+                  {
+                    "type": "SOLID",
+                    "visible": true,
+                    "color": {
+                      "r": 0,
+                      "g": 0,
+                      "b": 0
+                    },
+                    "opacity": 1
+                  }
+                ],
+                "style": {
+                  "fontSize": 15,
+                  "fontWeight": 400
+                },
+                "styles": {
+                  "fill": "S:tok"
+                }
+              }
+            ]
+          },
+          {
+            "id": "1:10",
+            "name": "F10_aderencia_baixa",
+            "type": "FRAME",
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "color": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1
+                },
+                "opacity": 1
+              }
+            ],
+            "absoluteBoundingBox": {
+              "x": 0,
+              "y": 0,
+              "width": 375,
+              "height": 812
+            },
+            "children": [
+              {
+                "id": "1:101",
+                "name": "retangulo-solto-a",
+                "type": "RECTANGLE",
+                "fills": [
+                  {
+                    "type": "SOLID",
+                    "visible": true,
+                    "color": {
+                      "r": 0,
+                      "g": 0,
+                      "b": 0
+                    },
+                    "opacity": 1
+                  }
+                ],
+                "absoluteBoundingBox": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 100,
+                  "height": 40
+                }
+              },
+              {
+                "id": "1:102",
+                "name": "retangulo-solto-b",
+                "type": "RECTANGLE",
+                "fills": [
+                  {
+                    "type": "SOLID",
+                    "visible": true,
+                    "color": {
+                      "r": 0,
+                      "g": 0,
+                      "b": 0
+                    },
+                    "opacity": 1
+                  }
+                ],
+                "absoluteBoundingBox": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 100,
+                  "height": 40
+                }
+              },
+              {
+                "id": "1:103",
+                "name": "retangulo-solto-c",
+                "type": "RECTANGLE",
+                "fills": [
+                  {
+                    "type": "SOLID",
+                    "visible": true,
+                    "color": {
+                      "r": 0,
+                      "g": 0,
+                      "b": 0
+                    },
+                    "opacity": 1
+                  }
+                ],
+                "absoluteBoundingBox": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 100,
+                  "height": 40
+                }
+              }
+            ]
+          },
+          {
+            "id": "1:11",
+            "name": "F11_aderencia_alta",
+            "type": "FRAME",
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "color": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1
+                },
+                "opacity": 1
+              }
+            ],
+            "absoluteBoundingBox": {
+              "x": 0,
+              "y": 0,
+              "width": 375,
+              "height": 812
+            },
+            "children": [
+              {
+                "id": "1:111",
+                "name": "Item Lista",
+                "type": "INSTANCE",
+                "fills": [
+                  {
+                    "type": "SOLID",
+                    "visible": true,
+                    "color": {
+                      "r": 0.043137254901960784,
+                      "g": 0.37254901960784315,
+                      "b": 0.7490196078431373
+                    },
+                    "opacity": 1
+                  }
+                ],
+                "absoluteBoundingBox": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 300,
+                  "height": 56
+                },
+                "componentId": "C:item",
+                "styles": {
+                  "fill": "S:tok"
+                }
+              },
+              {
+                "id": "1:112",
+                "name": "Item Lista",
+                "type": "INSTANCE",
+                "fills": [
+                  {
+                    "type": "SOLID",
+                    "visible": true,
+                    "color": {
+                      "r": 0.043137254901960784,
+                      "g": 0.37254901960784315,
+                      "b": 0.7490196078431373
+                    },
+                    "opacity": 1
+                  }
+                ],
+                "absoluteBoundingBox": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 300,
+                  "height": 56
+                },
+                "componentId": "C:item",
+                "styles": {
+                  "fill": "S:tok"
+                }
+              }
+            ]
+          },
+          {
+            "id": "1:12",
+            "name": "F12_multiplos_defeitos",
+            "type": "FRAME",
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "color": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1
+                },
+                "opacity": 1
+              }
+            ],
+            "absoluteBoundingBox": {
+              "x": 0,
+              "y": 0,
+              "width": 375,
+              "height": 812
+            },
+            "children": [
+              {
+                "id": "1:121",
+                "name": "titulo",
+                "type": "TEXT",
+                "characters": "Amostra",
+                "fills": [
+                  {
+                    "type": "SOLID",
+                    "visible": true,
+                    "color": {
+                      "r": 0.8666666666666667,
+                      "g": 0.8666666666666667,
+                      "b": 0.8666666666666667
+                    },
+                    "opacity": 1
+                  }
+                ],
+                "style": {
+                  "fontSize": 16,
+                  "fontWeight": 400
+                },
+                "styles": {
+                  "fill": "S:tok"
+                }
+              },
+              {
+                "id": "1:122",
+                "name": "Botao Salvar",
+                "type": "INSTANCE",
+                "fills": [
+                  {
+                    "type": "SOLID",
+                    "visible": true,
+                    "color": {
+                      "r": 0.8784313725490196,
+                      "g": 0.8784313725490196,
+                      "b": 0.8784313725490196
+                    },
+                    "opacity": 1
+                  }
+                ],
+                "absoluteBoundingBox": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 16,
+                  "height": 16
+                },
+                "componentId": "C:btn",
+                "styles": {
+                  "fill": "S:tok"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

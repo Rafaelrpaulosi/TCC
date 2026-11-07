@@ -1,0 +1,552 @@
+{
+  "gerado_em": "2026-10-09T16:41:32.552Z",
+  "fonte": "figma:[chave do arquivo do Ambiente B]:34:2173,37:2458",
+  "fileKey": "[chave do arquivo do Ambiente B]",
+  "total_prototipos": 2,
+  "prototipos": [
+    {
+      "prototipo": "Registro da consulta / Vazio",
+      "prototipoId": "34:2173",
+      "metricas": {
+        "densidade_total_nos": 254,
+        "textos_total": 65,
+        "textos_aprovados_contraste": 46,
+        "textos_pct_conformidade_1_4_3": 70.77,
+        "componentes_total": 16,
+        "componentes_aprovados_contraste": 12,
+        "componentes_pct_conformidade_1_4_11": 75,
+        "alvos_toque_total": 16,
+        "alvos_toque_aprovados": 13,
+        "alvos_toque_pct_conformidade_2_5_8": 81.25,
+        "aderencia_design_system_pct": 96.99,
+        "aderencia_nos_aderentes": 161,
+        "aderencia_nos_elegiveis": 166,
+        "cores_distintas_fora_token": 17,
+        "tamanhos_fonte_distintos_fora_token": 6
+      },
+      "valoresForaToken": {
+        "cores": [
+          "#000000",
+          "#003F1A",
+          "#144027",
+          "#1A1D22",
+          "#54A275",
+          "#594600",
+          "#5D6066",
+          "#8F9299",
+          "#A1D6B7",
+          "#B1D349",
+          "#C4C8D0",
+          "#E0E4EC",
+          "#ED1450",
+          "#EFFFBF",
+          "#F5F7FC",
+          "#FEF0BE",
+          "#FFFFFF"
+        ],
+        "tamanhosFonte": [
+          8,
+          11,
+          12,
+          14,
+          16,
+          22
+        ]
+      },
+      "findings": [
+        {
+          "prototipo": "Registro da consulta / Vazio",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Menu",
+          "noId": "34:2174",
+          "detalhe": "razao 1.07:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "Registro da consulta / Vazio",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Vector",
+          "noId": "I34:2174;4:2623;4:2667",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "Registro da consulta / Vazio",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Vector",
+          "noId": "I34:2174;4:2623;4:2669",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "Registro da consulta / Vazio",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Vector",
+          "noId": "I34:2174;4:2623;4:2670",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "Registro da consulta / Vazio",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Vector",
+          "noId": "I34:2174;4:2623;4:2671",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "Registro da consulta / Vazio",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Maria Cristina",
+          "noId": "I34:2174;4:2626;4:3272",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "Registro da consulta / Vazio",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Consultório Campo Largo",
+          "noId": "I34:2174;4:2626;4:3277",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "Registro da consulta / Vazio",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Ellipse 3",
+          "noId": "I34:2174;4:2626;4:3279;4:2916",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "Registro da consulta / Vazio",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I34:2174;4:2627;4:3310",
+          "detalhe": "razao 4.36:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "Registro da consulta / Vazio",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Page Header",
+          "noId": "34:2245",
+          "detalhe": "razao 1.00:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "Registro da consulta / Vazio",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I34:2245;4:2695;346:9110",
+          "detalhe": "razao 2.88:1 (minimo 4.5:1) sobre fundo #F5F7FC"
+        },
+        {
+          "prototipo": "Registro da consulta / Vazio",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Tag/Color",
+          "noId": "34:2272",
+          "detalhe": "razao 1.14:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "Registro da consulta / Vazio",
+          "criterio": "alvo_toque_2.5.8",
+          "gravidade": "reprova",
+          "no": "Tag/Color",
+          "noId": "34:2272",
+          "detalhe": "110x23 px (minimo 24x24)"
+        },
+        {
+          "prototipo": "Registro da consulta / Vazio",
+          "criterio": "alvo_toque_2.5.8",
+          "gravidade": "reprova",
+          "no": "Tag/Grayscale",
+          "noId": "34:2276",
+          "detalhe": "109x23 px (minimo 24x24)"
+        },
+        {
+          "prototipo": "Registro da consulta / Vazio",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I34:2276;4:2182",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #8F9299"
+        },
+        {
+          "prototipo": "Registro da consulta / Vazio",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Tag/Color",
+          "noId": "34:2280",
+          "detalhe": "razao 1.64:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "Registro da consulta / Vazio",
+          "criterio": "alvo_toque_2.5.8",
+          "gravidade": "reprova",
+          "no": "Tag/Color",
+          "noId": "34:2280",
+          "detalhe": "109x23 px (minimo 24x24)"
+        },
+        {
+          "prototipo": "Registro da consulta / Vazio",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "mask",
+          "noId": "I36:2316;4:912;4:2971",
+          "detalhe": "razao 2.91:1 (minimo 4.5:1) sobre fundo #F5F7FC"
+        },
+        {
+          "prototipo": "Registro da consulta / Vazio",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "mask",
+          "noId": "I36:2325;4:912;4:2971",
+          "detalhe": "razao 2.91:1 (minimo 4.5:1) sobre fundo #F5F7FC"
+        },
+        {
+          "prototipo": "Registro da consulta / Vazio",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "mask",
+          "noId": "I36:2334;4:912;4:2971",
+          "detalhe": "razao 2.91:1 (minimo 4.5:1) sobre fundo #F5F7FC"
+        },
+        {
+          "prototipo": "Registro da consulta / Vazio",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "mask",
+          "noId": "I36:2343;4:912;4:2971",
+          "detalhe": "razao 2.91:1 (minimo 4.5:1) sobre fundo #F5F7FC"
+        },
+        {
+          "prototipo": "Registro da consulta / Vazio",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "mask",
+          "noId": "I36:2352;4:912;4:2971",
+          "detalhe": "razao 2.91:1 (minimo 4.5:1) sobre fundo #F5F7FC"
+        },
+        {
+          "prototipo": "Registro da consulta / Vazio",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "mask",
+          "noId": "I36:2361;4:912;4:2971",
+          "detalhe": "razao 2.91:1 (minimo 4.5:1) sobre fundo #F5F7FC"
+        },
+        {
+          "prototipo": "Registro da consulta / Vazio",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "mask",
+          "noId": "I36:2393;4:1001;4:2983",
+          "detalhe": "razao 2.91:1 (minimo 4.5:1) sobre fundo #F5F7FC"
+        },
+        {
+          "prototipo": "Registro da consulta / Vazio",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "mask",
+          "noId": "I36:2406;4:912;4:2971",
+          "detalhe": "razao 2.91:1 (minimo 4.5:1) sobre fundo #F5F7FC"
+        },
+        {
+          "prototipo": "Registro da consulta / Vazio",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "mask",
+          "noId": "I36:2415;4:912;4:2971",
+          "detalhe": "razao 2.91:1 (minimo 4.5:1) sobre fundo #F5F7FC"
+        },
+        {
+          "prototipo": "Registro da consulta / Vazio",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "mask",
+          "noId": "I36:2424;4:1001;4:2983",
+          "detalhe": "razao 2.91:1 (minimo 4.5:1) sobre fundo #F5F7FC"
+        },
+        {
+          "prototipo": "Registro da consulta / Vazio",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "mask",
+          "noId": "I36:2434;4:912;4:2971",
+          "detalhe": "razao 2.91:1 (minimo 4.5:1) sobre fundo #F5F7FC"
+        },
+        {
+          "prototipo": "Registro da consulta / Vazio",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "mask",
+          "noId": "I36:2443;4:912;4:2971",
+          "detalhe": "razao 2.91:1 (minimo 4.5:1) sobre fundo #F5F7FC"
+        },
+        {
+          "prototipo": "Registro da consulta / Vazio",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I36:2452;4:299",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "Registro da consulta / Vazio",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I34:2313;4:299",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        }
+      ]
+    },
+    {
+      "prototipo": "Registro da consulta / Preenchido",
+      "prototipoId": "37:2458",
+      "metricas": {
+        "densidade_total_nos": 294,
+        "textos_total": 72,
+        "textos_aprovados_contraste": 60,
+        "textos_pct_conformidade_1_4_3": 83.33,
+        "componentes_total": 16,
+        "componentes_aprovados_contraste": 12,
+        "componentes_pct_conformidade_1_4_11": 75,
+        "alvos_toque_total": 16,
+        "alvos_toque_aprovados": 13,
+        "alvos_toque_pct_conformidade_2_5_8": 81.25,
+        "aderencia_design_system_pct": 97.51,
+        "aderencia_nos_aderentes": 196,
+        "aderencia_nos_elegiveis": 201,
+        "cores_distintas_fora_token": 17,
+        "tamanhos_fonte_distintos_fora_token": 6
+      },
+      "valoresForaToken": {
+        "cores": [
+          "#000000",
+          "#003F1A",
+          "#144027",
+          "#1A1D22",
+          "#54A275",
+          "#594600",
+          "#5D6066",
+          "#8F9299",
+          "#A1D6B7",
+          "#B1D349",
+          "#C4C8D0",
+          "#E0E4EC",
+          "#ED1450",
+          "#EFFFBF",
+          "#F5F7FC",
+          "#FEF0BE",
+          "#FFFFFF"
+        ],
+        "tamanhosFonte": [
+          8,
+          11,
+          12,
+          14,
+          16,
+          22
+        ]
+      },
+      "findings": [
+        {
+          "prototipo": "Registro da consulta / Preenchido",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Menu",
+          "noId": "37:2459",
+          "detalhe": "razao 1.07:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "Registro da consulta / Preenchido",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Vector",
+          "noId": "I37:2459;4:2623;4:2667",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "Registro da consulta / Preenchido",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Vector",
+          "noId": "I37:2459;4:2623;4:2669",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "Registro da consulta / Preenchido",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Vector",
+          "noId": "I37:2459;4:2623;4:2670",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "Registro da consulta / Preenchido",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Vector",
+          "noId": "I37:2459;4:2623;4:2671",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "Registro da consulta / Preenchido",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Maria Cristina",
+          "noId": "I37:2459;4:2626;4:3272",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "Registro da consulta / Preenchido",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Consultório Campo Largo",
+          "noId": "I37:2459;4:2626;4:3277",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "Registro da consulta / Preenchido",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Ellipse 3",
+          "noId": "I37:2459;4:2626;4:3279;4:2916",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "Registro da consulta / Preenchido",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I37:2459;4:2627;4:3310",
+          "detalhe": "razao 4.36:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "Registro da consulta / Preenchido",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Page Header",
+          "noId": "37:2460",
+          "detalhe": "razao 1.00:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "Registro da consulta / Preenchido",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I37:2460;4:2695;346:9110",
+          "detalhe": "razao 2.88:1 (minimo 4.5:1) sobre fundo #F5F7FC"
+        },
+        {
+          "prototipo": "Registro da consulta / Preenchido",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Tag/Color",
+          "noId": "37:2468",
+          "detalhe": "razao 1.14:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "Registro da consulta / Preenchido",
+          "criterio": "alvo_toque_2.5.8",
+          "gravidade": "reprova",
+          "no": "Tag/Color",
+          "noId": "37:2468",
+          "detalhe": "110x23 px (minimo 24x24)"
+        },
+        {
+          "prototipo": "Registro da consulta / Preenchido",
+          "criterio": "alvo_toque_2.5.8",
+          "gravidade": "reprova",
+          "no": "Tag/Grayscale",
+          "noId": "37:2469",
+          "detalhe": "109x23 px (minimo 24x24)"
+        },
+        {
+          "prototipo": "Registro da consulta / Preenchido",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I37:2469;4:2182",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #8F9299"
+        },
+        {
+          "prototipo": "Registro da consulta / Preenchido",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Tag/Color",
+          "noId": "37:2470",
+          "detalhe": "razao 1.64:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "Registro da consulta / Preenchido",
+          "criterio": "alvo_toque_2.5.8",
+          "gravidade": "reprova",
+          "no": "Tag/Color",
+          "noId": "37:2470",
+          "detalhe": "109x23 px (minimo 24x24)"
+        },
+        {
+          "prototipo": "Registro da consulta / Preenchido",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "mask",
+          "noId": "I37:2502;4:912;4:2971",
+          "detalhe": "razao 2.91:1 (minimo 4.5:1) sobre fundo #F5F7FC"
+        },
+        {
+          "prototipo": "Registro da consulta / Preenchido",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "mask",
+          "noId": "I37:2503;4:912;4:2971",
+          "detalhe": "razao 2.91:1 (minimo 4.5:1) sobre fundo #F5F7FC"
+        },
+        {
+          "prototipo": "Registro da consulta / Preenchido",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "mask",
+          "noId": "I37:2504;4:1001;4:2983",
+          "detalhe": "razao 2.91:1 (minimo 4.5:1) sobre fundo #F5F7FC"
+        },
+        {
+          "prototipo": "Registro da consulta / Preenchido",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "mask",
+          "noId": "I37:2505;4:912;4:2971",
+          "detalhe": "razao 2.91:1 (minimo 4.5:1) sobre fundo #F5F7FC"
+        },
+        {
+          "prototipo": "Registro da consulta / Preenchido",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "mask",
+          "noId": "I37:2506;4:912;4:2971",
+          "detalhe": "razao 2.91:1 (minimo 4.5:1) sobre fundo #F5F7FC"
+        },
+        {
+          "prototipo": "Registro da consulta / Preenchido",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I37:2507;4:299",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "Registro da consulta / Preenchido",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I37:2515;4:299",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,836 @@
+{
+  "gerado_em": "2026-10-09T17:41:25.848Z",
+  "fonte": "figma:[chave do arquivo do Ambiente B]:51:2200,53:2299,55:2398",
+  "fileKey": "[chave do arquivo do Ambiente B]",
+  "total_prototipos": 3,
+  "prototipos": [
+    {
+      "prototipo": "01 Relatório pronto para finalizar",
+      "prototipoId": "51:2200",
+      "metricas": {
+        "densidade_total_nos": 124,
+        "textos_total": 34,
+        "textos_aprovados_contraste": 28,
+        "textos_pct_conformidade_1_4_3": 82.35,
+        "componentes_total": 3,
+        "componentes_aprovados_contraste": 0,
+        "componentes_pct_conformidade_1_4_11": 0,
+        "alvos_toque_total": 3,
+        "alvos_toque_aprovados": 3,
+        "alvos_toque_pct_conformidade_2_5_8": 100,
+        "aderencia_design_system_pct": 94.51,
+        "aderencia_nos_aderentes": 86,
+        "aderencia_nos_elegiveis": 91,
+        "cores_distintas_fora_token": 12,
+        "tamanhos_fonte_distintos_fora_token": 6
+      },
+      "valoresForaToken": {
+        "cores": [
+          "#000000",
+          "#003F1A",
+          "#1A1D22",
+          "#54A275",
+          "#5D6066",
+          "#8F9299",
+          "#B1D349",
+          "#E0E4EC",
+          "#ED1450",
+          "#EFFFBF",
+          "#F5F7FC",
+          "#FFFFFF"
+        ],
+        "tamanhosFonte": [
+          8,
+          11,
+          12,
+          14,
+          16,
+          22
+        ]
+      },
+      "findings": [
+        {
+          "prototipo": "01 Relatório pronto para finalizar",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Menu",
+          "noId": "51:2201",
+          "detalhe": "razao 1.00:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "01 Relatório pronto para finalizar",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Vector",
+          "noId": "I51:2201;4:2623;4:2667",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "01 Relatório pronto para finalizar",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Vector",
+          "noId": "I51:2201;4:2623;4:2669",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "01 Relatório pronto para finalizar",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Vector",
+          "noId": "I51:2201;4:2623;4:2670",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "01 Relatório pronto para finalizar",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Vector",
+          "noId": "I51:2201;4:2623;4:2671",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "01 Relatório pronto para finalizar",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Maria Cristina",
+          "noId": "I51:2201;4:2626;4:3272",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "01 Relatório pronto para finalizar",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Consultório Campo Largo",
+          "noId": "I51:2201;4:2626;4:3277",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "01 Relatório pronto para finalizar",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Ellipse 3",
+          "noId": "I51:2201;4:2626;4:3279;4:2916",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "01 Relatório pronto para finalizar",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I51:2201;4:2627;4:3310",
+          "detalhe": "razao 4.36:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "01 Relatório pronto para finalizar",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Page Header",
+          "noId": "51:2272",
+          "detalhe": "razao 1.07:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "01 Relatório pronto para finalizar",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I51:2272;4:2695;346:9110",
+          "detalhe": "razao 2.88:1 (minimo 4.5:1) sobre fundo #F5F7FC"
+        },
+        {
+          "prototipo": "01 Relatório pronto para finalizar",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Modal",
+          "noId": "51:2291",
+          "detalhe": "razao 1.00:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "01 Relatório pronto para finalizar",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "pi-times",
+          "noId": "I51:2291;4:2587",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "01 Relatório pronto para finalizar",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I51:2291;4:2589;4:3145;346:9110",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        }
+      ]
+    },
+    {
+      "prototipo": "02 Confirmação da finalização",
+      "prototipoId": "53:2299",
+      "metricas": {
+        "densidade_total_nos": 96,
+        "textos_total": 18,
+        "textos_aprovados_contraste": 12,
+        "textos_pct_conformidade_1_4_3": 66.67,
+        "componentes_total": 3,
+        "componentes_aprovados_contraste": 0,
+        "componentes_pct_conformidade_1_4_11": 0,
+        "alvos_toque_total": 3,
+        "alvos_toque_aprovados": 3,
+        "alvos_toque_pct_conformidade_2_5_8": 100,
+        "aderencia_design_system_pct": 93.24,
+        "aderencia_nos_aderentes": 69,
+        "aderencia_nos_elegiveis": 74,
+        "cores_distintas_fora_token": 12,
+        "tamanhos_fonte_distintos_fora_token": 6
+      },
+      "valoresForaToken": {
+        "cores": [
+          "#000000",
+          "#003F1A",
+          "#1A1D22",
+          "#54A275",
+          "#5D6066",
+          "#8F9299",
+          "#B1D349",
+          "#E0E4EC",
+          "#ED1450",
+          "#EFFFBF",
+          "#F5F7FC",
+          "#FFFFFF"
+        ],
+        "tamanhosFonte": [
+          8,
+          11,
+          12,
+          14,
+          16,
+          22
+        ]
+      },
+      "findings": [
+        {
+          "prototipo": "02 Confirmação da finalização",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Menu",
+          "noId": "53:2300",
+          "detalhe": "razao 1.00:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "02 Confirmação da finalização",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Vector",
+          "noId": "I53:2300;4:2623;4:2667",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "02 Confirmação da finalização",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Vector",
+          "noId": "I53:2300;4:2623;4:2669",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "02 Confirmação da finalização",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Vector",
+          "noId": "I53:2300;4:2623;4:2670",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "02 Confirmação da finalização",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Vector",
+          "noId": "I53:2300;4:2623;4:2671",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "02 Confirmação da finalização",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Maria Cristina",
+          "noId": "I53:2300;4:2626;4:3272",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "02 Confirmação da finalização",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Consultório Campo Largo",
+          "noId": "I53:2300;4:2626;4:3277",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "02 Confirmação da finalização",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Ellipse 3",
+          "noId": "I53:2300;4:2626;4:3279;4:2916",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "02 Confirmação da finalização",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I53:2300;4:2627;4:3310",
+          "detalhe": "razao 4.36:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "02 Confirmação da finalização",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Page Header",
+          "noId": "53:2371",
+          "detalhe": "razao 1.07:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "02 Confirmação da finalização",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I53:2371;4:2695;346:9110",
+          "detalhe": "razao 2.88:1 (minimo 4.5:1) sobre fundo #F5F7FC"
+        },
+        {
+          "prototipo": "02 Confirmação da finalização",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Dialog",
+          "noId": "53:2390",
+          "detalhe": "razao 1.00:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "02 Confirmação da finalização",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "pi-times",
+          "noId": "I53:2390;6782:152709;630:9894",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "02 Confirmação da finalização",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I53:2390;6782:152712;346:9110",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        }
+      ]
+    },
+    {
+      "prototipo": "03 Lista do dia com status atualizado",
+      "prototipoId": "55:2398",
+      "metricas": {
+        "densidade_total_nos": 326,
+        "textos_total": 76,
+        "textos_aprovados_contraste": 34,
+        "textos_pct_conformidade_1_4_3": 44.74,
+        "componentes_total": 10,
+        "componentes_aprovados_contraste": 0,
+        "componentes_pct_conformidade_1_4_11": 0,
+        "alvos_toque_total": 10,
+        "alvos_toque_aprovados": 10,
+        "alvos_toque_pct_conformidade_2_5_8": 100,
+        "aderencia_design_system_pct": 97.82,
+        "aderencia_nos_aderentes": 224,
+        "aderencia_nos_elegiveis": 229,
+        "cores_distintas_fora_token": 18,
+        "tamanhos_fonte_distintos_fora_token": 7
+      },
+      "valoresForaToken": {
+        "cores": [
+          "#000000",
+          "#003F1A",
+          "#14261C",
+          "#1A1D22",
+          "#495916",
+          "#54A275",
+          "#594600",
+          "#5D6066",
+          "#8F9299",
+          "#B1D349",
+          "#C4C8D0",
+          "#D0FA7D",
+          "#E0E4EC",
+          "#ED1450",
+          "#EFFFBF",
+          "#F5F7FC",
+          "#FEEB7F",
+          "#FFFFFF"
+        ],
+        "tamanhosFonte": [
+          8,
+          11,
+          12,
+          14,
+          16,
+          22,
+          24
+        ]
+      },
+      "findings": [
+        {
+          "prototipo": "03 Lista do dia com status atualizado",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Menu",
+          "noId": "55:2399",
+          "detalhe": "razao 1.00:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "03 Lista do dia com status atualizado",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Vector",
+          "noId": "I55:2399;4:2623;4:2667",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "03 Lista do dia com status atualizado",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Vector",
+          "noId": "I55:2399;4:2623;4:2669",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "03 Lista do dia com status atualizado",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Vector",
+          "noId": "I55:2399;4:2623;4:2670",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "03 Lista do dia com status atualizado",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Vector",
+          "noId": "I55:2399;4:2623;4:2671",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "03 Lista do dia com status atualizado",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Maria Cristina",
+          "noId": "I55:2399;4:2626;4:3272",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "03 Lista do dia com status atualizado",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Consultório Campo Largo",
+          "noId": "I55:2399;4:2626;4:3277",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "03 Lista do dia com status atualizado",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Ellipse 3",
+          "noId": "I55:2399;4:2626;4:3279;4:2916",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "03 Lista do dia com status atualizado",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I55:2399;4:2627;4:3310",
+          "detalhe": "razao 4.36:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "03 Lista do dia com status atualizado",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Page Header",
+          "noId": "55:2470",
+          "detalhe": "razao 1.07:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "03 Lista do dia com status atualizado",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Search Bar",
+          "noId": "55:2484",
+          "detalhe": "razao 1.07:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "03 Lista do dia com status atualizado",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Pesquisar",
+          "noId": "I55:2484;4:1185;4:3006",
+          "detalhe": "razao 2.91:1 (minimo 4.5:1) sobre fundo #F5F7FC"
+        },
+        {
+          "prototipo": "03 Lista do dia com status atualizado",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Agenda/Card 08:00",
+          "noId": "55:2493",
+          "detalhe": "razao 1.00:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "03 Lista do dia com status atualizado",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I55:2493;4:1422;4:2032;4:542",
+          "detalhe": "razao 1.32:1 (minimo 4.5:1) sobre fundo #E0E4EC"
+        },
+        {
+          "prototipo": "03 Lista do dia com status atualizado",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Dérick Cabral Castanheira",
+          "noId": "I55:2493;4:1430",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "03 Lista do dia com status atualizado",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "I55:2493;4:1431",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "03 Lista do dia com status atualizado",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "I55:2493;4:1433",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "03 Lista do dia com status atualizado",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "07:50",
+          "noId": "I55:2493;4:1436",
+          "detalhe": "razao 1.68:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "03 Lista do dia com status atualizado",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "I55:2493;4:1437",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "03 Lista do dia com status atualizado",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "08:12",
+          "noId": "I55:2493;4:1440",
+          "detalhe": "razao 1.68:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "03 Lista do dia com status atualizado",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I55:2493;4:1448",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "03 Lista do dia com status atualizado",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Agenda/Card 08:30",
+          "noId": "55:2548",
+          "detalhe": "razao 1.00:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "03 Lista do dia com status atualizado",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I55:2548;4:1422;4:2032;4:542",
+          "detalhe": "razao 1.32:1 (minimo 4.5:1) sobre fundo #E0E4EC"
+        },
+        {
+          "prototipo": "03 Lista do dia com status atualizado",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Dérick Cabral Castanheira",
+          "noId": "I55:2548;4:1430",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "03 Lista do dia com status atualizado",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "I55:2548;4:1431",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "03 Lista do dia com status atualizado",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "I55:2548;4:1433",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "03 Lista do dia com status atualizado",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "07:50",
+          "noId": "I55:2548;4:1436",
+          "detalhe": "razao 1.68:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "03 Lista do dia com status atualizado",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "I55:2548;4:1437",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "03 Lista do dia com status atualizado",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "08:12",
+          "noId": "I55:2548;4:1440",
+          "detalhe": "razao 1.68:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "03 Lista do dia com status atualizado",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I55:2548;4:1448",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "03 Lista do dia com status atualizado",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Agenda/Card 09:30 (atendimento finalizado)",
+          "noId": "55:2603",
+          "detalhe": "razao 1.00:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "03 Lista do dia com status atualizado",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I55:2603;4:1422;4:2032;4:542",
+          "detalhe": "razao 1.32:1 (minimo 4.5:1) sobre fundo #E0E4EC"
+        },
+        {
+          "prototipo": "03 Lista do dia com status atualizado",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Dérick Cabral Castanheira",
+          "noId": "I55:2603;4:1430",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "03 Lista do dia com status atualizado",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "I55:2603;4:1431",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "03 Lista do dia com status atualizado",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "I55:2603;4:1433",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "03 Lista do dia com status atualizado",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "07:50",
+          "noId": "I55:2603;4:1436",
+          "detalhe": "razao 1.68:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "03 Lista do dia com status atualizado",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "I55:2603;4:1437",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "03 Lista do dia com status atualizado",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "08:12",
+          "noId": "I55:2603;4:1440",
+          "detalhe": "razao 1.68:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "03 Lista do dia com status atualizado",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I55:2603;4:1448",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "03 Lista do dia com status atualizado",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Agenda/Card 10:00 (próximo paciente)",
+          "noId": "55:2658",
+          "detalhe": "razao 1.00:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "03 Lista do dia com status atualizado",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Dérick Cabral Castanheira",
+          "noId": "I55:2658;4:1280",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "03 Lista do dia com status atualizado",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "I55:2658;4:1281",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "03 Lista do dia com status atualizado",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "I55:2658;4:1283",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "03 Lista do dia com status atualizado",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "07:50",
+          "noId": "I55:2658;4:1286",
+          "detalhe": "razao 1.68:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "03 Lista do dia com status atualizado",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I55:2658;4:1294",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "03 Lista do dia com status atualizado",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Agenda/Card 10:30",
+          "noId": "55:2741",
+          "detalhe": "razao 1.00:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "03 Lista do dia com status atualizado",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Dérick Cabral Castanheira",
+          "noId": "I55:2741;4:1258",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "03 Lista do dia com status atualizado",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "I55:2741;4:1259",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "03 Lista do dia com status atualizado",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I55:2741;4:1262;4:2113;4:299",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "03 Lista do dia com status atualizado",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I55:2741;4:1268",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "03 Lista do dia com status atualizado",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Agenda/Card 11:00",
+          "noId": "55:2791",
+          "detalhe": "razao 1.00:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "03 Lista do dia com status atualizado",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Dérick Cabral Castanheira",
+          "noId": "I55:2791;4:1258",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "03 Lista do dia com status atualizado",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "I55:2791;4:1259",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "03 Lista do dia com status atualizado",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I55:2791;4:1262;4:2113;4:299",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "03 Lista do dia com status atualizado",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I55:2791;4:1268",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "03 Lista do dia com status atualizado",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Toast",
+          "noId": "55:2841",
+          "detalhe": "razao 1.00:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "03 Lista do dia com status atualizado",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "pi-times",
+          "noId": "I55:2841;4:2485;630:9894",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        }
+      ]
+    }
+  ]
+}

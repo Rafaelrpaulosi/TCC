@@ -1,0 +1,1342 @@
+{
+  "gerado_em": "2026-10-09T16:21:25.711Z",
+  "fonte": "figma:[chave do arquivo do Ambiente A]:14:5384,14:6227,15:7603",
+  "fileKey": "[chave do arquivo do Ambiente A]",
+  "total_prototipos": 3,
+  "prototipos": [
+    {
+      "prototipo": "ENCERRAMENTO DE ATENDIMENTO",
+      "prototipoId": "14:5384",
+      "metricas": {
+        "densidade_total_nos": 242,
+        "textos_total": 71,
+        "textos_aprovados_contraste": 43,
+        "textos_pct_conformidade_1_4_3": 60.56,
+        "componentes_total": 25,
+        "componentes_aprovados_contraste": 21,
+        "componentes_pct_conformidade_1_4_11": 84,
+        "alvos_toque_total": 25,
+        "alvos_toque_aprovados": 21,
+        "alvos_toque_pct_conformidade_2_5_8": 84,
+        "aderencia_design_system_pct": 94.04,
+        "aderencia_nos_aderentes": 142,
+        "aderencia_nos_elegiveis": 151,
+        "cores_distintas_fora_token": 17,
+        "tamanhos_fonte_distintos_fora_token": 7
+      },
+      "valoresForaToken": {
+        "cores": [
+          "#000000",
+          "#003F1A",
+          "#144027",
+          "#1A1D22",
+          "#261E00",
+          "#495916",
+          "#54A275",
+          "#5D6066",
+          "#8F9299",
+          "#A1D6B7",
+          "#B1D349",
+          "#C4C8D0",
+          "#E0E4EC",
+          "#ED1450",
+          "#EFFFBF",
+          "#FECA0A",
+          "#FFFFFF"
+        ],
+        "tamanhosFonte": [
+          8,
+          11,
+          12,
+          14,
+          16,
+          22,
+          32
+        ]
+      },
+      "findings": [
+        {
+          "prototipo": "ENCERRAMENTO DE ATENDIMENTO",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Menu",
+          "noId": "14:5831",
+          "detalhe": "razao 1.07:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "ENCERRAMENTO DE ATENDIMENTO",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Vector",
+          "noId": "I14:5831;1030:19153;380:10016",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "ENCERRAMENTO DE ATENDIMENTO",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Vector",
+          "noId": "I14:5831;1030:19153;380:10017",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "ENCERRAMENTO DE ATENDIMENTO",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Vector",
+          "noId": "I14:5831;1030:19153;380:10018",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "ENCERRAMENTO DE ATENDIMENTO",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Vector",
+          "noId": "I14:5831;1030:19153;380:10019",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "ENCERRAMENTO DE ATENDIMENTO",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Vector",
+          "noId": "I14:5831;1030:19153;380:10020",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "ENCERRAMENTO DE ATENDIMENTO",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Vector",
+          "noId": "I14:5831;1030:19153;380:10021",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "ENCERRAMENTO DE ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Menu Item",
+          "noId": "I14:5831;1030:19169;1919:18661;932:12065",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ENCERRAMENTO DE ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Maria Cristina",
+          "noId": "I14:5831;4740:100680;4683:100714",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ENCERRAMENTO DE ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Consultório Campo Largo",
+          "noId": "I14:5831;4740:100680;4683:100716",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ENCERRAMENTO DE ATENDIMENTO",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Ellipse 3",
+          "noId": "I14:5831;4740:100680;4683:100718;632:10618",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "ENCERRAMENTO DE ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I14:5831;23440:551616;23233:562999",
+          "detalhe": "razao 4.36:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ENCERRAMENTO DE ATENDIMENTO",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Header - Prontuário novo",
+          "noId": "14:5899",
+          "detalhe": "razao 1.07:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "ENCERRAMENTO DE ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "(505000)",
+          "noId": "I14:5899;44335:17824;10520:186848",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ENCERRAMENTO DE ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "15/08/1984",
+          "noId": "I14:5899;44335:17824;12472:248894",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ENCERRAMENTO DE ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I14:5899;44335:17824;38515:103787;346:8875",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ENCERRAMENTO DE ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I14:5899;44335:17839;346:9110",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ENCERRAMENTO DE ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Tab Title",
+          "noId": "I14:5902;997:13665",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ENCERRAMENTO DE ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Tab Title",
+          "noId": "I14:5906;10656:198457",
+          "detalhe": "razao 1.27:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ENCERRAMENTO DE ATENDIMENTO",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Ellipse 3",
+          "noId": "I14:6029;632:10618",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "ENCERRAMENTO DE ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "(",
+          "noId": "14:6034",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ENCERRAMENTO DE ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "CRM",
+          "noId": "14:6035",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ENCERRAMENTO DE ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "14:6036",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ENCERRAMENTO DE ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Especialidade",
+          "noId": "14:6037",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ENCERRAMENTO DE ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": ")",
+          "noId": "14:6038",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ENCERRAMENTO DE ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Plano 1",
+          "noId": "14:6040",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ENCERRAMENTO DE ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "14:6041",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ENCERRAMENTO DE ATENDIMENTO",
+          "criterio": "alvo_toque_2.5.8",
+          "gravidade": "reprova",
+          "no": "Grayscale Tag",
+          "noId": "14:6043",
+          "detalhe": "76x23 px (minimo 24x24)"
+        },
+        {
+          "prototipo": "ENCERRAMENTO DE ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "14:6044",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ENCERRAMENTO DE ATENDIMENTO",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Icon/ lock-open",
+          "noId": "14:6052",
+          "detalhe": "razao 1.00:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "ENCERRAMENTO DE ATENDIMENTO",
+          "criterio": "alvo_toque_2.5.8",
+          "gravidade": "reprova",
+          "no": "Icon/ lock-open",
+          "noId": "14:6052",
+          "detalhe": "16x16 px (minimo 24x24)"
+        },
+        {
+          "prototipo": "ENCERRAMENTO DE ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I14:6108;347:8643",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ENCERRAMENTO DE ATENDIMENTO",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Ellipse 3",
+          "noId": "I14:6112;632:10618",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "ENCERRAMENTO DE ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "(",
+          "noId": "14:6117",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ENCERRAMENTO DE ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "CRM",
+          "noId": "14:6118",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ENCERRAMENTO DE ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "14:6119",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ENCERRAMENTO DE ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Especialidade",
+          "noId": "14:6120",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ENCERRAMENTO DE ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": ")",
+          "noId": "14:6121",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ENCERRAMENTO DE ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Plano 1",
+          "noId": "14:6123",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ENCERRAMENTO DE ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "14:6124",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ENCERRAMENTO DE ATENDIMENTO",
+          "criterio": "alvo_toque_2.5.8",
+          "gravidade": "reprova",
+          "no": "Grayscale Tag",
+          "noId": "14:6126",
+          "detalhe": "76x23 px (minimo 24x24)"
+        },
+        {
+          "prototipo": "ENCERRAMENTO DE ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "14:6127",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ENCERRAMENTO DE ATENDIMENTO",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Icon/ lock-open",
+          "noId": "14:6135",
+          "detalhe": "razao 1.00:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "ENCERRAMENTO DE ATENDIMENTO",
+          "criterio": "alvo_toque_2.5.8",
+          "gravidade": "reprova",
+          "no": "Icon/ lock-open",
+          "noId": "14:6135",
+          "detalhe": "16x16 px (minimo 24x24)"
+        },
+        {
+          "prototipo": "ENCERRAMENTO DE ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I14:6191;347:8643",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        }
+      ]
+    },
+    {
+      "prototipo": "ENCERRAMENTO DE ATENDIMENTO",
+      "prototipoId": "14:6227",
+      "metricas": {
+        "densidade_total_nos": 247,
+        "textos_total": 72,
+        "textos_aprovados_contraste": 44,
+        "textos_pct_conformidade_1_4_3": 61.11,
+        "componentes_total": 25,
+        "componentes_aprovados_contraste": 20,
+        "componentes_pct_conformidade_1_4_11": 80,
+        "alvos_toque_total": 25,
+        "alvos_toque_aprovados": 21,
+        "alvos_toque_pct_conformidade_2_5_8": 84,
+        "aderencia_design_system_pct": 94.19,
+        "aderencia_nos_aderentes": 146,
+        "aderencia_nos_elegiveis": 155,
+        "cores_distintas_fora_token": 17,
+        "tamanhos_fonte_distintos_fora_token": 7
+      },
+      "valoresForaToken": {
+        "cores": [
+          "#000000",
+          "#003F1A",
+          "#144027",
+          "#1A1D22",
+          "#261E00",
+          "#495916",
+          "#54A275",
+          "#5D6066",
+          "#8F9299",
+          "#A1D6B7",
+          "#B1D349",
+          "#C4C8D0",
+          "#E0E4EC",
+          "#ED1450",
+          "#EFFFBF",
+          "#FECA0A",
+          "#FFFFFF"
+        ],
+        "tamanhosFonte": [
+          8,
+          11,
+          12,
+          14,
+          16,
+          22,
+          32
+        ]
+      },
+      "findings": [
+        {
+          "prototipo": "ENCERRAMENTO DE ATENDIMENTO",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Menu",
+          "noId": "14:6228",
+          "detalhe": "razao 1.07:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "ENCERRAMENTO DE ATENDIMENTO",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Vector",
+          "noId": "I14:6228;1030:19153;380:10016",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "ENCERRAMENTO DE ATENDIMENTO",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Vector",
+          "noId": "I14:6228;1030:19153;380:10017",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "ENCERRAMENTO DE ATENDIMENTO",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Vector",
+          "noId": "I14:6228;1030:19153;380:10018",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "ENCERRAMENTO DE ATENDIMENTO",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Vector",
+          "noId": "I14:6228;1030:19153;380:10019",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "ENCERRAMENTO DE ATENDIMENTO",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Vector",
+          "noId": "I14:6228;1030:19153;380:10020",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "ENCERRAMENTO DE ATENDIMENTO",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Vector",
+          "noId": "I14:6228;1030:19153;380:10021",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "ENCERRAMENTO DE ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Menu Item",
+          "noId": "I14:6228;1030:19169;1919:18661;932:12065",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ENCERRAMENTO DE ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Maria Cristina",
+          "noId": "I14:6228;4740:100680;4683:100714",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ENCERRAMENTO DE ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Consultório Campo Largo",
+          "noId": "I14:6228;4740:100680;4683:100716",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ENCERRAMENTO DE ATENDIMENTO",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Ellipse 3",
+          "noId": "I14:6228;4740:100680;4683:100718;632:10618",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "ENCERRAMENTO DE ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I14:6228;23440:551616;23233:562999",
+          "detalhe": "razao 4.36:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ENCERRAMENTO DE ATENDIMENTO",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Header - Prontuário novo",
+          "noId": "14:6230",
+          "detalhe": "razao 1.07:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "ENCERRAMENTO DE ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "(505000)",
+          "noId": "I14:6230;44335:17824;10520:186848",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ENCERRAMENTO DE ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "15/08/1984",
+          "noId": "I14:6230;44335:17824;12472:248894",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ENCERRAMENTO DE ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I14:6230;44335:17824;38515:103787;346:8875",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ENCERRAMENTO DE ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I14:6230;44335:17839;346:9110",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ENCERRAMENTO DE ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Tab Title",
+          "noId": "I14:6233;997:13665",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ENCERRAMENTO DE ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Tab Title",
+          "noId": "I14:6237;10656:198457",
+          "detalhe": "razao 1.27:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ENCERRAMENTO DE ATENDIMENTO",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Inline Message",
+          "noId": "15:6674",
+          "detalhe": "razao 1.06:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "ENCERRAMENTO DE ATENDIMENTO",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Ellipse 3",
+          "noId": "I14:6251;632:10618",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "ENCERRAMENTO DE ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "(",
+          "noId": "14:6256",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ENCERRAMENTO DE ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "CRM",
+          "noId": "14:6257",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ENCERRAMENTO DE ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "14:6258",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ENCERRAMENTO DE ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Especialidade",
+          "noId": "14:6259",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ENCERRAMENTO DE ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": ")",
+          "noId": "14:6260",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ENCERRAMENTO DE ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Plano 1",
+          "noId": "14:6262",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ENCERRAMENTO DE ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "14:6263",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ENCERRAMENTO DE ATENDIMENTO",
+          "criterio": "alvo_toque_2.5.8",
+          "gravidade": "reprova",
+          "no": "Grayscale Tag",
+          "noId": "14:6265",
+          "detalhe": "76x23 px (minimo 24x24)"
+        },
+        {
+          "prototipo": "ENCERRAMENTO DE ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "14:6266",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ENCERRAMENTO DE ATENDIMENTO",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Icon/ lock-open",
+          "noId": "14:6274",
+          "detalhe": "razao 1.00:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "ENCERRAMENTO DE ATENDIMENTO",
+          "criterio": "alvo_toque_2.5.8",
+          "gravidade": "reprova",
+          "no": "Icon/ lock-open",
+          "noId": "14:6274",
+          "detalhe": "16x16 px (minimo 24x24)"
+        },
+        {
+          "prototipo": "ENCERRAMENTO DE ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I14:6330;347:8643",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ENCERRAMENTO DE ATENDIMENTO",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Ellipse 3",
+          "noId": "I14:6334;632:10618",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "ENCERRAMENTO DE ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "(",
+          "noId": "14:6339",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ENCERRAMENTO DE ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "CRM",
+          "noId": "14:6340",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ENCERRAMENTO DE ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "14:6341",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ENCERRAMENTO DE ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Especialidade",
+          "noId": "14:6342",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ENCERRAMENTO DE ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": ")",
+          "noId": "14:6343",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ENCERRAMENTO DE ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Plano 1",
+          "noId": "14:6345",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ENCERRAMENTO DE ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "14:6346",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ENCERRAMENTO DE ATENDIMENTO",
+          "criterio": "alvo_toque_2.5.8",
+          "gravidade": "reprova",
+          "no": "Grayscale Tag",
+          "noId": "14:6348",
+          "detalhe": "76x23 px (minimo 24x24)"
+        },
+        {
+          "prototipo": "ENCERRAMENTO DE ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "14:6349",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ENCERRAMENTO DE ATENDIMENTO",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Icon/ lock-open",
+          "noId": "14:6357",
+          "detalhe": "razao 1.00:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "ENCERRAMENTO DE ATENDIMENTO",
+          "criterio": "alvo_toque_2.5.8",
+          "gravidade": "reprova",
+          "no": "Icon/ lock-open",
+          "noId": "14:6357",
+          "detalhe": "16x16 px (minimo 24x24)"
+        },
+        {
+          "prototipo": "ENCERRAMENTO DE ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I14:6413;347:8643",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        }
+      ]
+    },
+    {
+      "prototipo": "ATENDIMENTO",
+      "prototipoId": "15:7603",
+      "metricas": {
+        "densidade_total_nos": 314,
+        "textos_total": 84,
+        "textos_aprovados_contraste": 45,
+        "textos_pct_conformidade_1_4_3": 53.57,
+        "componentes_total": 12,
+        "componentes_aprovados_contraste": 3,
+        "componentes_pct_conformidade_1_4_11": 25,
+        "alvos_toque_total": 12,
+        "alvos_toque_aprovados": 12,
+        "alvos_toque_pct_conformidade_2_5_8": 100,
+        "aderencia_design_system_pct": 96.55,
+        "aderencia_nos_aderentes": 224,
+        "aderencia_nos_elegiveis": 232,
+        "cores_distintas_fora_token": 17,
+        "tamanhos_fonte_distintos_fora_token": 6
+      },
+      "valoresForaToken": {
+        "cores": [
+          "#000000",
+          "#003F1A",
+          "#144027",
+          "#1A1D22",
+          "#54A275",
+          "#594600",
+          "#5D6066",
+          "#8F9299",
+          "#A1D6B7",
+          "#B1D349",
+          "#C4C8D0",
+          "#E0E4EC",
+          "#ED1450",
+          "#EFFFBF",
+          "#FEEB7F",
+          "#FFBFD1",
+          "#FFFFFF"
+        ],
+        "tamanhosFonte": [
+          8,
+          11,
+          12,
+          14,
+          16,
+          22
+        ]
+      },
+      "findings": [
+        {
+          "prototipo": "ATENDIMENTO",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Agenda Card",
+          "noId": "15:7606",
+          "detalhe": "razao 1.07:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I15:7606;2166:20595;1135:14357;1050:16389",
+          "detalhe": "razao 1.32:1 (minimo 4.5:1) sobre fundo #E0E4EC"
+        },
+        {
+          "prototipo": "ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Dérick Cabral Castanheira",
+          "noId": "I15:7606;2166:20603",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "I15:7606;2166:20604",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "I15:7606;11358:200966",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "I15:7606;11358:202199",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ATENDIMENTO",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Agenda Card",
+          "noId": "15:7636",
+          "detalhe": "razao 1.07:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I15:7636;2166:20595;1135:15261;1118:13679",
+          "detalhe": "razao 2.83:1 (minimo 4.5:1) sobre fundo #FFBFD1"
+        },
+        {
+          "prototipo": "ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Dérick Cabral Castanheira",
+          "noId": "I15:7636;2166:20603",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "I15:7636;2166:20604",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "I15:7636;11358:200966",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I15:7636;33291:98624",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ATENDIMENTO",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Agenda Card",
+          "noId": "15:7637",
+          "detalhe": "razao 1.07:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I15:7637;2166:20595;1135:14357;1050:16389",
+          "detalhe": "razao 1.32:1 (minimo 4.5:1) sobre fundo #E0E4EC"
+        },
+        {
+          "prototipo": "ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Dérick Cabral Castanheira",
+          "noId": "I15:7637;2166:20603",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "I15:7637;2166:20604",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "I15:7637;11358:200966",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ATENDIMENTO",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Agenda Card",
+          "noId": "15:7638",
+          "detalhe": "razao 1.07:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I15:7638;2166:20595;1135:15262;1118:13679",
+          "detalhe": "razao 2.83:1 (minimo 4.5:1) sobre fundo #FFBFD1"
+        },
+        {
+          "prototipo": "ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Dérick Cabral Castanheira",
+          "noId": "I15:7638;2166:20603",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "I15:7638;2166:20604",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "I15:7638;11358:200966",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ATENDIMENTO",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Agenda Card",
+          "noId": "15:7639",
+          "detalhe": "razao 1.07:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Dérick Cabral Castanheira",
+          "noId": "I15:7639;2166:20603",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "I15:7639;2166:20604",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "I15:7639;11358:200966",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I15:7639;33291:98624",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ATENDIMENTO",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Agenda Card",
+          "noId": "15:7640",
+          "detalhe": "razao 1.07:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Dérick Cabral Castanheira",
+          "noId": "I15:7640;2166:20603",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "I15:7640;2166:20604",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "I15:7640;11358:200966",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "I15:7640;11358:202199",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I15:7640;33291:98624",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ATENDIMENTO",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Agenda Card",
+          "noId": "15:7641",
+          "detalhe": "razao 1.07:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Dérick Cabral Castanheira",
+          "noId": "I15:7641;2166:20603",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "I15:7641;2166:20604",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "I15:7641;11358:200966",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ATENDIMENTO",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Agenda Card",
+          "noId": "15:7642",
+          "detalhe": "razao 1.07:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Dérick Cabral Castanheira",
+          "noId": "I15:7642;2166:20603",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "I15:7642;2166:20604",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "I15:7642;11358:200966",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I15:7642;33291:98624",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ATENDIMENTO",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Menu",
+          "noId": "15:7643",
+          "detalhe": "razao 1.07:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "ATENDIMENTO",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Vector",
+          "noId": "I15:7643;1030:19153;380:10016",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "ATENDIMENTO",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Vector",
+          "noId": "I15:7643;1030:19153;380:10017",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "ATENDIMENTO",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Vector",
+          "noId": "I15:7643;1030:19153;380:10018",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "ATENDIMENTO",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Vector",
+          "noId": "I15:7643;1030:19153;380:10019",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "ATENDIMENTO",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Vector",
+          "noId": "I15:7643;1030:19153;380:10020",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "ATENDIMENTO",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Vector",
+          "noId": "I15:7643;1030:19153;380:10021",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Menu Item",
+          "noId": "I15:7643;1030:19169;896:11401;932:12065",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Maria Cristina",
+          "noId": "I15:7643;4740:100680;4683:100714",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Consultório Campo Largo",
+          "noId": "I15:7643;4740:100680;4683:100716",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ATENDIMENTO",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Ellipse 3",
+          "noId": "I15:7643;4740:100680;4683:100718;632:10618",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I15:7643;23440:551616;23233:562999",
+          "detalhe": "razao 4.36:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ATENDIMENTO",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Ellipse 4",
+          "noId": "I15:7645;361:8957",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Endocrinologista",
+          "noId": "15:7655",
+          "detalhe": "razao 2.90:1 (minimo 4.5:1) sobre fundo #F5F7FC"
+        }
+      ]
+    }
+  ]
+}

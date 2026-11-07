@@ -1,0 +1,11 @@
+conversa,titulo_no_claude_desktop,memoria_lida,skill_figma_use,fonte,data_conferencia
+B4-B-01,Interface clinica relatorio consulta,sim (registro TCC; antes da primeira acao no Figma; arquivo yOI72 do Ambiente B),sim,print do Rafael (dois prints),2026-11-06
+B2-B-01,Tela de dados do paciente Emed4all,nao,sim,print do Rafael,2026-11-06
+B1-B-01,Interface design clinica Emed4all,nao,sim (tambem figma-generate-design e working-with-design-systems; executou um comando para baixar capturas do DS e trocou por captura no Figma apos erro de rede),print do Rafael,2026-11-06
+B3-B-01,Formulario registro consulta clinica,nao,sim,print do Rafael,2026-11-06
+B5-B-01,Interface design clinica eMed4all,nao,sim (na etapa 1 o agente disse que o arquivo so tinha a pagina DS; no fim, linha 168 da transcricao, notou as paginas B1-B-01 a B4-B-01 sem abri-las),print do Rafael,2026-11-06
+B1-C-01 (conversa unica do C),Interface design clinica eMed no c,sim (registro TCC; antes da primeira acao no Figma; arquivo m57Z do Ambiente C; fica no contexto dos blocos seguintes da mesma conversa),sim (tambem figma-generate-design),print do Rafael,2026-11-06
+B2-C-01 (mesma conversa do C),Interface design clinica eMed no c,nao (nova leitura nao houve; o registro TCC lido no C1 segue no contexto),sim (resource:figma-use),"print do Rafael; a mensagem real comecava com 'ok bloco 1 concluído. Agora seguimos para o bloco b2', linha ausente da transcricao",2026-11-06
+B3-C-01 (mesma conversa do C),Interface design clinica eMed no c,nao,nao exibido,"print do Rafael; a mensagem real comecava com 'B2 concluido. vamos para o B3.', linha ausente da transcricao",2026-11-06
+B4-C-01 (mesma conversa do C),Interface design clinica eMed no c,nao,nao exibido,"print do Rafael; a mensagem real do autor comecava com 'Concluido o b3, agora vamos iniciar o B4', linha ausente da transcricao (mensagem reconstruida de PROMPTS_AMBIENTE_C.md)",2026-11-06
+B5-C-01 (mesma conversa do C),Interface design clinica eMed no c,nao (etapa 1 sem ferramentas; etapa 2 so Figma e tarefas),nao exibido,"print do Rafael; a mensagem real comecava com 'Concluido o bloco 4, vamos iniciar no bloco 5.', linha ausente da transcricao",2026-11-06

@@ -1,0 +1,119 @@
+prototipo,criterio,gravidade,no,noId,detalhe
+01 Lista do dia,contraste_componente_1.4.11,reprova,Menu,11:2174,razao 1.00:1 (minimo 3:1)
+01 Lista do dia,aderencia_design_system,alerta,Vector,"I11:2174;4:2623;4:2667","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+01 Lista do dia,aderencia_design_system,alerta,Vector,"I11:2174;4:2623;4:2669","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+01 Lista do dia,aderencia_design_system,alerta,Vector,"I11:2174;4:2623;4:2670","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+01 Lista do dia,aderencia_design_system,alerta,Vector,"I11:2174;4:2623;4:2671","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+01 Lista do dia,contraste_texto_1.4.3,reprova,Menu Item,"I11:2174;4:2624;4:3152;4:3256",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+01 Lista do dia,contraste_texto_1.4.3,reprova,Maria Cristina,"I11:2174;4:2626;4:3272",razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+01 Lista do dia,contraste_texto_1.4.3,reprova,Consultório Campo Largo,"I11:2174;4:2626;4:3277",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+01 Lista do dia,aderencia_design_system,alerta,Ellipse 3,"I11:2174;4:2626;4:3279;4:2916","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+01 Lista do dia,contraste_texto_1.4.3,reprova,Label,"I11:2174;4:2627;4:3310",razao 4.36:1 (minimo 4.5:1) sobre fundo #FFFFFF
+01 Lista do dia,contraste_componente_1.4.11,reprova,Page Header,11:2250,razao 1.00:1 (minimo 3:1)
+01 Lista do dia,contraste_texto_1.4.3,reprova,Tab Title,"I11:2266;4:2749",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+01 Lista do dia,contraste_componente_1.4.11,reprova,Search Bar,11:2284,razao 1.07:1 (minimo 3:1)
+01 Lista do dia,contraste_texto_1.4.3,reprova,Pesquisar,"I11:2284;4:1185;4:3006",razao 2.91:1 (minimo 4.5:1) sobre fundo #F5F7FC
+01 Lista do dia,contraste_componente_1.4.11,reprova,Paciente 08:00,11:2292,razao 1.00:1 (minimo 3:1)
+01 Lista do dia,contraste_texto_1.4.3,reprova,Title,"I11:2292;4:1372;4:2145;4:2095;4:2300",razao 3.09:1 (minimo 4.5:1) sobre fundo #54A275
+01 Lista do dia,contraste_texto_1.4.3,reprova,Dérick Cabral Castanheira,"I11:2292;4:1374",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+01 Lista do dia,contraste_texto_1.4.3,reprova,•,"I11:2292;4:1375",razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+01 Lista do dia,contraste_texto_1.4.3,reprova,•,"I11:2292;4:1377",razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+01 Lista do dia,contraste_texto_1.4.3,reprova,07:50,"I11:2292;4:1380",razao 1.68:1 (minimo 4.5:1) sobre fundo #FFFFFF
+01 Lista do dia,contraste_texto_1.4.3,reprova,Label,"I11:2292;4:1387",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+01 Lista do dia,contraste_componente_1.4.11,reprova,Paciente 08:30,11:2367,razao 1.00:1 (minimo 3:1)
+01 Lista do dia,contraste_texto_1.4.3,reprova,Dérick Cabral Castanheira,"I11:2367;4:1280",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+01 Lista do dia,contraste_texto_1.4.3,reprova,•,"I11:2367;4:1281",razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+01 Lista do dia,contraste_texto_1.4.3,reprova,•,"I11:2367;4:1283",razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+01 Lista do dia,contraste_texto_1.4.3,reprova,07:50,"I11:2367;4:1286",razao 1.68:1 (minimo 4.5:1) sobre fundo #FFFFFF
+01 Lista do dia,contraste_texto_1.4.3,reprova,Label,"I11:2367;4:1294",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+01 Lista do dia,contraste_componente_1.4.11,reprova,Paciente 09:00,11:2428,razao 1.00:1 (minimo 3:1)
+01 Lista do dia,contraste_texto_1.4.3,reprova,Dérick Cabral Castanheira,"I11:2428;4:1280",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+01 Lista do dia,contraste_texto_1.4.3,reprova,•,"I11:2428;4:1281",razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+01 Lista do dia,contraste_texto_1.4.3,reprova,•,"I11:2428;4:1283",razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+01 Lista do dia,contraste_texto_1.4.3,reprova,07:50,"I11:2428;4:1286",razao 1.68:1 (minimo 4.5:1) sobre fundo #FFFFFF
+01 Lista do dia,contraste_texto_1.4.3,reprova,Label,"I11:2428;4:1294",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+01 Lista do dia,contraste_componente_1.4.11,reprova,Paciente 09:30,11:2489,razao 1.00:1 (minimo 3:1)
+01 Lista do dia,contraste_texto_1.4.3,reprova,Dérick Cabral Castanheira,"I11:2489;4:1258",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+01 Lista do dia,contraste_texto_1.4.3,reprova,•,"I11:2489;4:1259",razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+01 Lista do dia,contraste_texto_1.4.3,reprova,Label,"I11:2489;4:1268",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+01 Lista do dia,contraste_componente_1.4.11,reprova,Paciente 10:00,11:2547,razao 1.00:1 (minimo 3:1)
+01 Lista do dia,contraste_texto_1.4.3,reprova,Label,"I11:2547;4:1256;4:2145;4:2091;4:2182",razao 2.02:1 (minimo 4.5:1) sobre fundo #65C997
+01 Lista do dia,contraste_texto_1.4.3,reprova,Dérick Cabral Castanheira,"I11:2547;4:1258",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+01 Lista do dia,contraste_texto_1.4.3,reprova,•,"I11:2547;4:1259",razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+01 Lista do dia,contraste_texto_1.4.3,reprova,Label,"I11:2547;4:1268",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+01 Lista do dia,contraste_componente_1.4.11,reprova,Paciente 10:30,11:2609,razao 1.00:1 (minimo 3:1)
+01 Lista do dia,contraste_texto_1.4.3,reprova,Dérick Cabral Castanheira,"I11:2609;4:1258",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+01 Lista do dia,contraste_texto_1.4.3,reprova,•,"I11:2609;4:1259",razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+01 Lista do dia,contraste_texto_1.4.3,reprova,Label,"I11:2609;4:1268",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+01 Lista do dia,contraste_componente_1.4.11,reprova,Paciente 11:00,11:2671,razao 1.00:1 (minimo 3:1)
+01 Lista do dia,contraste_texto_1.4.3,reprova,Dérick Cabral Castanheira,"I11:2671;4:1258",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+01 Lista do dia,contraste_texto_1.4.3,reprova,•,"I11:2671;4:1259",razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+01 Lista do dia,contraste_texto_1.4.3,reprova,Label,"I11:2671;4:1268",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+01 Lista do dia,contraste_componente_1.4.11,reprova,Paciente 11:30,11:2725,razao 1.00:1 (minimo 3:1)
+01 Lista do dia,contraste_texto_1.4.3,reprova,Dérick Cabral Castanheira,"I11:2725;4:1258",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+01 Lista do dia,contraste_texto_1.4.3,reprova,•,"I11:2725;4:1259",razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+01 Lista do dia,contraste_texto_1.4.3,reprova,Label,"I11:2725;4:1268",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+01 Lista do dia,contraste_componente_1.4.11,reprova,Paciente 12:00,11:2781,razao 1.00:1 (minimo 3:1)
+01 Lista do dia,contraste_texto_1.4.3,reprova,Dérick Cabral Castanheira,"I11:2781;4:1258",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+01 Lista do dia,contraste_texto_1.4.3,reprova,•,"I11:2781;4:1259",razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+01 Lista do dia,contraste_texto_1.4.3,reprova,Label,"I11:2781;4:1268",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+01 Lista do dia,contraste_componente_1.4.11,reprova,Próximo paciente,12:2656,razao 1.07:1 (minimo 3:1)
+02 Outro paciente selecionado,contraste_componente_1.4.11,reprova,Menu,16:2674,razao 1.00:1 (minimo 3:1)
+02 Outro paciente selecionado,aderencia_design_system,alerta,Vector,"I16:2674;4:2623;4:2667","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+02 Outro paciente selecionado,aderencia_design_system,alerta,Vector,"I16:2674;4:2623;4:2669","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+02 Outro paciente selecionado,aderencia_design_system,alerta,Vector,"I16:2674;4:2623;4:2670","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+02 Outro paciente selecionado,aderencia_design_system,alerta,Vector,"I16:2674;4:2623;4:2671","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+02 Outro paciente selecionado,contraste_texto_1.4.3,reprova,Menu Item,"I16:2674;4:2624;4:3152;4:3256",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+02 Outro paciente selecionado,contraste_texto_1.4.3,reprova,Maria Cristina,"I16:2674;4:2626;4:3272",razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+02 Outro paciente selecionado,contraste_texto_1.4.3,reprova,Consultório Campo Largo,"I16:2674;4:2626;4:3277",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+02 Outro paciente selecionado,aderencia_design_system,alerta,Ellipse 3,"I16:2674;4:2626;4:3279;4:2916","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+02 Outro paciente selecionado,contraste_texto_1.4.3,reprova,Label,"I16:2674;4:2627;4:3310",razao 4.36:1 (minimo 4.5:1) sobre fundo #FFFFFF
+02 Outro paciente selecionado,contraste_componente_1.4.11,reprova,Page Header,16:2675,razao 1.00:1 (minimo 3:1)
+02 Outro paciente selecionado,contraste_texto_1.4.3,reprova,Tab Title,"I16:2680;4:2749",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+02 Outro paciente selecionado,contraste_componente_1.4.11,reprova,Search Bar,16:2683,razao 1.07:1 (minimo 3:1)
+02 Outro paciente selecionado,contraste_texto_1.4.3,reprova,Pesquisar,"I16:2683;4:1185;4:3006",razao 2.91:1 (minimo 4.5:1) sobre fundo #F5F7FC
+02 Outro paciente selecionado,contraste_componente_1.4.11,reprova,Paciente 08:00,16:2685,razao 1.00:1 (minimo 3:1)
+02 Outro paciente selecionado,contraste_texto_1.4.3,reprova,Title,"I16:2685;4:1278;4:2145;4:2095;4:2300",razao 3.09:1 (minimo 4.5:1) sobre fundo #54A275
+02 Outro paciente selecionado,contraste_texto_1.4.3,reprova,Dérick Cabral Castanheira,"I16:2685;4:1280",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+02 Outro paciente selecionado,contraste_texto_1.4.3,reprova,•,"I16:2685;4:1281",razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+02 Outro paciente selecionado,contraste_texto_1.4.3,reprova,•,"I16:2685;4:1283",razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+02 Outro paciente selecionado,contraste_texto_1.4.3,reprova,07:50,"I16:2685;4:1286",razao 1.68:1 (minimo 4.5:1) sobre fundo #FFFFFF
+02 Outro paciente selecionado,contraste_texto_1.4.3,reprova,Label,"I16:2685;4:1294",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+02 Outro paciente selecionado,contraste_componente_1.4.11,reprova,Paciente 08:30,16:2686,razao 1.00:1 (minimo 3:1)
+02 Outro paciente selecionado,contraste_texto_1.4.3,reprova,Dérick Cabral Castanheira,"I16:2686;4:1280",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+02 Outro paciente selecionado,contraste_texto_1.4.3,reprova,•,"I16:2686;4:1281",razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+02 Outro paciente selecionado,contraste_texto_1.4.3,reprova,•,"I16:2686;4:1283",razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+02 Outro paciente selecionado,contraste_texto_1.4.3,reprova,07:50,"I16:2686;4:1286",razao 1.68:1 (minimo 4.5:1) sobre fundo #FFFFFF
+02 Outro paciente selecionado,contraste_texto_1.4.3,reprova,Label,"I16:2686;4:1294",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+02 Outro paciente selecionado,contraste_componente_1.4.11,reprova,Paciente 09:00,16:2687,razao 1.00:1 (minimo 3:1)
+02 Outro paciente selecionado,contraste_texto_1.4.3,reprova,Dérick Cabral Castanheira,"I16:2687;4:1374",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+02 Outro paciente selecionado,contraste_texto_1.4.3,reprova,•,"I16:2687;4:1375",razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+02 Outro paciente selecionado,contraste_texto_1.4.3,reprova,•,"I16:2687;4:1377",razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+02 Outro paciente selecionado,contraste_texto_1.4.3,reprova,07:50,"I16:2687;4:1380",razao 1.68:1 (minimo 4.5:1) sobre fundo #FFFFFF
+02 Outro paciente selecionado,contraste_texto_1.4.3,reprova,Label,"I16:2687;4:1387",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+02 Outro paciente selecionado,contraste_componente_1.4.11,reprova,Paciente 09:30,16:2688,razao 1.00:1 (minimo 3:1)
+02 Outro paciente selecionado,contraste_texto_1.4.3,reprova,Dérick Cabral Castanheira,"I16:2688;4:1258",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+02 Outro paciente selecionado,contraste_texto_1.4.3,reprova,•,"I16:2688;4:1259",razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+02 Outro paciente selecionado,contraste_texto_1.4.3,reprova,Label,"I16:2688;4:1268",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+02 Outro paciente selecionado,contraste_componente_1.4.11,reprova,Paciente 10:00,16:2689,razao 1.00:1 (minimo 3:1)
+02 Outro paciente selecionado,contraste_texto_1.4.3,reprova,Label,"I16:2689;4:1256;4:2145;4:2091;4:2182",razao 2.02:1 (minimo 4.5:1) sobre fundo #65C997
+02 Outro paciente selecionado,contraste_texto_1.4.3,reprova,Dérick Cabral Castanheira,"I16:2689;4:1258",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+02 Outro paciente selecionado,contraste_texto_1.4.3,reprova,•,"I16:2689;4:1259",razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+02 Outro paciente selecionado,contraste_texto_1.4.3,reprova,Label,"I16:2689;4:1268",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+02 Outro paciente selecionado,contraste_componente_1.4.11,reprova,Paciente 10:30,16:2690,razao 1.00:1 (minimo 3:1)
+02 Outro paciente selecionado,contraste_texto_1.4.3,reprova,Dérick Cabral Castanheira,"I16:2690;4:1258",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+02 Outro paciente selecionado,contraste_texto_1.4.3,reprova,•,"I16:2690;4:1259",razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+02 Outro paciente selecionado,contraste_texto_1.4.3,reprova,Label,"I16:2690;4:1268",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+02 Outro paciente selecionado,contraste_componente_1.4.11,reprova,Paciente 11:00,16:2691,razao 1.00:1 (minimo 3:1)
+02 Outro paciente selecionado,contraste_texto_1.4.3,reprova,Dérick Cabral Castanheira,"I16:2691;4:1258",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+02 Outro paciente selecionado,contraste_texto_1.4.3,reprova,•,"I16:2691;4:1259",razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+02 Outro paciente selecionado,contraste_texto_1.4.3,reprova,Label,"I16:2691;4:1268",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+02 Outro paciente selecionado,contraste_componente_1.4.11,reprova,Paciente 11:30,16:2692,razao 1.00:1 (minimo 3:1)
+02 Outro paciente selecionado,contraste_texto_1.4.3,reprova,Dérick Cabral Castanheira,"I16:2692;4:1258",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+02 Outro paciente selecionado,contraste_texto_1.4.3,reprova,•,"I16:2692;4:1259",razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+02 Outro paciente selecionado,contraste_texto_1.4.3,reprova,Label,"I16:2692;4:1268",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+02 Outro paciente selecionado,contraste_componente_1.4.11,reprova,Paciente 12:00,16:2693,razao 1.00:1 (minimo 3:1)
+02 Outro paciente selecionado,contraste_texto_1.4.3,reprova,Dérick Cabral Castanheira,"I16:2693;4:1258",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+02 Outro paciente selecionado,contraste_texto_1.4.3,reprova,•,"I16:2693;4:1259",razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+02 Outro paciente selecionado,contraste_texto_1.4.3,reprova,Label,"I16:2693;4:1268",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+02 Outro paciente selecionado,contraste_componente_1.4.11,reprova,Paciente selecionado,16:2694,razao 1.07:1 (minimo 3:1)

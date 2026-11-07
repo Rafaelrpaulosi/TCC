@@ -1,0 +1,148 @@
+prototipo,criterio,gravidade,no,noId,detalhe
+ENCERRAMENTO DE ATENDIMENTO,contraste_componente_1.4.11,reprova,Menu,14:5831,razao 1.07:1 (minimo 3:1)
+ENCERRAMENTO DE ATENDIMENTO,aderencia_design_system,alerta,Vector,"I14:5831;1030:19153;380:10016","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+ENCERRAMENTO DE ATENDIMENTO,aderencia_design_system,alerta,Vector,"I14:5831;1030:19153;380:10017","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+ENCERRAMENTO DE ATENDIMENTO,aderencia_design_system,alerta,Vector,"I14:5831;1030:19153;380:10018","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+ENCERRAMENTO DE ATENDIMENTO,aderencia_design_system,alerta,Vector,"I14:5831;1030:19153;380:10019","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+ENCERRAMENTO DE ATENDIMENTO,aderencia_design_system,alerta,Vector,"I14:5831;1030:19153;380:10020","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+ENCERRAMENTO DE ATENDIMENTO,aderencia_design_system,alerta,Vector,"I14:5831;1030:19153;380:10021","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+ENCERRAMENTO DE ATENDIMENTO,contraste_texto_1.4.3,reprova,Menu Item,"I14:5831;1030:19169;1919:18661;932:12065",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+ENCERRAMENTO DE ATENDIMENTO,contraste_texto_1.4.3,reprova,Maria Cristina,"I14:5831;4740:100680;4683:100714",razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+ENCERRAMENTO DE ATENDIMENTO,contraste_texto_1.4.3,reprova,Consultório Campo Largo,"I14:5831;4740:100680;4683:100716",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+ENCERRAMENTO DE ATENDIMENTO,aderencia_design_system,alerta,Ellipse 3,"I14:5831;4740:100680;4683:100718;632:10618","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+ENCERRAMENTO DE ATENDIMENTO,contraste_texto_1.4.3,reprova,Label,"I14:5831;23440:551616;23233:562999",razao 4.36:1 (minimo 4.5:1) sobre fundo #FFFFFF
+ENCERRAMENTO DE ATENDIMENTO,contraste_componente_1.4.11,reprova,Header - Prontuário novo,14:5899,razao 1.07:1 (minimo 3:1)
+ENCERRAMENTO DE ATENDIMENTO,contraste_texto_1.4.3,reprova,(505000),"I14:5899;44335:17824;10520:186848",razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+ENCERRAMENTO DE ATENDIMENTO,contraste_texto_1.4.3,reprova,15/08/1984,"I14:5899;44335:17824;12472:248894",razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+ENCERRAMENTO DE ATENDIMENTO,contraste_texto_1.4.3,reprova,Label,"I14:5899;44335:17824;38515:103787;346:8875",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+ENCERRAMENTO DE ATENDIMENTO,contraste_texto_1.4.3,reprova,Label,"I14:5899;44335:17839;346:9110",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+ENCERRAMENTO DE ATENDIMENTO,contraste_texto_1.4.3,reprova,Tab Title,"I14:5902;997:13665",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+ENCERRAMENTO DE ATENDIMENTO,contraste_texto_1.4.3,reprova,Tab Title,"I14:5906;10656:198457",razao 1.27:1 (minimo 4.5:1) sobre fundo #FFFFFF
+ENCERRAMENTO DE ATENDIMENTO,aderencia_design_system,alerta,Ellipse 3,"I14:6029;632:10618","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+ENCERRAMENTO DE ATENDIMENTO,contraste_texto_1.4.3,reprova,(,14:6034,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+ENCERRAMENTO DE ATENDIMENTO,contraste_texto_1.4.3,reprova,CRM,14:6035,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+ENCERRAMENTO DE ATENDIMENTO,contraste_texto_1.4.3,reprova,•,14:6036,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+ENCERRAMENTO DE ATENDIMENTO,contraste_texto_1.4.3,reprova,Especialidade,14:6037,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+ENCERRAMENTO DE ATENDIMENTO,contraste_texto_1.4.3,reprova,),14:6038,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+ENCERRAMENTO DE ATENDIMENTO,contraste_texto_1.4.3,reprova,Plano 1,14:6040,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+ENCERRAMENTO DE ATENDIMENTO,contraste_texto_1.4.3,reprova,•,14:6041,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+ENCERRAMENTO DE ATENDIMENTO,alvo_toque_2.5.8,reprova,Grayscale Tag,14:6043,76x23 px (minimo 24x24)
+ENCERRAMENTO DE ATENDIMENTO,contraste_texto_1.4.3,reprova,•,14:6044,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+ENCERRAMENTO DE ATENDIMENTO,contraste_componente_1.4.11,reprova,Icon/ lock-open,14:6052,razao 1.00:1 (minimo 3:1)
+ENCERRAMENTO DE ATENDIMENTO,alvo_toque_2.5.8,reprova,Icon/ lock-open,14:6052,16x16 px (minimo 24x24)
+ENCERRAMENTO DE ATENDIMENTO,contraste_texto_1.4.3,reprova,Label,"I14:6108;347:8643",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+ENCERRAMENTO DE ATENDIMENTO,aderencia_design_system,alerta,Ellipse 3,"I14:6112;632:10618","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+ENCERRAMENTO DE ATENDIMENTO,contraste_texto_1.4.3,reprova,(,14:6117,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+ENCERRAMENTO DE ATENDIMENTO,contraste_texto_1.4.3,reprova,CRM,14:6118,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+ENCERRAMENTO DE ATENDIMENTO,contraste_texto_1.4.3,reprova,•,14:6119,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+ENCERRAMENTO DE ATENDIMENTO,contraste_texto_1.4.3,reprova,Especialidade,14:6120,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+ENCERRAMENTO DE ATENDIMENTO,contraste_texto_1.4.3,reprova,),14:6121,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+ENCERRAMENTO DE ATENDIMENTO,contraste_texto_1.4.3,reprova,Plano 1,14:6123,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+ENCERRAMENTO DE ATENDIMENTO,contraste_texto_1.4.3,reprova,•,14:6124,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+ENCERRAMENTO DE ATENDIMENTO,alvo_toque_2.5.8,reprova,Grayscale Tag,14:6126,76x23 px (minimo 24x24)
+ENCERRAMENTO DE ATENDIMENTO,contraste_texto_1.4.3,reprova,•,14:6127,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+ENCERRAMENTO DE ATENDIMENTO,contraste_componente_1.4.11,reprova,Icon/ lock-open,14:6135,razao 1.00:1 (minimo 3:1)
+ENCERRAMENTO DE ATENDIMENTO,alvo_toque_2.5.8,reprova,Icon/ lock-open,14:6135,16x16 px (minimo 24x24)
+ENCERRAMENTO DE ATENDIMENTO,contraste_texto_1.4.3,reprova,Label,"I14:6191;347:8643",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+ENCERRAMENTO DE ATENDIMENTO,contraste_componente_1.4.11,reprova,Menu,14:6228,razao 1.07:1 (minimo 3:1)
+ENCERRAMENTO DE ATENDIMENTO,aderencia_design_system,alerta,Vector,"I14:6228;1030:19153;380:10016","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+ENCERRAMENTO DE ATENDIMENTO,aderencia_design_system,alerta,Vector,"I14:6228;1030:19153;380:10017","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+ENCERRAMENTO DE ATENDIMENTO,aderencia_design_system,alerta,Vector,"I14:6228;1030:19153;380:10018","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+ENCERRAMENTO DE ATENDIMENTO,aderencia_design_system,alerta,Vector,"I14:6228;1030:19153;380:10019","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+ENCERRAMENTO DE ATENDIMENTO,aderencia_design_system,alerta,Vector,"I14:6228;1030:19153;380:10020","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+ENCERRAMENTO DE ATENDIMENTO,aderencia_design_system,alerta,Vector,"I14:6228;1030:19153;380:10021","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+ENCERRAMENTO DE ATENDIMENTO,contraste_texto_1.4.3,reprova,Menu Item,"I14:6228;1030:19169;1919:18661;932:12065",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+ENCERRAMENTO DE ATENDIMENTO,contraste_texto_1.4.3,reprova,Maria Cristina,"I14:6228;4740:100680;4683:100714",razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+ENCERRAMENTO DE ATENDIMENTO,contraste_texto_1.4.3,reprova,Consultório Campo Largo,"I14:6228;4740:100680;4683:100716",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+ENCERRAMENTO DE ATENDIMENTO,aderencia_design_system,alerta,Ellipse 3,"I14:6228;4740:100680;4683:100718;632:10618","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+ENCERRAMENTO DE ATENDIMENTO,contraste_texto_1.4.3,reprova,Label,"I14:6228;23440:551616;23233:562999",razao 4.36:1 (minimo 4.5:1) sobre fundo #FFFFFF
+ENCERRAMENTO DE ATENDIMENTO,contraste_componente_1.4.11,reprova,Header - Prontuário novo,14:6230,razao 1.07:1 (minimo 3:1)
+ENCERRAMENTO DE ATENDIMENTO,contraste_texto_1.4.3,reprova,(505000),"I14:6230;44335:17824;10520:186848",razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+ENCERRAMENTO DE ATENDIMENTO,contraste_texto_1.4.3,reprova,15/08/1984,"I14:6230;44335:17824;12472:248894",razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+ENCERRAMENTO DE ATENDIMENTO,contraste_texto_1.4.3,reprova,Label,"I14:6230;44335:17824;38515:103787;346:8875",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+ENCERRAMENTO DE ATENDIMENTO,contraste_texto_1.4.3,reprova,Label,"I14:6230;44335:17839;346:9110",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+ENCERRAMENTO DE ATENDIMENTO,contraste_texto_1.4.3,reprova,Tab Title,"I14:6233;997:13665",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+ENCERRAMENTO DE ATENDIMENTO,contraste_texto_1.4.3,reprova,Tab Title,"I14:6237;10656:198457",razao 1.27:1 (minimo 4.5:1) sobre fundo #FFFFFF
+ENCERRAMENTO DE ATENDIMENTO,contraste_componente_1.4.11,reprova,Inline Message,15:6674,razao 1.06:1 (minimo 3:1)
+ENCERRAMENTO DE ATENDIMENTO,aderencia_design_system,alerta,Ellipse 3,"I14:6251;632:10618","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+ENCERRAMENTO DE ATENDIMENTO,contraste_texto_1.4.3,reprova,(,14:6256,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+ENCERRAMENTO DE ATENDIMENTO,contraste_texto_1.4.3,reprova,CRM,14:6257,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+ENCERRAMENTO DE ATENDIMENTO,contraste_texto_1.4.3,reprova,•,14:6258,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+ENCERRAMENTO DE ATENDIMENTO,contraste_texto_1.4.3,reprova,Especialidade,14:6259,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+ENCERRAMENTO DE ATENDIMENTO,contraste_texto_1.4.3,reprova,),14:6260,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+ENCERRAMENTO DE ATENDIMENTO,contraste_texto_1.4.3,reprova,Plano 1,14:6262,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+ENCERRAMENTO DE ATENDIMENTO,contraste_texto_1.4.3,reprova,•,14:6263,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+ENCERRAMENTO DE ATENDIMENTO,alvo_toque_2.5.8,reprova,Grayscale Tag,14:6265,76x23 px (minimo 24x24)
+ENCERRAMENTO DE ATENDIMENTO,contraste_texto_1.4.3,reprova,•,14:6266,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+ENCERRAMENTO DE ATENDIMENTO,contraste_componente_1.4.11,reprova,Icon/ lock-open,14:6274,razao 1.00:1 (minimo 3:1)
+ENCERRAMENTO DE ATENDIMENTO,alvo_toque_2.5.8,reprova,Icon/ lock-open,14:6274,16x16 px (minimo 24x24)
+ENCERRAMENTO DE ATENDIMENTO,contraste_texto_1.4.3,reprova,Label,"I14:6330;347:8643",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+ENCERRAMENTO DE ATENDIMENTO,aderencia_design_system,alerta,Ellipse 3,"I14:6334;632:10618","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+ENCERRAMENTO DE ATENDIMENTO,contraste_texto_1.4.3,reprova,(,14:6339,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+ENCERRAMENTO DE ATENDIMENTO,contraste_texto_1.4.3,reprova,CRM,14:6340,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+ENCERRAMENTO DE ATENDIMENTO,contraste_texto_1.4.3,reprova,•,14:6341,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+ENCERRAMENTO DE ATENDIMENTO,contraste_texto_1.4.3,reprova,Especialidade,14:6342,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+ENCERRAMENTO DE ATENDIMENTO,contraste_texto_1.4.3,reprova,),14:6343,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+ENCERRAMENTO DE ATENDIMENTO,contraste_texto_1.4.3,reprova,Plano 1,14:6345,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+ENCERRAMENTO DE ATENDIMENTO,contraste_texto_1.4.3,reprova,•,14:6346,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+ENCERRAMENTO DE ATENDIMENTO,alvo_toque_2.5.8,reprova,Grayscale Tag,14:6348,76x23 px (minimo 24x24)
+ENCERRAMENTO DE ATENDIMENTO,contraste_texto_1.4.3,reprova,•,14:6349,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+ENCERRAMENTO DE ATENDIMENTO,contraste_componente_1.4.11,reprova,Icon/ lock-open,14:6357,razao 1.00:1 (minimo 3:1)
+ENCERRAMENTO DE ATENDIMENTO,alvo_toque_2.5.8,reprova,Icon/ lock-open,14:6357,16x16 px (minimo 24x24)
+ENCERRAMENTO DE ATENDIMENTO,contraste_texto_1.4.3,reprova,Label,"I14:6413;347:8643",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+ATENDIMENTO,contraste_componente_1.4.11,reprova,Agenda Card,15:7606,razao 1.07:1 (minimo 3:1)
+ATENDIMENTO,contraste_texto_1.4.3,reprova,Label,"I15:7606;2166:20595;1135:14357;1050:16389",razao 1.32:1 (minimo 4.5:1) sobre fundo #E0E4EC
+ATENDIMENTO,contraste_texto_1.4.3,reprova,Dérick Cabral Castanheira,"I15:7606;2166:20603",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+ATENDIMENTO,contraste_texto_1.4.3,reprova,•,"I15:7606;2166:20604",razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+ATENDIMENTO,contraste_texto_1.4.3,reprova,•,"I15:7606;11358:200966",razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+ATENDIMENTO,contraste_texto_1.4.3,reprova,•,"I15:7606;11358:202199",razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+ATENDIMENTO,contraste_componente_1.4.11,reprova,Agenda Card,15:7636,razao 1.07:1 (minimo 3:1)
+ATENDIMENTO,contraste_texto_1.4.3,reprova,Label,"I15:7636;2166:20595;1135:15261;1118:13679",razao 2.83:1 (minimo 4.5:1) sobre fundo #FFBFD1
+ATENDIMENTO,contraste_texto_1.4.3,reprova,Dérick Cabral Castanheira,"I15:7636;2166:20603",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+ATENDIMENTO,contraste_texto_1.4.3,reprova,•,"I15:7636;2166:20604",razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+ATENDIMENTO,contraste_texto_1.4.3,reprova,•,"I15:7636;11358:200966",razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+ATENDIMENTO,contraste_texto_1.4.3,reprova,Label,"I15:7636;33291:98624",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+ATENDIMENTO,contraste_componente_1.4.11,reprova,Agenda Card,15:7637,razao 1.07:1 (minimo 3:1)
+ATENDIMENTO,contraste_texto_1.4.3,reprova,Label,"I15:7637;2166:20595;1135:14357;1050:16389",razao 1.32:1 (minimo 4.5:1) sobre fundo #E0E4EC
+ATENDIMENTO,contraste_texto_1.4.3,reprova,Dérick Cabral Castanheira,"I15:7637;2166:20603",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+ATENDIMENTO,contraste_texto_1.4.3,reprova,•,"I15:7637;2166:20604",razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+ATENDIMENTO,contraste_texto_1.4.3,reprova,•,"I15:7637;11358:200966",razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+ATENDIMENTO,contraste_componente_1.4.11,reprova,Agenda Card,15:7638,razao 1.07:1 (minimo 3:1)
+ATENDIMENTO,contraste_texto_1.4.3,reprova,Label,"I15:7638;2166:20595;1135:15262;1118:13679",razao 2.83:1 (minimo 4.5:1) sobre fundo #FFBFD1
+ATENDIMENTO,contraste_texto_1.4.3,reprova,Dérick Cabral Castanheira,"I15:7638;2166:20603",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+ATENDIMENTO,contraste_texto_1.4.3,reprova,•,"I15:7638;2166:20604",razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+ATENDIMENTO,contraste_texto_1.4.3,reprova,•,"I15:7638;11358:200966",razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+ATENDIMENTO,contraste_componente_1.4.11,reprova,Agenda Card,15:7639,razao 1.07:1 (minimo 3:1)
+ATENDIMENTO,contraste_texto_1.4.3,reprova,Dérick Cabral Castanheira,"I15:7639;2166:20603",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+ATENDIMENTO,contraste_texto_1.4.3,reprova,•,"I15:7639;2166:20604",razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+ATENDIMENTO,contraste_texto_1.4.3,reprova,•,"I15:7639;11358:200966",razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+ATENDIMENTO,contraste_texto_1.4.3,reprova,Label,"I15:7639;33291:98624",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+ATENDIMENTO,contraste_componente_1.4.11,reprova,Agenda Card,15:7640,razao 1.07:1 (minimo 3:1)
+ATENDIMENTO,contraste_texto_1.4.3,reprova,Dérick Cabral Castanheira,"I15:7640;2166:20603",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+ATENDIMENTO,contraste_texto_1.4.3,reprova,•,"I15:7640;2166:20604",razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+ATENDIMENTO,contraste_texto_1.4.3,reprova,•,"I15:7640;11358:200966",razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+ATENDIMENTO,contraste_texto_1.4.3,reprova,•,"I15:7640;11358:202199",razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+ATENDIMENTO,contraste_texto_1.4.3,reprova,Label,"I15:7640;33291:98624",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+ATENDIMENTO,contraste_componente_1.4.11,reprova,Agenda Card,15:7641,razao 1.07:1 (minimo 3:1)
+ATENDIMENTO,contraste_texto_1.4.3,reprova,Dérick Cabral Castanheira,"I15:7641;2166:20603",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+ATENDIMENTO,contraste_texto_1.4.3,reprova,•,"I15:7641;2166:20604",razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+ATENDIMENTO,contraste_texto_1.4.3,reprova,•,"I15:7641;11358:200966",razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+ATENDIMENTO,contraste_componente_1.4.11,reprova,Agenda Card,15:7642,razao 1.07:1 (minimo 3:1)
+ATENDIMENTO,contraste_texto_1.4.3,reprova,Dérick Cabral Castanheira,"I15:7642;2166:20603",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+ATENDIMENTO,contraste_texto_1.4.3,reprova,•,"I15:7642;2166:20604",razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+ATENDIMENTO,contraste_texto_1.4.3,reprova,•,"I15:7642;11358:200966",razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+ATENDIMENTO,contraste_texto_1.4.3,reprova,Label,"I15:7642;33291:98624",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+ATENDIMENTO,contraste_componente_1.4.11,reprova,Menu,15:7643,razao 1.07:1 (minimo 3:1)
+ATENDIMENTO,aderencia_design_system,alerta,Vector,"I15:7643;1030:19153;380:10016","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+ATENDIMENTO,aderencia_design_system,alerta,Vector,"I15:7643;1030:19153;380:10017","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+ATENDIMENTO,aderencia_design_system,alerta,Vector,"I15:7643;1030:19153;380:10018","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+ATENDIMENTO,aderencia_design_system,alerta,Vector,"I15:7643;1030:19153;380:10019","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+ATENDIMENTO,aderencia_design_system,alerta,Vector,"I15:7643;1030:19153;380:10020","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+ATENDIMENTO,aderencia_design_system,alerta,Vector,"I15:7643;1030:19153;380:10021","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+ATENDIMENTO,contraste_texto_1.4.3,reprova,Menu Item,"I15:7643;1030:19169;896:11401;932:12065",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+ATENDIMENTO,contraste_texto_1.4.3,reprova,Maria Cristina,"I15:7643;4740:100680;4683:100714",razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+ATENDIMENTO,contraste_texto_1.4.3,reprova,Consultório Campo Largo,"I15:7643;4740:100680;4683:100716",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+ATENDIMENTO,aderencia_design_system,alerta,Ellipse 3,"I15:7643;4740:100680;4683:100718;632:10618","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+ATENDIMENTO,contraste_texto_1.4.3,reprova,Label,"I15:7643;23440:551616;23233:562999",razao 4.36:1 (minimo 4.5:1) sobre fundo #FFFFFF
+ATENDIMENTO,aderencia_design_system,alerta,Ellipse 4,"I15:7645;361:8957","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+ATENDIMENTO,contraste_texto_1.4.3,reprova,Endocrinologista,15:7655,razao 2.90:1 (minimo 4.5:1) sobre fundo #F5F7FC

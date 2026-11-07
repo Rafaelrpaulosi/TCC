@@ -1,0 +1,56 @@
+prototipo,criterio,gravidade,no,noId,detalhe
+Registro da consulta / Vazio,contraste_componente_1.4.11,reprova,Menu,34:2174,razao 1.07:1 (minimo 3:1)
+Registro da consulta / Vazio,aderencia_design_system,alerta,Vector,"I34:2174;4:2623;4:2667","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+Registro da consulta / Vazio,aderencia_design_system,alerta,Vector,"I34:2174;4:2623;4:2669","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+Registro da consulta / Vazio,aderencia_design_system,alerta,Vector,"I34:2174;4:2623;4:2670","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+Registro da consulta / Vazio,aderencia_design_system,alerta,Vector,"I34:2174;4:2623;4:2671","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+Registro da consulta / Vazio,contraste_texto_1.4.3,reprova,Maria Cristina,"I34:2174;4:2626;4:3272",razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+Registro da consulta / Vazio,contraste_texto_1.4.3,reprova,Consultório Campo Largo,"I34:2174;4:2626;4:3277",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+Registro da consulta / Vazio,aderencia_design_system,alerta,Ellipse 3,"I34:2174;4:2626;4:3279;4:2916","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+Registro da consulta / Vazio,contraste_texto_1.4.3,reprova,Label,"I34:2174;4:2627;4:3310",razao 4.36:1 (minimo 4.5:1) sobre fundo #FFFFFF
+Registro da consulta / Vazio,contraste_componente_1.4.11,reprova,Page Header,34:2245,razao 1.00:1 (minimo 3:1)
+Registro da consulta / Vazio,contraste_texto_1.4.3,reprova,Label,"I34:2245;4:2695;346:9110",razao 2.88:1 (minimo 4.5:1) sobre fundo #F5F7FC
+Registro da consulta / Vazio,contraste_componente_1.4.11,reprova,Tag/Color,34:2272,razao 1.14:1 (minimo 3:1)
+Registro da consulta / Vazio,alvo_toque_2.5.8,reprova,Tag/Color,34:2272,110x23 px (minimo 24x24)
+Registro da consulta / Vazio,alvo_toque_2.5.8,reprova,Tag/Grayscale,34:2276,109x23 px (minimo 24x24)
+Registro da consulta / Vazio,contraste_texto_1.4.3,reprova,Label,"I34:2276;4:2182",razao 3.12:1 (minimo 4.5:1) sobre fundo #8F9299
+Registro da consulta / Vazio,contraste_componente_1.4.11,reprova,Tag/Color,34:2280,razao 1.64:1 (minimo 3:1)
+Registro da consulta / Vazio,alvo_toque_2.5.8,reprova,Tag/Color,34:2280,109x23 px (minimo 24x24)
+Registro da consulta / Vazio,contraste_texto_1.4.3,reprova,mask,"I36:2316;4:912;4:2971",razao 2.91:1 (minimo 4.5:1) sobre fundo #F5F7FC
+Registro da consulta / Vazio,contraste_texto_1.4.3,reprova,mask,"I36:2325;4:912;4:2971",razao 2.91:1 (minimo 4.5:1) sobre fundo #F5F7FC
+Registro da consulta / Vazio,contraste_texto_1.4.3,reprova,mask,"I36:2334;4:912;4:2971",razao 2.91:1 (minimo 4.5:1) sobre fundo #F5F7FC
+Registro da consulta / Vazio,contraste_texto_1.4.3,reprova,mask,"I36:2343;4:912;4:2971",razao 2.91:1 (minimo 4.5:1) sobre fundo #F5F7FC
+Registro da consulta / Vazio,contraste_texto_1.4.3,reprova,mask,"I36:2352;4:912;4:2971",razao 2.91:1 (minimo 4.5:1) sobre fundo #F5F7FC
+Registro da consulta / Vazio,contraste_texto_1.4.3,reprova,mask,"I36:2361;4:912;4:2971",razao 2.91:1 (minimo 4.5:1) sobre fundo #F5F7FC
+Registro da consulta / Vazio,contraste_texto_1.4.3,reprova,mask,"I36:2393;4:1001;4:2983",razao 2.91:1 (minimo 4.5:1) sobre fundo #F5F7FC
+Registro da consulta / Vazio,contraste_texto_1.4.3,reprova,mask,"I36:2406;4:912;4:2971",razao 2.91:1 (minimo 4.5:1) sobre fundo #F5F7FC
+Registro da consulta / Vazio,contraste_texto_1.4.3,reprova,mask,"I36:2415;4:912;4:2971",razao 2.91:1 (minimo 4.5:1) sobre fundo #F5F7FC
+Registro da consulta / Vazio,contraste_texto_1.4.3,reprova,mask,"I36:2424;4:1001;4:2983",razao 2.91:1 (minimo 4.5:1) sobre fundo #F5F7FC
+Registro da consulta / Vazio,contraste_texto_1.4.3,reprova,mask,"I36:2434;4:912;4:2971",razao 2.91:1 (minimo 4.5:1) sobre fundo #F5F7FC
+Registro da consulta / Vazio,contraste_texto_1.4.3,reprova,mask,"I36:2443;4:912;4:2971",razao 2.91:1 (minimo 4.5:1) sobre fundo #F5F7FC
+Registro da consulta / Vazio,contraste_texto_1.4.3,reprova,Label,"I36:2452;4:299",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+Registro da consulta / Vazio,contraste_texto_1.4.3,reprova,Label,"I34:2313;4:299",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+Registro da consulta / Preenchido,contraste_componente_1.4.11,reprova,Menu,37:2459,razao 1.07:1 (minimo 3:1)
+Registro da consulta / Preenchido,aderencia_design_system,alerta,Vector,"I37:2459;4:2623;4:2667","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+Registro da consulta / Preenchido,aderencia_design_system,alerta,Vector,"I37:2459;4:2623;4:2669","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+Registro da consulta / Preenchido,aderencia_design_system,alerta,Vector,"I37:2459;4:2623;4:2670","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+Registro da consulta / Preenchido,aderencia_design_system,alerta,Vector,"I37:2459;4:2623;4:2671","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+Registro da consulta / Preenchido,contraste_texto_1.4.3,reprova,Maria Cristina,"I37:2459;4:2626;4:3272",razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+Registro da consulta / Preenchido,contraste_texto_1.4.3,reprova,Consultório Campo Largo,"I37:2459;4:2626;4:3277",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+Registro da consulta / Preenchido,aderencia_design_system,alerta,Ellipse 3,"I37:2459;4:2626;4:3279;4:2916","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+Registro da consulta / Preenchido,contraste_texto_1.4.3,reprova,Label,"I37:2459;4:2627;4:3310",razao 4.36:1 (minimo 4.5:1) sobre fundo #FFFFFF
+Registro da consulta / Preenchido,contraste_componente_1.4.11,reprova,Page Header,37:2460,razao 1.00:1 (minimo 3:1)
+Registro da consulta / Preenchido,contraste_texto_1.4.3,reprova,Label,"I37:2460;4:2695;346:9110",razao 2.88:1 (minimo 4.5:1) sobre fundo #F5F7FC
+Registro da consulta / Preenchido,contraste_componente_1.4.11,reprova,Tag/Color,37:2468,razao 1.14:1 (minimo 3:1)
+Registro da consulta / Preenchido,alvo_toque_2.5.8,reprova,Tag/Color,37:2468,110x23 px (minimo 24x24)
+Registro da consulta / Preenchido,alvo_toque_2.5.8,reprova,Tag/Grayscale,37:2469,109x23 px (minimo 24x24)
+Registro da consulta / Preenchido,contraste_texto_1.4.3,reprova,Label,"I37:2469;4:2182",razao 3.12:1 (minimo 4.5:1) sobre fundo #8F9299
+Registro da consulta / Preenchido,contraste_componente_1.4.11,reprova,Tag/Color,37:2470,razao 1.64:1 (minimo 3:1)
+Registro da consulta / Preenchido,alvo_toque_2.5.8,reprova,Tag/Color,37:2470,109x23 px (minimo 24x24)
+Registro da consulta / Preenchido,contraste_texto_1.4.3,reprova,mask,"I37:2502;4:912;4:2971",razao 2.91:1 (minimo 4.5:1) sobre fundo #F5F7FC
+Registro da consulta / Preenchido,contraste_texto_1.4.3,reprova,mask,"I37:2503;4:912;4:2971",razao 2.91:1 (minimo 4.5:1) sobre fundo #F5F7FC
+Registro da consulta / Preenchido,contraste_texto_1.4.3,reprova,mask,"I37:2504;4:1001;4:2983",razao 2.91:1 (minimo 4.5:1) sobre fundo #F5F7FC
+Registro da consulta / Preenchido,contraste_texto_1.4.3,reprova,mask,"I37:2505;4:912;4:2971",razao 2.91:1 (minimo 4.5:1) sobre fundo #F5F7FC
+Registro da consulta / Preenchido,contraste_texto_1.4.3,reprova,mask,"I37:2506;4:912;4:2971",razao 2.91:1 (minimo 4.5:1) sobre fundo #F5F7FC
+Registro da consulta / Preenchido,contraste_texto_1.4.3,reprova,Label,"I37:2507;4:299",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+Registro da consulta / Preenchido,contraste_texto_1.4.3,reprova,Label,"I37:2515;4:299",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF

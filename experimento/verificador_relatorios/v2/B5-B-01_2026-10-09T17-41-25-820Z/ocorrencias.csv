@@ -1,0 +1,86 @@
+prototipo,criterio,gravidade,no,noId,detalhe
+01 Relatório pronto para finalizar,contraste_componente_1.4.11,reprova,Menu,51:2201,razao 1.00:1 (minimo 3:1)
+01 Relatório pronto para finalizar,aderencia_design_system,alerta,Vector,"I51:2201;4:2623;4:2667","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+01 Relatório pronto para finalizar,aderencia_design_system,alerta,Vector,"I51:2201;4:2623;4:2669","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+01 Relatório pronto para finalizar,aderencia_design_system,alerta,Vector,"I51:2201;4:2623;4:2670","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+01 Relatório pronto para finalizar,aderencia_design_system,alerta,Vector,"I51:2201;4:2623;4:2671","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+01 Relatório pronto para finalizar,contraste_texto_1.4.3,reprova,Maria Cristina,"I51:2201;4:2626;4:3272",razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+01 Relatório pronto para finalizar,contraste_texto_1.4.3,reprova,Consultório Campo Largo,"I51:2201;4:2626;4:3277",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+01 Relatório pronto para finalizar,aderencia_design_system,alerta,Ellipse 3,"I51:2201;4:2626;4:3279;4:2916","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+01 Relatório pronto para finalizar,contraste_texto_1.4.3,reprova,Label,"I51:2201;4:2627;4:3310",razao 4.36:1 (minimo 4.5:1) sobre fundo #FFFFFF
+01 Relatório pronto para finalizar,contraste_componente_1.4.11,reprova,Page Header,51:2272,razao 1.07:1 (minimo 3:1)
+01 Relatório pronto para finalizar,contraste_texto_1.4.3,reprova,Label,"I51:2272;4:2695;346:9110",razao 2.88:1 (minimo 4.5:1) sobre fundo #F5F7FC
+01 Relatório pronto para finalizar,contraste_componente_1.4.11,reprova,Modal,51:2291,razao 1.00:1 (minimo 3:1)
+01 Relatório pronto para finalizar,contraste_texto_1.4.3,reprova,pi-times,"I51:2291;4:2587",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+01 Relatório pronto para finalizar,contraste_texto_1.4.3,reprova,Label,"I51:2291;4:2589;4:3145;346:9110",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+02 Confirmação da finalização,contraste_componente_1.4.11,reprova,Menu,53:2300,razao 1.00:1 (minimo 3:1)
+02 Confirmação da finalização,aderencia_design_system,alerta,Vector,"I53:2300;4:2623;4:2667","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+02 Confirmação da finalização,aderencia_design_system,alerta,Vector,"I53:2300;4:2623;4:2669","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+02 Confirmação da finalização,aderencia_design_system,alerta,Vector,"I53:2300;4:2623;4:2670","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+02 Confirmação da finalização,aderencia_design_system,alerta,Vector,"I53:2300;4:2623;4:2671","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+02 Confirmação da finalização,contraste_texto_1.4.3,reprova,Maria Cristina,"I53:2300;4:2626;4:3272",razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+02 Confirmação da finalização,contraste_texto_1.4.3,reprova,Consultório Campo Largo,"I53:2300;4:2626;4:3277",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+02 Confirmação da finalização,aderencia_design_system,alerta,Ellipse 3,"I53:2300;4:2626;4:3279;4:2916","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+02 Confirmação da finalização,contraste_texto_1.4.3,reprova,Label,"I53:2300;4:2627;4:3310",razao 4.36:1 (minimo 4.5:1) sobre fundo #FFFFFF
+02 Confirmação da finalização,contraste_componente_1.4.11,reprova,Page Header,53:2371,razao 1.07:1 (minimo 3:1)
+02 Confirmação da finalização,contraste_texto_1.4.3,reprova,Label,"I53:2371;4:2695;346:9110",razao 2.88:1 (minimo 4.5:1) sobre fundo #F5F7FC
+02 Confirmação da finalização,contraste_componente_1.4.11,reprova,Dialog,53:2390,razao 1.00:1 (minimo 3:1)
+02 Confirmação da finalização,contraste_texto_1.4.3,reprova,pi-times,"I53:2390;6782:152709;630:9894",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+02 Confirmação da finalização,contraste_texto_1.4.3,reprova,Label,"I53:2390;6782:152712;346:9110",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+03 Lista do dia com status atualizado,contraste_componente_1.4.11,reprova,Menu,55:2399,razao 1.00:1 (minimo 3:1)
+03 Lista do dia com status atualizado,aderencia_design_system,alerta,Vector,"I55:2399;4:2623;4:2667","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+03 Lista do dia com status atualizado,aderencia_design_system,alerta,Vector,"I55:2399;4:2623;4:2669","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+03 Lista do dia com status atualizado,aderencia_design_system,alerta,Vector,"I55:2399;4:2623;4:2670","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+03 Lista do dia com status atualizado,aderencia_design_system,alerta,Vector,"I55:2399;4:2623;4:2671","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+03 Lista do dia com status atualizado,contraste_texto_1.4.3,reprova,Maria Cristina,"I55:2399;4:2626;4:3272",razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+03 Lista do dia com status atualizado,contraste_texto_1.4.3,reprova,Consultório Campo Largo,"I55:2399;4:2626;4:3277",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+03 Lista do dia com status atualizado,aderencia_design_system,alerta,Ellipse 3,"I55:2399;4:2626;4:3279;4:2916","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+03 Lista do dia com status atualizado,contraste_texto_1.4.3,reprova,Label,"I55:2399;4:2627;4:3310",razao 4.36:1 (minimo 4.5:1) sobre fundo #FFFFFF
+03 Lista do dia com status atualizado,contraste_componente_1.4.11,reprova,Page Header,55:2470,razao 1.07:1 (minimo 3:1)
+03 Lista do dia com status atualizado,contraste_componente_1.4.11,reprova,Search Bar,55:2484,razao 1.07:1 (minimo 3:1)
+03 Lista do dia com status atualizado,contraste_texto_1.4.3,reprova,Pesquisar,"I55:2484;4:1185;4:3006",razao 2.91:1 (minimo 4.5:1) sobre fundo #F5F7FC
+03 Lista do dia com status atualizado,contraste_componente_1.4.11,reprova,Agenda/Card 08:00,55:2493,razao 1.00:1 (minimo 3:1)
+03 Lista do dia com status atualizado,contraste_texto_1.4.3,reprova,Label,"I55:2493;4:1422;4:2032;4:542",razao 1.32:1 (minimo 4.5:1) sobre fundo #E0E4EC
+03 Lista do dia com status atualizado,contraste_texto_1.4.3,reprova,Dérick Cabral Castanheira,"I55:2493;4:1430",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+03 Lista do dia com status atualizado,contraste_texto_1.4.3,reprova,•,"I55:2493;4:1431",razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+03 Lista do dia com status atualizado,contraste_texto_1.4.3,reprova,•,"I55:2493;4:1433",razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+03 Lista do dia com status atualizado,contraste_texto_1.4.3,reprova,07:50,"I55:2493;4:1436",razao 1.68:1 (minimo 4.5:1) sobre fundo #FFFFFF
+03 Lista do dia com status atualizado,contraste_texto_1.4.3,reprova,•,"I55:2493;4:1437",razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+03 Lista do dia com status atualizado,contraste_texto_1.4.3,reprova,08:12,"I55:2493;4:1440",razao 1.68:1 (minimo 4.5:1) sobre fundo #FFFFFF
+03 Lista do dia com status atualizado,contraste_texto_1.4.3,reprova,Label,"I55:2493;4:1448",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+03 Lista do dia com status atualizado,contraste_componente_1.4.11,reprova,Agenda/Card 08:30,55:2548,razao 1.00:1 (minimo 3:1)
+03 Lista do dia com status atualizado,contraste_texto_1.4.3,reprova,Label,"I55:2548;4:1422;4:2032;4:542",razao 1.32:1 (minimo 4.5:1) sobre fundo #E0E4EC
+03 Lista do dia com status atualizado,contraste_texto_1.4.3,reprova,Dérick Cabral Castanheira,"I55:2548;4:1430",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+03 Lista do dia com status atualizado,contraste_texto_1.4.3,reprova,•,"I55:2548;4:1431",razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+03 Lista do dia com status atualizado,contraste_texto_1.4.3,reprova,•,"I55:2548;4:1433",razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+03 Lista do dia com status atualizado,contraste_texto_1.4.3,reprova,07:50,"I55:2548;4:1436",razao 1.68:1 (minimo 4.5:1) sobre fundo #FFFFFF
+03 Lista do dia com status atualizado,contraste_texto_1.4.3,reprova,•,"I55:2548;4:1437",razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+03 Lista do dia com status atualizado,contraste_texto_1.4.3,reprova,08:12,"I55:2548;4:1440",razao 1.68:1 (minimo 4.5:1) sobre fundo #FFFFFF
+03 Lista do dia com status atualizado,contraste_texto_1.4.3,reprova,Label,"I55:2548;4:1448",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+03 Lista do dia com status atualizado,contraste_componente_1.4.11,reprova,Agenda/Card 09:30 (atendimento finalizado),55:2603,razao 1.00:1 (minimo 3:1)
+03 Lista do dia com status atualizado,contraste_texto_1.4.3,reprova,Label,"I55:2603;4:1422;4:2032;4:542",razao 1.32:1 (minimo 4.5:1) sobre fundo #E0E4EC
+03 Lista do dia com status atualizado,contraste_texto_1.4.3,reprova,Dérick Cabral Castanheira,"I55:2603;4:1430",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+03 Lista do dia com status atualizado,contraste_texto_1.4.3,reprova,•,"I55:2603;4:1431",razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+03 Lista do dia com status atualizado,contraste_texto_1.4.3,reprova,•,"I55:2603;4:1433",razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+03 Lista do dia com status atualizado,contraste_texto_1.4.3,reprova,07:50,"I55:2603;4:1436",razao 1.68:1 (minimo 4.5:1) sobre fundo #FFFFFF
+03 Lista do dia com status atualizado,contraste_texto_1.4.3,reprova,•,"I55:2603;4:1437",razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+03 Lista do dia com status atualizado,contraste_texto_1.4.3,reprova,08:12,"I55:2603;4:1440",razao 1.68:1 (minimo 4.5:1) sobre fundo #FFFFFF
+03 Lista do dia com status atualizado,contraste_texto_1.4.3,reprova,Label,"I55:2603;4:1448",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+03 Lista do dia com status atualizado,contraste_componente_1.4.11,reprova,Agenda/Card 10:00 (próximo paciente),55:2658,razao 1.00:1 (minimo 3:1)
+03 Lista do dia com status atualizado,contraste_texto_1.4.3,reprova,Dérick Cabral Castanheira,"I55:2658;4:1280",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+03 Lista do dia com status atualizado,contraste_texto_1.4.3,reprova,•,"I55:2658;4:1281",razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+03 Lista do dia com status atualizado,contraste_texto_1.4.3,reprova,•,"I55:2658;4:1283",razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+03 Lista do dia com status atualizado,contraste_texto_1.4.3,reprova,07:50,"I55:2658;4:1286",razao 1.68:1 (minimo 4.5:1) sobre fundo #FFFFFF
+03 Lista do dia com status atualizado,contraste_texto_1.4.3,reprova,Label,"I55:2658;4:1294",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+03 Lista do dia com status atualizado,contraste_componente_1.4.11,reprova,Agenda/Card 10:30,55:2741,razao 1.00:1 (minimo 3:1)
+03 Lista do dia com status atualizado,contraste_texto_1.4.3,reprova,Dérick Cabral Castanheira,"I55:2741;4:1258",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+03 Lista do dia com status atualizado,contraste_texto_1.4.3,reprova,•,"I55:2741;4:1259",razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+03 Lista do dia com status atualizado,contraste_texto_1.4.3,reprova,Label,"I55:2741;4:1262;4:2113;4:299",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+03 Lista do dia com status atualizado,contraste_texto_1.4.3,reprova,Label,"I55:2741;4:1268",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+03 Lista do dia com status atualizado,contraste_componente_1.4.11,reprova,Agenda/Card 11:00,55:2791,razao 1.00:1 (minimo 3:1)
+03 Lista do dia com status atualizado,contraste_texto_1.4.3,reprova,Dérick Cabral Castanheira,"I55:2791;4:1258",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+03 Lista do dia com status atualizado,contraste_texto_1.4.3,reprova,•,"I55:2791;4:1259",razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+03 Lista do dia com status atualizado,contraste_texto_1.4.3,reprova,Label,"I55:2791;4:1262;4:2113;4:299",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+03 Lista do dia com status atualizado,contraste_texto_1.4.3,reprova,Label,"I55:2791;4:1268",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+03 Lista do dia com status atualizado,contraste_componente_1.4.11,reprova,Toast,55:2841,razao 1.00:1 (minimo 3:1)
+03 Lista do dia com status atualizado,contraste_texto_1.4.3,reprova,pi-times,"I55:2841;4:2485;630:9894",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF

@@ -1,0 +1,165 @@
+prototipo,criterio,gravidade,no,noId,detalhe
+DADOS DO PACIENTE,contraste_componente_1.4.11,reprova,Menu,4:5661,razao 1.07:1 (minimo 3:1)
+DADOS DO PACIENTE,aderencia_design_system,alerta,Vector,"I4:5661;1030:19153;380:10016","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+DADOS DO PACIENTE,aderencia_design_system,alerta,Vector,"I4:5661;1030:19153;380:10017","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+DADOS DO PACIENTE,aderencia_design_system,alerta,Vector,"I4:5661;1030:19153;380:10018","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+DADOS DO PACIENTE,aderencia_design_system,alerta,Vector,"I4:5661;1030:19153;380:10019","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+DADOS DO PACIENTE,aderencia_design_system,alerta,Vector,"I4:5661;1030:19153;380:10020","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+DADOS DO PACIENTE,aderencia_design_system,alerta,Vector,"I4:5661;1030:19153;380:10021","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+DADOS DO PACIENTE,contraste_texto_1.4.3,reprova,Menu Item,"I4:5661;1030:19169;1919:18661;932:12065",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+DADOS DO PACIENTE,contraste_texto_1.4.3,reprova,Maria Cristina,"I4:5661;4740:100680;4683:100714",razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+DADOS DO PACIENTE,contraste_texto_1.4.3,reprova,Consultório Campo Largo,"I4:5661;4740:100680;4683:100716",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+DADOS DO PACIENTE,aderencia_design_system,alerta,Ellipse 3,"I4:5661;4740:100680;4683:100718;632:10618","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+DADOS DO PACIENTE,contraste_texto_1.4.3,reprova,Label,"I4:5661;23440:551616;23233:562999",razao 4.36:1 (minimo 4.5:1) sobre fundo #FFFFFF
+DADOS DO PACIENTE,contraste_componente_1.4.11,reprova,Header - Prontuário novo,4:6059,razao 1.07:1 (minimo 3:1)
+DADOS DO PACIENTE,contraste_texto_1.4.3,reprova,(505000),"I4:6059;44335:17824;10520:186848",razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+DADOS DO PACIENTE,contraste_texto_1.4.3,reprova,15/08/1984,"I4:6059;44335:17824;12472:248894",razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+DADOS DO PACIENTE,contraste_texto_1.4.3,reprova,Label,"I4:6059;44335:17824;38515:103787;346:8875",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+DADOS DO PACIENTE,contraste_texto_1.4.3,reprova,Label,"I4:6059;44335:17839;346:9110",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+DADOS DO PACIENTE,contraste_texto_1.4.3,reprova,Tab Title,"I4:6062;997:13665",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+DADOS DO PACIENTE,contraste_texto_1.4.3,reprova,Tab Title,"I4:6066;10656:198457",razao 1.27:1 (minimo 4.5:1) sobre fundo #FFFFFF
+DADOS DO PACIENTE,aderencia_design_system,alerta,Ellipse 3,"I5:6386;632:10618","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+DADOS DO PACIENTE,contraste_texto_1.4.3,reprova,(,5:6391,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+DADOS DO PACIENTE,contraste_texto_1.4.3,reprova,CRM,5:6392,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+DADOS DO PACIENTE,contraste_texto_1.4.3,reprova,•,5:6393,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+DADOS DO PACIENTE,contraste_texto_1.4.3,reprova,Especialidade,5:6394,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+DADOS DO PACIENTE,contraste_texto_1.4.3,reprova,),5:6395,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+DADOS DO PACIENTE,contraste_texto_1.4.3,reprova,Plano 1,5:6397,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+DADOS DO PACIENTE,contraste_texto_1.4.3,reprova,•,5:6398,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+DADOS DO PACIENTE,alvo_toque_2.5.8,reprova,Grayscale Tag,5:6400,76x23 px (minimo 24x24)
+DADOS DO PACIENTE,contraste_texto_1.4.3,reprova,•,5:6401,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+DADOS DO PACIENTE,contraste_componente_1.4.11,reprova,Icon/ lock-open,5:6409,razao 1.00:1 (minimo 3:1)
+DADOS DO PACIENTE,alvo_toque_2.5.8,reprova,Icon/ lock-open,5:6409,16x16 px (minimo 24x24)
+DADOS DO PACIENTE,contraste_texto_1.4.3,reprova,Label,"I5:6429;347:8643",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+DADOS DO PACIENTE,aderencia_design_system,alerta,Ellipse 3,"I5:6447;632:10618","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+DADOS DO PACIENTE,contraste_texto_1.4.3,reprova,(,5:6452,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+DADOS DO PACIENTE,contraste_texto_1.4.3,reprova,CRM,5:6453,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+DADOS DO PACIENTE,contraste_texto_1.4.3,reprova,•,5:6454,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+DADOS DO PACIENTE,contraste_texto_1.4.3,reprova,Especialidade,5:6455,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+DADOS DO PACIENTE,contraste_texto_1.4.3,reprova,),5:6456,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+DADOS DO PACIENTE,contraste_texto_1.4.3,reprova,Plano 1,5:6458,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+DADOS DO PACIENTE,contraste_texto_1.4.3,reprova,•,5:6459,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+DADOS DO PACIENTE,alvo_toque_2.5.8,reprova,Grayscale Tag,5:6461,76x23 px (minimo 24x24)
+DADOS DO PACIENTE,contraste_texto_1.4.3,reprova,•,5:6462,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+DADOS DO PACIENTE,contraste_componente_1.4.11,reprova,Icon/ lock-open,5:6470,razao 1.00:1 (minimo 3:1)
+DADOS DO PACIENTE,alvo_toque_2.5.8,reprova,Icon/ lock-open,5:6470,16x16 px (minimo 24x24)
+DADOS DO PACIENTE,contraste_texto_1.4.3,reprova,Label,"I5:6490;347:8643",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+DADOS DO PACIENTE,aderencia_design_system,alerta,Ellipse 3,"I5:6534;632:10618","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+DADOS DO PACIENTE,contraste_texto_1.4.3,reprova,(,5:6539,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+DADOS DO PACIENTE,contraste_texto_1.4.3,reprova,CRM,5:6540,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+DADOS DO PACIENTE,contraste_texto_1.4.3,reprova,•,5:6541,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+DADOS DO PACIENTE,contraste_texto_1.4.3,reprova,Especialidade,5:6542,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+DADOS DO PACIENTE,contraste_texto_1.4.3,reprova,),5:6543,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+DADOS DO PACIENTE,contraste_texto_1.4.3,reprova,Plano 1,5:6545,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+DADOS DO PACIENTE,contraste_texto_1.4.3,reprova,•,5:6546,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+DADOS DO PACIENTE,alvo_toque_2.5.8,reprova,Grayscale Tag,5:6548,76x23 px (minimo 24x24)
+DADOS DO PACIENTE,contraste_texto_1.4.3,reprova,•,5:6549,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+DADOS DO PACIENTE,contraste_componente_1.4.11,reprova,Icon/ lock-open,5:6557,razao 1.00:1 (minimo 3:1)
+DADOS DO PACIENTE,alvo_toque_2.5.8,reprova,Icon/ lock-open,5:6557,16x16 px (minimo 24x24)
+DADOS DO PACIENTE,contraste_texto_1.4.3,reprova,Label,"I5:6577;347:8643",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+DADOS DO PACIENTE,contraste_componente_1.4.11,reprova,Menu,5:6594,razao 1.07:1 (minimo 3:1)
+DADOS DO PACIENTE,aderencia_design_system,alerta,Vector,"I5:6594;1030:19153;380:10016","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+DADOS DO PACIENTE,aderencia_design_system,alerta,Vector,"I5:6594;1030:19153;380:10017","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+DADOS DO PACIENTE,aderencia_design_system,alerta,Vector,"I5:6594;1030:19153;380:10018","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+DADOS DO PACIENTE,aderencia_design_system,alerta,Vector,"I5:6594;1030:19153;380:10019","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+DADOS DO PACIENTE,aderencia_design_system,alerta,Vector,"I5:6594;1030:19153;380:10020","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+DADOS DO PACIENTE,aderencia_design_system,alerta,Vector,"I5:6594;1030:19153;380:10021","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+DADOS DO PACIENTE,contraste_texto_1.4.3,reprova,Menu Item,"I5:6594;1030:19169;1919:18661;932:12065",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+DADOS DO PACIENTE,contraste_texto_1.4.3,reprova,Maria Cristina,"I5:6594;4740:100680;4683:100714",razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+DADOS DO PACIENTE,contraste_texto_1.4.3,reprova,Consultório Campo Largo,"I5:6594;4740:100680;4683:100716",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+DADOS DO PACIENTE,aderencia_design_system,alerta,Ellipse 3,"I5:6594;4740:100680;4683:100718;632:10618","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+DADOS DO PACIENTE,contraste_texto_1.4.3,reprova,Label,"I5:6594;23440:551616;23233:562999",razao 4.36:1 (minimo 4.5:1) sobre fundo #FFFFFF
+DADOS DO PACIENTE,contraste_componente_1.4.11,reprova,Header - Prontuário novo,5:6596,razao 1.07:1 (minimo 3:1)
+DADOS DO PACIENTE,contraste_texto_1.4.3,reprova,(505000),"I5:6596;44335:17824;10520:186848",razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+DADOS DO PACIENTE,contraste_texto_1.4.3,reprova,15/08/1984,"I5:6596;44335:17824;12472:248894",razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+DADOS DO PACIENTE,contraste_texto_1.4.3,reprova,Label,"I5:6596;44335:17824;38515:103787;346:8875",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+DADOS DO PACIENTE,contraste_texto_1.4.3,reprova,Label,"I5:6596;44335:17839;346:9110",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+DADOS DO PACIENTE,contraste_texto_1.4.3,reprova,Tab Title,"I5:6600;997:13665",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+DADOS DO PACIENTE,contraste_texto_1.4.3,reprova,Tab Title,"I5:6603;10656:198457",razao 1.27:1 (minimo 4.5:1) sobre fundo #FFFFFF
+DADOS DO PACIENTE,contraste_texto_1.4.3,reprova,Pesquisar,"I6:8094;10749:193133;1208:18385;1208:18362",razao 2.90:1 (minimo 4.5:1) sobre fundo #F5F7FC
+DADOS DO PACIENTE,contraste_texto_1.4.3,reprova,Title,"I6:8094;10463:187151;1187:16843",razao 2.90:1 (minimo 4.5:1) sobre fundo #F5F7FC
+DADOS DO PACIENTE,contraste_texto_1.4.3,reprova,Title,"I6:8094;10463:187158;1187:16843",razao 2.90:1 (minimo 4.5:1) sobre fundo #F5F7FC
+DADOS DO PACIENTE,contraste_texto_1.4.3,reprova,Title,"I6:8094;10746:191312;1187:16843",razao 2.90:1 (minimo 4.5:1) sobre fundo #F5F7FC
+DADOS DO PACIENTE,contraste_texto_1.4.3,reprova,Title,"I6:8094;10463:187153;1187:16843",razao 2.90:1 (minimo 4.5:1) sobre fundo #F5F7FC
+DADOS DO PACIENTE,contraste_texto_1.4.3,reprova,Title,"I6:8094;10463:187154;1187:16843",razao 2.90:1 (minimo 4.5:1) sobre fundo #F5F7FC
+DADOS DO PACIENTE,contraste_texto_1.4.3,reprova,Title,"I6:8094;10463:187160;1187:16843",razao 2.90:1 (minimo 4.5:1) sobre fundo #F5F7FC
+DADOS DO PACIENTE,contraste_texto_1.4.3,reprova,Title,"I6:8094;27956:574136;1187:16843",razao 2.90:1 (minimo 4.5:1) sobre fundo #F5F7FC
+DADOS DO PACIENTE,contraste_texto_1.4.3,reprova,Title,"I6:8094;10463:187155;1187:16843",razao 2.90:1 (minimo 4.5:1) sobre fundo #F5F7FC
+DADOS DO PACIENTE,contraste_texto_1.4.3,reprova,Title,"I6:8094;10463:187156;1187:16843",razao 2.90:1 (minimo 4.5:1) sobre fundo #F5F7FC
+DADOS DO PACIENTE,contraste_texto_1.4.3,reprova,Title,"I6:8094;10746:191414;1187:16843",razao 2.90:1 (minimo 4.5:1) sobre fundo #F5F7FC
+DADOS DO PACIENTE,contraste_texto_1.4.3,reprova,Title,"I6:8094;10749:192980;1187:16843",razao 2.90:1 (minimo 4.5:1) sobre fundo #F5F7FC
+DADOS DO PACIENTE,contraste_texto_1.4.3,reprova,Title,"I6:8094;10463:187157;1187:16843",razao 2.90:1 (minimo 4.5:1) sobre fundo #F5F7FC
+DADOS DO PACIENTE,contraste_texto_1.4.3,reprova,Title,"I6:8094;22461:512972;1187:16843",razao 2.90:1 (minimo 4.5:1) sobre fundo #F5F7FC
+DADOS DO PACIENTE,contraste_texto_1.4.3,reprova,Title,"I6:8094;22850:497993;1187:16843",razao 2.90:1 (minimo 4.5:1) sobre fundo #F5F7FC
+DADOS DO PACIENTE,contraste_texto_1.4.3,reprova,Title,"I6:8094;26568:552619;1187:16843",razao 2.90:1 (minimo 4.5:1) sobre fundo #F5F7FC
+DADOS DO PACIENTE,contraste_texto_1.4.3,reprova,Label,"I6:8244;632:11349",razao 1.32:1 (minimo 4.5:1) sobre fundo #E0E4EC
+DADOS DO PACIENTE,contraste_componente_1.4.11,reprova,Card Frame - 1 (Outline Focus),6:8248,razao 1.07:1 (minimo 3:1)
+DADOS DO PACIENTE,contraste_texto_1.4.3,reprova,Pré-Atendimento,"I6:8248;4810:105715;39909:938209",razao 2.88:1 (minimo 4.5:1) sobre fundo #F5F7FC
+DADOS DO PACIENTE,contraste_texto_1.4.3,reprova,Preenchido por Dr. Ciclano em 11 de Jan. de 2021,"I6:8248;4810:105715;39909:938210",razao 2.90:1 (minimo 4.5:1) sobre fundo #F5F7FC
+DADOS DO PACIENTE,contraste_componente_1.4.11,reprova,Card Frame - 1 (Outline Focus),6:8249,razao 1.07:1 (minimo 3:1)
+DADOS DO PACIENTE,contraste_texto_1.4.3,reprova,Pré-Atendimento,"I6:8249;4810:105715;39909:938209",razao 2.88:1 (minimo 4.5:1) sobre fundo #F5F7FC
+DADOS DO PACIENTE,contraste_texto_1.4.3,reprova,Preenchido por Dr. Ciclano em 11 de Jan. de 2021,"I6:8249;4810:105715;39909:938210",razao 2.90:1 (minimo 4.5:1) sobre fundo #F5F7FC
+DADOS DO PACIENTE,contraste_componente_1.4.11,reprova,Card Frame - 1 (Outline Focus),6:8250,razao 1.07:1 (minimo 3:1)
+DADOS DO PACIENTE,contraste_texto_1.4.3,reprova,Pré-Atendimento,"I6:8250;4810:105715;39909:938209",razao 2.88:1 (minimo 4.5:1) sobre fundo #F5F7FC
+DADOS DO PACIENTE,contraste_texto_1.4.3,reprova,Preenchido por Dr. Ciclano em 11 de Jan. de 2021,"I6:8250;4810:105715;39909:938210",razao 2.90:1 (minimo 4.5:1) sobre fundo #F5F7FC
+DADOS DO PACIENTE,contraste_componente_1.4.11,reprova,Card Frame - 1 (Outline Focus),6:8251,razao 1.07:1 (minimo 3:1)
+DADOS DO PACIENTE,contraste_texto_1.4.3,reprova,Pré-Atendimento,"I6:8251;4810:105715;39909:938222",razao 1.56:1 (minimo 4.5:1) sobre fundo #F5F7FC
+DADOS DO PACIENTE,contraste_texto_1.4.3,reprova,Preenchido por Dr. Ciclano em 11 de Jan. de 2021,"I6:8251;4810:105715;39909:938223",razao 2.90:1 (minimo 4.5:1) sobre fundo #F5F7FC
+DADOS DO PACIENTE,contraste_componente_1.4.11,reprova,Menu,8:8431,razao 1.07:1 (minimo 3:1)
+DADOS DO PACIENTE,aderencia_design_system,alerta,Vector,"I8:8431;1030:19153;380:10016","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+DADOS DO PACIENTE,aderencia_design_system,alerta,Vector,"I8:8431;1030:19153;380:10017","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+DADOS DO PACIENTE,aderencia_design_system,alerta,Vector,"I8:8431;1030:19153;380:10018","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+DADOS DO PACIENTE,aderencia_design_system,alerta,Vector,"I8:8431;1030:19153;380:10019","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+DADOS DO PACIENTE,aderencia_design_system,alerta,Vector,"I8:8431;1030:19153;380:10020","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+DADOS DO PACIENTE,aderencia_design_system,alerta,Vector,"I8:8431;1030:19153;380:10021","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+DADOS DO PACIENTE,contraste_texto_1.4.3,reprova,Menu Item,"I8:8431;1030:19169;1919:18661;932:12065",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+DADOS DO PACIENTE,contraste_texto_1.4.3,reprova,Maria Cristina,"I8:8431;4740:100680;4683:100714",razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+DADOS DO PACIENTE,contraste_texto_1.4.3,reprova,Consultório Campo Largo,"I8:8431;4740:100680;4683:100716",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+DADOS DO PACIENTE,aderencia_design_system,alerta,Ellipse 3,"I8:8431;4740:100680;4683:100718;632:10618","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+DADOS DO PACIENTE,contraste_texto_1.4.3,reprova,Label,"I8:8431;23440:551616;23233:562999",razao 4.36:1 (minimo 4.5:1) sobre fundo #FFFFFF
+DADOS DO PACIENTE,contraste_componente_1.4.11,reprova,Header - Prontuário novo,8:8433,razao 1.07:1 (minimo 3:1)
+DADOS DO PACIENTE,contraste_texto_1.4.3,reprova,(505000),"I8:8433;44335:17824;10520:186848",razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+DADOS DO PACIENTE,contraste_texto_1.4.3,reprova,15/08/1984,"I8:8433;44335:17824;12472:248894",razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+DADOS DO PACIENTE,contraste_texto_1.4.3,reprova,Label,"I8:8433;44335:17824;38515:103787;346:8875",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+DADOS DO PACIENTE,contraste_texto_1.4.3,reprova,Label,"I8:8433;44335:17839;346:9110",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+DADOS DO PACIENTE,contraste_texto_1.4.3,reprova,Tab Title,"I8:8436;997:13665",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+DADOS DO PACIENTE,contraste_texto_1.4.3,reprova,Tab Title,"I8:8440;10656:198457",razao 1.27:1 (minimo 4.5:1) sobre fundo #FFFFFF
+DADOS DO PACIENTE,aderencia_design_system,alerta,Ellipse 3,"I8:8454;632:10618","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+DADOS DO PACIENTE,contraste_texto_1.4.3,reprova,(,8:8459,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+DADOS DO PACIENTE,contraste_texto_1.4.3,reprova,CRM,8:8460,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+DADOS DO PACIENTE,contraste_texto_1.4.3,reprova,•,8:8461,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+DADOS DO PACIENTE,contraste_texto_1.4.3,reprova,Especialidade,8:8462,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+DADOS DO PACIENTE,contraste_texto_1.4.3,reprova,),8:8463,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+DADOS DO PACIENTE,contraste_texto_1.4.3,reprova,Plano 1,8:8465,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+DADOS DO PACIENTE,contraste_texto_1.4.3,reprova,•,8:8466,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+DADOS DO PACIENTE,alvo_toque_2.5.8,reprova,Grayscale Tag,8:8468,76x23 px (minimo 24x24)
+DADOS DO PACIENTE,contraste_texto_1.4.3,reprova,•,8:8469,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+DADOS DO PACIENTE,contraste_componente_1.4.11,reprova,Icon/ lock-open,8:8477,razao 1.00:1 (minimo 3:1)
+DADOS DO PACIENTE,alvo_toque_2.5.8,reprova,Icon/ lock-open,8:8477,16x16 px (minimo 24x24)
+DADOS DO PACIENTE,contraste_texto_1.4.3,reprova,Label,"I8:8497;347:8643",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+DADOS DO PACIENTE,aderencia_design_system,alerta,Ellipse 3,"I8:8501;632:10618","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+DADOS DO PACIENTE,contraste_texto_1.4.3,reprova,(,8:8506,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+DADOS DO PACIENTE,contraste_texto_1.4.3,reprova,CRM,8:8507,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+DADOS DO PACIENTE,contraste_texto_1.4.3,reprova,•,8:8508,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+DADOS DO PACIENTE,contraste_texto_1.4.3,reprova,Especialidade,8:8509,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+DADOS DO PACIENTE,contraste_texto_1.4.3,reprova,),8:8510,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+DADOS DO PACIENTE,contraste_texto_1.4.3,reprova,Plano 1,8:8512,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+DADOS DO PACIENTE,contraste_texto_1.4.3,reprova,•,8:8513,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+DADOS DO PACIENTE,alvo_toque_2.5.8,reprova,Grayscale Tag,8:8515,76x23 px (minimo 24x24)
+DADOS DO PACIENTE,contraste_texto_1.4.3,reprova,•,8:8516,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+DADOS DO PACIENTE,contraste_componente_1.4.11,reprova,Icon/ lock-open,8:8524,razao 1.00:1 (minimo 3:1)
+DADOS DO PACIENTE,alvo_toque_2.5.8,reprova,Icon/ lock-open,8:8524,16x16 px (minimo 24x24)
+DADOS DO PACIENTE,contraste_texto_1.4.3,reprova,Label,"I8:8544;347:8643",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+DADOS DO PACIENTE,aderencia_design_system,alerta,Ellipse 3,"I8:8548;632:10618","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+DADOS DO PACIENTE,contraste_texto_1.4.3,reprova,(,8:8553,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+DADOS DO PACIENTE,contraste_texto_1.4.3,reprova,CRM,8:8554,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+DADOS DO PACIENTE,contraste_texto_1.4.3,reprova,•,8:8555,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+DADOS DO PACIENTE,contraste_texto_1.4.3,reprova,Especialidade,8:8556,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+DADOS DO PACIENTE,contraste_texto_1.4.3,reprova,),8:8557,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+DADOS DO PACIENTE,contraste_texto_1.4.3,reprova,Plano 1,8:8559,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+DADOS DO PACIENTE,contraste_texto_1.4.3,reprova,•,8:8560,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+DADOS DO PACIENTE,alvo_toque_2.5.8,reprova,Grayscale Tag,8:8562,76x23 px (minimo 24x24)
+DADOS DO PACIENTE,contraste_texto_1.4.3,reprova,•,8:8563,razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+DADOS DO PACIENTE,contraste_componente_1.4.11,reprova,Icon/ lock-open,8:8571,razao 1.00:1 (minimo 3:1)
+DADOS DO PACIENTE,alvo_toque_2.5.8,reprova,Icon/ lock-open,8:8571,16x16 px (minimo 24x24)
+DADOS DO PACIENTE,contraste_texto_1.4.3,reprova,Label,"I8:8591;347:8643",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
