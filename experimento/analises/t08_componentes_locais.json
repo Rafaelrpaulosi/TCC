@@ -1,0 +1,163 @@
+{
+ "A": [],
+ "B": [
+  {
+   "id": "12:2615",
+   "tipo": "COMPONENT",
+   "nome": "Painel/Próximo paciente",
+   "pagina": "B1-B-01"
+  },
+  {
+   "id": "20:2190",
+   "tipo": "COMPONENT_SET",
+   "nome": "B2/Dado",
+   "pagina": "B2-B-01"
+  },
+  {
+   "id": "20:2174",
+   "tipo": "COMPONENT",
+   "nome": "Destaque=Não",
+   "pagina": "B2-B-01"
+  },
+  {
+   "id": "20:2182",
+   "tipo": "COMPONENT",
+   "nome": "Destaque=Sim",
+   "pagina": "B2-B-01"
+  },
+  {
+   "id": "20:2191",
+   "tipo": "COMPONENT",
+   "nome": "B2/Título de bloco",
+   "pagina": "B2-B-01"
+  },
+  {
+   "id": "21:2326",
+   "tipo": "COMPONENT",
+   "nome": "B2/Conteúdo/Histórico recente",
+   "pagina": "B2-B-01"
+  },
+  {
+   "id": "21:2377",
+   "tipo": "COMPONENT",
+   "nome": "B2/Conteúdo/Condições e uso contínuo",
+   "pagina": "B2-B-01"
+  },
+  {
+   "id": "21:2408",
+   "tipo": "COMPONENT",
+   "nome": "B2/Conteúdo/Últimos exames",
+   "pagina": "B2-B-01"
+  },
+  {
+   "id": "21:2438",
+   "tipo": "COMPONENT",
+   "nome": "B2/Conteúdo/Identificação",
+   "pagina": "B2-B-01"
+  },
+  {
+   "id": "24:2598",
+   "tipo": "COMPONENT_SET",
+   "nome": "B2/Conteúdo/Queixa da recepção",
+   "pagina": "B2-B-01"
+  },
+  {
+   "id": "20:2196",
+   "tipo": "COMPONENT",
+   "nome": "Estado=Com queixa",
+   "pagina": "B2-B-01"
+  },
+  {
+   "id": "24:2590",
+   "tipo": "COMPONENT",
+   "nome": "Estado=Sem queixa",
+   "pagina": "B2-B-01"
+  },
+  {
+   "id": "37:2433",
+   "tipo": "COMPONENT",
+   "nome": "Prescrição/Item prescrito",
+   "pagina": "B3-B-01"
+  },
+  {
+   "id": "44:2483",
+   "tipo": "COMPONENT",
+   "nome": "Relatório da consulta/Identificação",
+   "pagina": "B4-B-01"
+  },
+  {
+   "id": "44:2500",
+   "tipo": "COMPONENT",
+   "nome": "Relatório da consulta/Conteúdo",
+   "pagina": "B4-B-01"
+  },
+  {
+   "id": "51:2173",
+   "tipo": "COMPONENT",
+   "nome": "Conteúdo de modal/Relatório da consulta",
+   "pagina": "B5-B-01"
+  }
+ ],
+ "C": [
+  {
+   "id": "14:2278",
+   "tipo": "COMPONENT",
+   "nome": "B2/Cabeçalho de seção",
+   "pagina": "B2-C-01"
+  },
+  {
+   "id": "14:2285",
+   "tipo": "COMPONENT",
+   "nome": "B2/Linha de dado",
+   "pagina": "B2-C-01"
+  },
+  {
+   "id": "14:2288",
+   "tipo": "COMPONENT",
+   "nome": "B2/Conteúdo de card/Queixa",
+   "pagina": "B2-C-01"
+  },
+  {
+   "id": "14:2299",
+   "tipo": "COMPONENT",
+   "nome": "B2/Conteúdo de card/Histórico recente",
+   "pagina": "B2-C-01"
+  },
+  {
+   "id": "14:2350",
+   "tipo": "COMPONENT",
+   "nome": "B2/Conteúdo de card/Condições e medicamentos",
+   "pagina": "B2-C-01"
+  },
+  {
+   "id": "14:2380",
+   "tipo": "COMPONENT",
+   "nome": "B2/Conteúdo de card/Dados cadastrais",
+   "pagina": "B2-C-01"
+  },
+  {
+   "id": "15:2470",
+   "tipo": "COMPONENT",
+   "nome": "B2/Conteúdo de card/Queixa (sem registro)",
+   "pagina": "B2-C-01"
+  },
+  {
+   "id": "25:2678",
+   "tipo": "COMPONENT",
+   "nome": "B4/Dado do relatório",
+   "pagina": "B4-C-01"
+  },
+  {
+   "id": "25:2681",
+   "tipo": "COMPONENT",
+   "nome": "B4/Conteúdo de modal/Relatório da consulta",
+   "pagina": "B4-C-01"
+  },
+  {
+   "id": "29:2174",
+   "tipo": "COMPONENT",
+   "nome": "B5/Conteúdo de modal/Confirmação de finalização",
+   "pagina": "B5-C-01"
+  }
+ ]
+}

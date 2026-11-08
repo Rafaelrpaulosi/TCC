@@ -63,10 +63,14 @@ function pareceComponente(node, ehRaiz) {
   return PALAVRAS_COMPONENTE.some((p) => nome.includes(p));
 }
 
-function usaBibliotecaDoDesignSystem(node) {
+function usaBibliotecaDoDesignSystem(node, componentesExcluidos) {
   // Nos com estilos vinculados (fill/text/effect/stroke) ou instancias de
   // componentes sao considerados aderentes ao design system.
-  if (node.type === 'INSTANCE' && node.componentId) return true;
+  // componentesExcluidos (opcional, T08/C4.13): Set de ids de componentes que
+  // nao contam como biblioteca (componentes locais criados na execucao). A
+  // instancia deles so e aderente se tiver estilo ou variavel vinculada.
+  if (node.type === 'INSTANCE' && node.componentId &&
+      !(componentesExcluidos && componentesExcluidos.has(node.componentId))) return true;
   if (node.styles && Object.keys(node.styles).length > 0) return true;
   if (node.boundVariables && Object.keys(node.boundVariables).length > 0) return true;
   return false;
@@ -81,6 +85,7 @@ function temPreenchimentoOuTraco(node) {
 // tokens: { cores: Set<hex>, tamanhosFonte: Set<number> } (opcional)
 function analisarPrototipo(frame, opcoes = {}) {
   const tokens = opcoes.tokens || null;
+  const componentesExcluidos = opcoes.componentesExcluidos || null;
   const findings = [];
   let totalNos = 0;
   let nosAderentes = 0;
@@ -129,7 +134,7 @@ function analisarPrototipo(frame, opcoes = {}) {
       (!ehConteiner && (temPreenchimentoOuTraco(node) || node.type === 'TEXT'));
     if (elegivelAderencia) {
       nosElegiveisAderencia += 1;
-      if (usaBibliotecaDoDesignSystem(node)) {
+      if (usaBibliotecaDoDesignSystem(node, componentesExcluidos)) {
         nosAderentes += 1;
       } else {
         registrar('aderencia_design_system', 'alerta', node,
