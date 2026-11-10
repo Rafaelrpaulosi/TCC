@@ -1,0 +1,3 @@
+prototipo,densidade_total_nos,textos_total,textos_aprovados_contraste,textos_pct_conformidade_1_4_3,componentes_total,componentes_aprovados_contraste,componentes_pct_conformidade_1_4_11,alvos_toque_total,alvos_toque_aprovados,alvos_toque_pct_conformidade_2_5_8,aderencia_design_system_pct,aderencia_nos_aderentes,aderencia_nos_elegiveis,cores_distintas_fora_token,tamanhos_fonte_distintos_fora_token
+Tela 1 · Dados do paciente (com queixa),275,76,68,89.47,12,3,25,12,10,83.33,93.2,192,206,19,7
+Tela 2 · Dados do paciente (sem queixa),249,64,56,87.5,12,3,25,12,10,83.33,92.51,173,187,17,7

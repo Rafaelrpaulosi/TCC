@@ -86,6 +86,11 @@ function temPreenchimentoOuTraco(node) {
 function analisarPrototipo(frame, opcoes = {}) {
   const tokens = opcoes.tokens || null;
   const componentesExcluidos = opcoes.componentesExcluidos || null;
+  // avaliacoes (opcional, T16): array que recebe o resultado de cada texto e alvo avaliado
+  const avaliacoes = opcoes.avaliacoes || null;
+  const anotar = (criterio, node, aprovado, detalhe) => {
+    if (avaliacoes) avaliacoes.push({ criterio, noId: node.id, nome: node.name, aprovado, detalhe, bbox: node.absoluteBoundingBox || null });
+  };
   const findings = [];
   let totalNos = 0;
   let nosAderentes = 0;
@@ -113,9 +118,24 @@ function analisarPrototipo(frame, opcoes = {}) {
   // dentroDeComponente: ja existe um ancestral contado como componente de
   // interface; pecas internas (icone dentro de botao, label dentro de chip)
   // nao sao alvos de toque nem componentes separados para 1.4.11 e 2.5.8.
-  function andar(node, fundoHerdado, profundidade, dentroDeComponente) {
+  // v3 (09/11/2026): nao conta no fora da area de recorte de um conteiner com
+  // clipsContent sem rolagem (conteudo cortado, que nao aparece na tela).
+  // respeitarRecorte: false reproduz a regra da v2 (relatorios de 09/10/2026).
+  const respeitarRecorte = opcoes.respeitarRecorte !== false;
+  const intersecta = (b, r) => b && r && b.x < r.x + r.width && b.x + b.width > r.x && b.y < r.y + r.height && b.y + b.height > r.y;
+  function andar(node, fundoHerdado, profundidade, dentroDeComponente, recorte) {
     // nos ocultos (e toda a sua subarvore) nao aparecem na tela renderizada
     if (node.visible === false) return;
+    if (respeitarRecorte && recorte && node.absoluteBoundingBox && !intersecta(node.absoluteBoundingBox, recorte)) return;
+    let recorteFilhos = recorte;
+    if (respeitarRecorte && node.clipsContent && !(node.overflowDirection && node.overflowDirection !== 'NONE') && node.absoluteBoundingBox) {
+      const b = node.absoluteBoundingBox;
+      if (!recorte) recorteFilhos = b;
+      else {
+        const x = Math.max(b.x, recorte.x), y = Math.max(b.y, recorte.y);
+        recorteFilhos = { x, y, width: Math.max(0, Math.min(b.x + b.width, recorte.x + recorte.width) - x), height: Math.max(0, Math.min(b.y + b.height, recorte.y + recorte.height) - y) };
+      }
+    }
     totalNos += 1;
     const ehRaiz = profundidade === 0;
     const ehConteiner = CONTEINERES.includes(node.type);
@@ -173,6 +193,8 @@ function analisarPrototipo(frame, opcoes = {}) {
         const corTextoComposta = compor(corTexto, fundoRef);
         const razao = razaoContraste(corTextoComposta, fundoRef);
         const limiar = ehTextoGrande(node.style) ? LIMIAR_TEXTO_GRANDE : LIMIAR_TEXTO_NORMAL;
+        anotar('contraste_texto_1.4.3', node, razao + 1e-9 >= limiar,
+          `razao ${razao.toFixed(2)}:1 (minimo ${limiar}:1); texto ${paraHex(corTextoComposta)} sobre fundo ${paraHex(fundoRef)}`);
         if (razao + 1e-9 >= limiar) {
           textosAprovados += 1;
         } else {
@@ -206,6 +228,8 @@ function analisarPrototipo(frame, opcoes = {}) {
       const bb = node.absoluteBoundingBox;
       if (bb && typeof bb.width === 'number' && typeof bb.height === 'number') {
         alvos += 1;
+        anotar('alvo_toque_2.5.8', node, bb.width + 1e-6 >= ALVO_MIN_PX && bb.height + 1e-6 >= ALVO_MIN_PX,
+          `${bb.width.toFixed(0)}x${bb.height.toFixed(0)} px (minimo ${ALVO_MIN_PX}x${ALVO_MIN_PX})`);
         if (bb.width + 1e-6 >= ALVO_MIN_PX && bb.height + 1e-6 >= ALVO_MIN_PX) {
           alvosAprovados += 1;
         } else {
@@ -216,7 +240,7 @@ function analisarPrototipo(frame, opcoes = {}) {
     }
 
     for (const filho of node.children || []) {
-      andar(filho, fundo, profundidade + 1, dentroDeComponente || ehComponente);
+      andar(filho, fundo, profundidade + 1, dentroDeComponente || ehComponente, recorteFilhos);
     }
   }
 
@@ -226,7 +250,7 @@ function analisarPrototipo(frame, opcoes = {}) {
     return c ? compor(c, { r: 1, g: 1, b: 1, a: 1 }) : { r: 1, g: 1, b: 1, a: 1 };
   })();
 
-  andar(frame, fundoInicial, 0, false);
+  andar(frame, fundoInicial, 0, false, null);
 
   const pct = (n, d) => (d === 0 ? null : Math.round((n / d) * 10000) / 100);
 

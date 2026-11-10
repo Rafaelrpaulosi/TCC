@@ -1,0 +1,644 @@
+{
+  "gerado_em": "2026-11-09T23:06:24.935Z",
+  "fonte": "exportacao API Figma 07/11/2026 (experimento/exportacoes)",
+  "fileKey": null,
+  "total_prototipos": 2,
+  "prototipos": [
+    {
+      "prototipo": "Tela 1 · Dados do paciente (com queixa)",
+      "prototipoId": "20:2265",
+      "metricas": {
+        "densidade_total_nos": 275,
+        "textos_total": 76,
+        "textos_aprovados_contraste": 68,
+        "textos_pct_conformidade_1_4_3": 89.47,
+        "componentes_total": 12,
+        "componentes_aprovados_contraste": 3,
+        "componentes_pct_conformidade_1_4_11": 25,
+        "alvos_toque_total": 12,
+        "alvos_toque_aprovados": 10,
+        "alvos_toque_pct_conformidade_2_5_8": 83.33,
+        "aderencia_design_system_pct": 93.2,
+        "aderencia_nos_aderentes": 192,
+        "aderencia_nos_elegiveis": 206,
+        "cores_distintas_fora_token": 19,
+        "tamanhos_fonte_distintos_fora_token": 7
+      },
+      "valoresForaToken": {
+        "cores": [
+          "#000000",
+          "#003F1A",
+          "#144027",
+          "#1A1D22",
+          "#54A275",
+          "#590019",
+          "#594600",
+          "#5D6066",
+          "#8F9299",
+          "#A1D6B7",
+          "#B1D349",
+          "#C4C8D0",
+          "#E0E4EC",
+          "#ED1450",
+          "#EFFFBF",
+          "#F5F7FC",
+          "#FEF0BE",
+          "#FFBFD1",
+          "#FFFFFF"
+        ],
+        "tamanhosFonte": [
+          8,
+          11,
+          12,
+          14,
+          16,
+          22,
+          24
+        ]
+      },
+      "findings": [
+        {
+          "prototipo": "Tela 1 · Dados do paciente (com queixa)",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Menu",
+          "noId": "20:2266",
+          "detalhe": "razao 1.00:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "Tela 1 · Dados do paciente (com queixa)",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Vector",
+          "noId": "I20:2266;4:2623;4:2667",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "Tela 1 · Dados do paciente (com queixa)",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Vector",
+          "noId": "I20:2266;4:2623;4:2669",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "Tela 1 · Dados do paciente (com queixa)",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Vector",
+          "noId": "I20:2266;4:2623;4:2670",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "Tela 1 · Dados do paciente (com queixa)",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Vector",
+          "noId": "I20:2266;4:2623;4:2671",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "Tela 1 · Dados do paciente (com queixa)",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Maria Cristina",
+          "noId": "I20:2266;4:2626;4:3272",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "Tela 1 · Dados do paciente (com queixa)",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Consultório Campo Largo",
+          "noId": "I20:2266;4:2626;4:3277",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "Tela 1 · Dados do paciente (com queixa)",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Ellipse 3",
+          "noId": "I20:2266;4:2626;4:3279;4:2916",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "Tela 1 · Dados do paciente (com queixa)",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I20:2266;4:2627;4:3310",
+          "detalhe": "razao 4.36:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "Tela 1 · Dados do paciente (com queixa)",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Page Header",
+          "noId": "20:2337",
+          "detalhe": "razao 1.00:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "Tela 1 · Dados do paciente (com queixa)",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I20:2337;4:2715;346:9110",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "Tela 1 · Dados do paciente (com queixa)",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Tag/Color",
+          "noId": "21:2514",
+          "detalhe": "razao 1.64:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "Tela 1 · Dados do paciente (com queixa)",
+          "criterio": "alvo_toque_2.5.8",
+          "gravidade": "reprova",
+          "no": "Tag/Color",
+          "noId": "21:2514",
+          "detalhe": "109x23 px (minimo 24x24)"
+        },
+        {
+          "prototipo": "Tela 1 · Dados do paciente (com queixa)",
+          "criterio": "alvo_toque_2.5.8",
+          "gravidade": "reprova",
+          "no": "Tag/Grayscale",
+          "noId": "21:2518",
+          "detalhe": "63x23 px (minimo 24x24)"
+        },
+        {
+          "prototipo": "Tela 1 · Dados do paciente (com queixa)",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Inline Message · Alergia",
+          "noId": "21:2523",
+          "detalhe": "razao 1.54:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "Tela 1 · Dados do paciente (com queixa)",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Card · Queixa registrada na recepção",
+          "noId": "21:2535",
+          "detalhe": "razao 1.07:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "Tela 1 · Dados do paciente (com queixa)",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Vector",
+          "noId": "I21:2535;4:2797;20:2197;20:2192;4:5895",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "Tela 1 · Dados do paciente (com queixa)",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Card · Histórico recente",
+          "noId": "21:2561",
+          "detalhe": "razao 1.07:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "Tela 1 · Dados do paciente (com queixa)",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Vector",
+          "noId": "I21:2561;4:2797;21:2327;20:2192;4:5953",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "Tela 1 · Dados do paciente (com queixa)",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Vector",
+          "noId": "I21:2561;4:2797;21:2334;4:2811;632:10548",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "Tela 1 · Dados do paciente (com queixa)",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Vector",
+          "noId": "I21:2561;4:2797;21:2346;4:2811;632:10548",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "Tela 1 · Dados do paciente (com queixa)",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Vector",
+          "noId": "I21:2561;4:2797;21:2358;4:2811;632:10548",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "Tela 1 · Dados do paciente (com queixa)",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I21:2561;4:2797;21:2370;4:344",
+          "detalhe": "razao 2.88:1 (minimo 4.5:1) sobre fundo #F5F7FC"
+        },
+        {
+          "prototipo": "Tela 1 · Dados do paciente (com queixa)",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Card · Últimos exames",
+          "noId": "22:2590",
+          "detalhe": "razao 1.07:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "Tela 1 · Dados do paciente (com queixa)",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Vector",
+          "noId": "I22:2590;4:2797;21:2417;4:2831;632:10548",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "Tela 1 · Dados do paciente (com queixa)",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Vector",
+          "noId": "I22:2590;4:2797;21:2424;4:2831;632:10548",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "Tela 1 · Dados do paciente (com queixa)",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Vector",
+          "noId": "I22:2590;4:2797;21:2431;4:2831;632:10548",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "Tela 1 · Dados do paciente (com queixa)",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Card · Condições e uso contínuo",
+          "noId": "21:2566",
+          "detalhe": "razao 1.07:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "Tela 1 · Dados do paciente (com queixa)",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I21:2566;4:2797;21:2388;4:2182",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #8F9299"
+        },
+        {
+          "prototipo": "Tela 1 · Dados do paciente (com queixa)",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I21:2566;4:2797;21:2392;4:2182",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #8F9299"
+        },
+        {
+          "prototipo": "Tela 1 · Dados do paciente (com queixa)",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Card · Identificação",
+          "noId": "21:2580",
+          "detalhe": "razao 1.07:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "Tela 1 · Dados do paciente (com queixa)",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Vector",
+          "noId": "I21:2580;4:2797;21:2439;20:2192;4:6067",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "Tela 1 · Dados do paciente (com queixa)",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I21:2583;4:299",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        }
+      ]
+    },
+    {
+      "prototipo": "Tela 2 · Dados do paciente (sem queixa)",
+      "prototipoId": "24:2599",
+      "metricas": {
+        "densidade_total_nos": 249,
+        "textos_total": 64,
+        "textos_aprovados_contraste": 56,
+        "textos_pct_conformidade_1_4_3": 87.5,
+        "componentes_total": 12,
+        "componentes_aprovados_contraste": 3,
+        "componentes_pct_conformidade_1_4_11": 25,
+        "alvos_toque_total": 12,
+        "alvos_toque_aprovados": 10,
+        "alvos_toque_pct_conformidade_2_5_8": 83.33,
+        "aderencia_design_system_pct": 92.51,
+        "aderencia_nos_aderentes": 173,
+        "aderencia_nos_elegiveis": 187,
+        "cores_distintas_fora_token": 17,
+        "tamanhos_fonte_distintos_fora_token": 7
+      },
+      "valoresForaToken": {
+        "cores": [
+          "#000000",
+          "#003F1A",
+          "#144027",
+          "#1A1D22",
+          "#54A275",
+          "#590019",
+          "#5D6066",
+          "#8F9299",
+          "#A1D6B7",
+          "#B1D349",
+          "#C4C8D0",
+          "#E0E4EC",
+          "#ED1450",
+          "#EFFFBF",
+          "#F5F7FC",
+          "#FFBFD1",
+          "#FFFFFF"
+        ],
+        "tamanhosFonte": [
+          8,
+          11,
+          12,
+          14,
+          16,
+          22,
+          24
+        ]
+      },
+      "findings": [
+        {
+          "prototipo": "Tela 2 · Dados do paciente (sem queixa)",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Menu",
+          "noId": "24:2600",
+          "detalhe": "razao 1.00:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "Tela 2 · Dados do paciente (sem queixa)",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Vector",
+          "noId": "I24:2600;4:2623;4:2667",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "Tela 2 · Dados do paciente (sem queixa)",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Vector",
+          "noId": "I24:2600;4:2623;4:2669",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "Tela 2 · Dados do paciente (sem queixa)",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Vector",
+          "noId": "I24:2600;4:2623;4:2670",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "Tela 2 · Dados do paciente (sem queixa)",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Vector",
+          "noId": "I24:2600;4:2623;4:2671",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "Tela 2 · Dados do paciente (sem queixa)",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Maria Cristina",
+          "noId": "I24:2600;4:2626;4:3272",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "Tela 2 · Dados do paciente (sem queixa)",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Consultório Campo Largo",
+          "noId": "I24:2600;4:2626;4:3277",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "Tela 2 · Dados do paciente (sem queixa)",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Ellipse 3",
+          "noId": "I24:2600;4:2626;4:3279;4:2916",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "Tela 2 · Dados do paciente (sem queixa)",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I24:2600;4:2627;4:3310",
+          "detalhe": "razao 4.36:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "Tela 2 · Dados do paciente (sem queixa)",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Page Header",
+          "noId": "24:2601",
+          "detalhe": "razao 1.00:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "Tela 2 · Dados do paciente (sem queixa)",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I24:2601;4:2715;346:9110",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "Tela 2 · Dados do paciente (sem queixa)",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Tag/Color",
+          "noId": "24:2604",
+          "detalhe": "razao 1.64:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "Tela 2 · Dados do paciente (sem queixa)",
+          "criterio": "alvo_toque_2.5.8",
+          "gravidade": "reprova",
+          "no": "Tag/Color",
+          "noId": "24:2604",
+          "detalhe": "109x23 px (minimo 24x24)"
+        },
+        {
+          "prototipo": "Tela 2 · Dados do paciente (sem queixa)",
+          "criterio": "alvo_toque_2.5.8",
+          "gravidade": "reprova",
+          "no": "Tag/Grayscale",
+          "noId": "24:2605",
+          "detalhe": "63x23 px (minimo 24x24)"
+        },
+        {
+          "prototipo": "Tela 2 · Dados do paciente (sem queixa)",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Inline Message · Alergia",
+          "noId": "24:2607",
+          "detalhe": "razao 1.54:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "Tela 2 · Dados do paciente (sem queixa)",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Card · Queixa (sem registro)",
+          "noId": "24:2610",
+          "detalhe": "razao 1.07:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "Tela 2 · Dados do paciente (sem queixa)",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Vector",
+          "noId": "I24:2610;4:2797;24:2591;20:2192;4:5895",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "Tela 2 · Dados do paciente (sem queixa)",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Card · Histórico recente",
+          "noId": "24:2611",
+          "detalhe": "razao 1.07:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "Tela 2 · Dados do paciente (sem queixa)",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Vector",
+          "noId": "I24:2611;4:2797;21:2327;20:2192;4:5953",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "Tela 2 · Dados do paciente (sem queixa)",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Vector",
+          "noId": "I24:2611;4:2797;21:2334;4:2811;632:10548",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "Tela 2 · Dados do paciente (sem queixa)",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Vector",
+          "noId": "I24:2611;4:2797;21:2346;4:2811;632:10548",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "Tela 2 · Dados do paciente (sem queixa)",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Vector",
+          "noId": "I24:2611;4:2797;21:2358;4:2811;632:10548",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "Tela 2 · Dados do paciente (sem queixa)",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I24:2611;4:2797;21:2370;4:344",
+          "detalhe": "razao 2.88:1 (minimo 4.5:1) sobre fundo #F5F7FC"
+        },
+        {
+          "prototipo": "Tela 2 · Dados do paciente (sem queixa)",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Card · Últimos exames",
+          "noId": "24:2612",
+          "detalhe": "razao 1.07:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "Tela 2 · Dados do paciente (sem queixa)",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Vector",
+          "noId": "I24:2612;4:2797;21:2417;4:2831;632:10548",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "Tela 2 · Dados do paciente (sem queixa)",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Vector",
+          "noId": "I24:2612;4:2797;21:2424;4:2831;632:10548",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "Tela 2 · Dados do paciente (sem queixa)",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Vector",
+          "noId": "I24:2612;4:2797;21:2431;4:2831;632:10548",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "Tela 2 · Dados do paciente (sem queixa)",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Card · Condições e uso contínuo",
+          "noId": "24:2614",
+          "detalhe": "razao 1.07:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "Tela 2 · Dados do paciente (sem queixa)",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I24:2614;4:2797;21:2388;4:2182",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #8F9299"
+        },
+        {
+          "prototipo": "Tela 2 · Dados do paciente (sem queixa)",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I24:2614;4:2797;21:2392;4:2182",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #8F9299"
+        },
+        {
+          "prototipo": "Tela 2 · Dados do paciente (sem queixa)",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Card · Identificação",
+          "noId": "24:2615",
+          "detalhe": "razao 1.07:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "Tela 2 · Dados do paciente (sem queixa)",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Vector",
+          "noId": "I24:2615;4:2797;21:2439;20:2192;4:6067",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "Tela 2 · Dados do paciente (sem queixa)",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I24:2617;4:299",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        }
+      ]
+    }
+  ]
+}

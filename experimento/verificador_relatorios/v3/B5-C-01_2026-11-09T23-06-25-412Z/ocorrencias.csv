@@ -1,0 +1,92 @@
+prototipo,criterio,gravidade,no,noId,detalhe
+01 Confirmação da finalização,contraste_componente_1.4.11,reprova,Menu,29:2199,razao 1.00:1 (minimo 3:1)
+01 Confirmação da finalização,aderencia_design_system,alerta,Vector,"I29:2199;1:2661;1:2705","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+01 Confirmação da finalização,aderencia_design_system,alerta,Vector,"I29:2199;1:2661;1:2707","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+01 Confirmação da finalização,aderencia_design_system,alerta,Vector,"I29:2199;1:2661;1:2708","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+01 Confirmação da finalização,aderencia_design_system,alerta,Vector,"I29:2199;1:2661;1:2709","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+01 Confirmação da finalização,contraste_texto_1.4.3,reprova,Menu Item,"I29:2199;1:2662;1:3169;1:3273",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+01 Confirmação da finalização,contraste_texto_1.4.3,reprova,Maria Cristina,"I29:2199;1:2664;1:3289",razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+01 Confirmação da finalização,contraste_texto_1.4.3,reprova,Consultório Campo Largo,"I29:2199;1:2664;1:3294",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+01 Confirmação da finalização,aderencia_design_system,alerta,Ellipse 3,"I29:2199;1:2664;1:3296;1:2954","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+01 Confirmação da finalização,contraste_texto_1.4.3,reprova,Label,"I29:2199;1:2665;1:3327",razao 4.36:1 (minimo 4.5:1) sobre fundo #FFFFFF
+01 Confirmação da finalização,contraste_componente_1.4.11,reprova,Page Header,29:2200,razao 1.07:1 (minimo 3:1)
+01 Confirmação da finalização,contraste_texto_1.4.3,reprova,Label,"I29:2200;1:2733;346:9110",razao 2.88:1 (minimo 4.5:1) sobre fundo #F5F7FC
+01 Confirmação da finalização,contraste_componente_1.4.11,reprova,Alerta de alergia,29:2223,razao 1.14:1 (minimo 3:1)
+01 Confirmação da finalização,contraste_texto_1.4.3,reprova,Label,"I29:2231;1:440",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+01 Confirmação da finalização,contraste_texto_1.4.3,reprova,icon,"I29:2233;1:361;1:3643",razao 1.79:1 (minimo 4.5:1) sobre fundo #144027
+01 Confirmação da finalização,contraste_componente_1.4.11,reprova,Modal Finalizar atendimento,29:2481,razao 1.00:1 (minimo 3:1)
+01 Confirmação da finalização,contraste_texto_1.4.3,reprova,pi-times,"I29:2481;1:2617;630:9894",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+01 Confirmação da finalização,contraste_texto_1.4.3,reprova,Label,"I29:2481;1:2619;1:3162;346:9110",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+02 Lista atualizada (atendimento finalizado),contraste_componente_1.4.11,reprova,Menu,30:2471,razao 1.00:1 (minimo 3:1)
+02 Lista atualizada (atendimento finalizado),aderencia_design_system,alerta,Vector,"I30:2471;1:2661;1:2705","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+02 Lista atualizada (atendimento finalizado),aderencia_design_system,alerta,Vector,"I30:2471;1:2661;1:2707","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+02 Lista atualizada (atendimento finalizado),aderencia_design_system,alerta,Vector,"I30:2471;1:2661;1:2708","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+02 Lista atualizada (atendimento finalizado),aderencia_design_system,alerta,Vector,"I30:2471;1:2661;1:2709","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+02 Lista atualizada (atendimento finalizado),contraste_texto_1.4.3,reprova,Menu Item,"I30:2471;1:2662;1:3169;1:3273",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+02 Lista atualizada (atendimento finalizado),contraste_texto_1.4.3,reprova,Maria Cristina,"I30:2471;1:2664;1:3289",razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+02 Lista atualizada (atendimento finalizado),contraste_texto_1.4.3,reprova,Consultório Campo Largo,"I30:2471;1:2664;1:3294",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+02 Lista atualizada (atendimento finalizado),aderencia_design_system,alerta,Ellipse 3,"I30:2471;1:2664;1:3296;1:2954","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+02 Lista atualizada (atendimento finalizado),contraste_texto_1.4.3,reprova,Label,"I30:2471;1:2665;1:3327",razao 4.36:1 (minimo 4.5:1) sobre fundo #FFFFFF
+02 Lista atualizada (atendimento finalizado),contraste_componente_1.4.11,reprova,Page Header,30:2472,razao 1.07:1 (minimo 3:1)
+02 Lista atualizada (atendimento finalizado),contraste_componente_1.4.11,reprova,Tag/Color,30:2480,razao 1.01:1 (minimo 3:1)
+02 Lista atualizada (atendimento finalizado),alvo_toque_2.5.8,reprova,Tag/Color,30:2480,69x23 px (minimo 24x24)
+02 Lista atualizada (atendimento finalizado),alvo_toque_2.5.8,reprova,Agenda/Tag,30:2481,70x23 px (minimo 24x24)
+02 Lista atualizada (atendimento finalizado),contraste_componente_1.4.11,reprova,Icon/clock,30:2483,razao 1.00:1 (minimo 3:1)
+02 Lista atualizada (atendimento finalizado),alvo_toque_2.5.8,reprova,Icon/clock,30:2483,16x16 px (minimo 24x24)
+02 Lista atualizada (atendimento finalizado),contraste_texto_1.4.3,reprova,Tab Title,"I30:2488;1:2787",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+02 Lista atualizada (atendimento finalizado),contraste_componente_1.4.11,reprova,Search Bar,30:2492,razao 1.07:1 (minimo 3:1)
+02 Lista atualizada (atendimento finalizado),contraste_texto_1.4.3,reprova,Pesquisar,"I30:2492;1:1300;1:3044",razao 2.91:1 (minimo 4.5:1) sobre fundo #F5F7FC
+02 Lista atualizada (atendimento finalizado),contraste_componente_1.4.11,reprova,Paciente 08:00,30:2494,razao 1.07:1 (minimo 3:1)
+02 Lista atualizada (atendimento finalizado),contraste_texto_1.4.3,reprova,Label,"I30:2494;1:1537;1:2147;1:657",razao 1.32:1 (minimo 4.5:1) sobre fundo #E0E4EC
+02 Lista atualizada (atendimento finalizado),contraste_texto_1.4.3,reprova,Dérick Cabral Castanheira,"I30:2494;1:1545",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+02 Lista atualizada (atendimento finalizado),contraste_texto_1.4.3,reprova,•,"I30:2494;1:1546",razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+02 Lista atualizada (atendimento finalizado),contraste_texto_1.4.3,reprova,•,"I30:2494;1:1548",razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+02 Lista atualizada (atendimento finalizado),contraste_texto_1.4.3,reprova,07:50,"I30:2494;1:1551",razao 1.68:1 (minimo 4.5:1) sobre fundo #FFFFFF
+02 Lista atualizada (atendimento finalizado),contraste_texto_1.4.3,reprova,•,"I30:2494;1:1552",razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+02 Lista atualizada (atendimento finalizado),contraste_texto_1.4.3,reprova,08:12,"I30:2494;1:1555",razao 1.68:1 (minimo 4.5:1) sobre fundo #FFFFFF
+02 Lista atualizada (atendimento finalizado),contraste_texto_1.4.3,reprova,Label,"I30:2494;1:1563",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+02 Lista atualizada (atendimento finalizado),contraste_componente_1.4.11,reprova,Paciente 08:20,30:2495,razao 1.07:1 (minimo 3:1)
+02 Lista atualizada (atendimento finalizado),contraste_texto_1.4.3,reprova,Label,"I30:2495;1:1537;1:2147;1:657",razao 1.32:1 (minimo 4.5:1) sobre fundo #E0E4EC
+02 Lista atualizada (atendimento finalizado),contraste_texto_1.4.3,reprova,Dérick Cabral Castanheira,"I30:2495;1:1545",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+02 Lista atualizada (atendimento finalizado),contraste_texto_1.4.3,reprova,•,"I30:2495;1:1546",razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+02 Lista atualizada (atendimento finalizado),contraste_texto_1.4.3,reprova,•,"I30:2495;1:1548",razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+02 Lista atualizada (atendimento finalizado),contraste_texto_1.4.3,reprova,07:50,"I30:2495;1:1551",razao 1.68:1 (minimo 4.5:1) sobre fundo #FFFFFF
+02 Lista atualizada (atendimento finalizado),contraste_texto_1.4.3,reprova,•,"I30:2495;1:1552",razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+02 Lista atualizada (atendimento finalizado),contraste_texto_1.4.3,reprova,08:12,"I30:2495;1:1555",razao 1.68:1 (minimo 4.5:1) sobre fundo #FFFFFF
+02 Lista atualizada (atendimento finalizado),contraste_texto_1.4.3,reprova,Label,"I30:2495;1:1563",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+02 Lista atualizada (atendimento finalizado),contraste_componente_1.4.11,reprova,Paciente 08:40,30:2496,razao 1.07:1 (minimo 3:1)
+02 Lista atualizada (atendimento finalizado),contraste_texto_1.4.3,reprova,Label,"I30:2496;1:1678;1:2177;1:755",razao 2.83:1 (minimo 4.5:1) sobre fundo #FFBFD1
+02 Lista atualizada (atendimento finalizado),contraste_texto_1.4.3,reprova,Dérick Cabral Castanheira,"I30:2496;1:1686",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+02 Lista atualizada (atendimento finalizado),contraste_texto_1.4.3,reprova,•,"I30:2496;1:1687",razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+02 Lista atualizada (atendimento finalizado),contraste_texto_1.4.3,reprova,Label,"I30:2496;1:1695",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+02 Lista atualizada (atendimento finalizado),contraste_componente_1.4.11,reprova,Paciente 09:00,30:2497,razao 1.07:1 (minimo 3:1)
+02 Lista atualizada (atendimento finalizado),contraste_texto_1.4.3,reprova,Label,"I30:2497;1:1537;1:2147;1:657",razao 1.32:1 (minimo 4.5:1) sobre fundo #E0E4EC
+02 Lista atualizada (atendimento finalizado),contraste_texto_1.4.3,reprova,Dérick Cabral Castanheira,"I30:2497;1:1545",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+02 Lista atualizada (atendimento finalizado),contraste_texto_1.4.3,reprova,•,"I30:2497;1:1546",razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+02 Lista atualizada (atendimento finalizado),contraste_texto_1.4.3,reprova,•,"I30:2497;1:1548",razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+02 Lista atualizada (atendimento finalizado),contraste_texto_1.4.3,reprova,07:50,"I30:2497;1:1551",razao 1.68:1 (minimo 4.5:1) sobre fundo #FFFFFF
+02 Lista atualizada (atendimento finalizado),contraste_texto_1.4.3,reprova,•,"I30:2497;1:1552",razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+02 Lista atualizada (atendimento finalizado),contraste_texto_1.4.3,reprova,08:12,"I30:2497;1:1555",razao 1.68:1 (minimo 4.5:1) sobre fundo #FFFFFF
+02 Lista atualizada (atendimento finalizado),contraste_texto_1.4.3,reprova,Label,"I30:2497;1:1563",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+02 Lista atualizada (atendimento finalizado),contraste_componente_1.4.11,reprova,Paciente 09:20,30:2498,razao 1.07:1 (minimo 3:1)
+02 Lista atualizada (atendimento finalizado),contraste_texto_1.4.3,reprova,Dérick Cabral Castanheira,"I30:2498;1:1395",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+02 Lista atualizada (atendimento finalizado),contraste_texto_1.4.3,reprova,•,"I30:2498;1:1396",razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+02 Lista atualizada (atendimento finalizado),contraste_texto_1.4.3,reprova,•,"I30:2498;1:1398",razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+02 Lista atualizada (atendimento finalizado),contraste_texto_1.4.3,reprova,07:50,"I30:2498;1:1401",razao 1.68:1 (minimo 4.5:1) sobre fundo #FFFFFF
+02 Lista atualizada (atendimento finalizado),contraste_texto_1.4.3,reprova,Label,"I30:2498;1:1409",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+02 Lista atualizada (atendimento finalizado),contraste_componente_1.4.11,reprova,Paciente 09:40,30:2499,razao 1.07:1 (minimo 3:1)
+02 Lista atualizada (atendimento finalizado),contraste_texto_1.4.3,reprova,Dérick Cabral Castanheira,"I30:2499;1:1373",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+02 Lista atualizada (atendimento finalizado),contraste_texto_1.4.3,reprova,•,"I30:2499;1:1374",razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+02 Lista atualizada (atendimento finalizado),contraste_texto_1.4.3,reprova,Label,"I30:2499;1:1383",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+02 Lista atualizada (atendimento finalizado),contraste_componente_1.4.11,reprova,Paciente 10:00,30:2500,razao 1.07:1 (minimo 3:1)
+02 Lista atualizada (atendimento finalizado),contraste_texto_1.4.3,reprova,Dérick Cabral Castanheira,"I30:2500;1:1373",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+02 Lista atualizada (atendimento finalizado),contraste_texto_1.4.3,reprova,•,"I30:2500;1:1374",razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+02 Lista atualizada (atendimento finalizado),contraste_texto_1.4.3,reprova,Label,"I30:2500;1:1377;1:2228;1:414",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+02 Lista atualizada (atendimento finalizado),contraste_texto_1.4.3,reprova,Label,"I30:2500;1:1383",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+02 Lista atualizada (atendimento finalizado),contraste_componente_1.4.11,reprova,Paciente 10:20,30:2501,razao 1.07:1 (minimo 3:1)
+02 Lista atualizada (atendimento finalizado),contraste_texto_1.4.3,reprova,Label,"I30:2501;1:1371;1:2260;1:2206;1:2297",razao 2.02:1 (minimo 4.5:1) sobre fundo #65C997
+02 Lista atualizada (atendimento finalizado),contraste_texto_1.4.3,reprova,Dérick Cabral Castanheira,"I30:2501;1:1373",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+02 Lista atualizada (atendimento finalizado),contraste_texto_1.4.3,reprova,•,"I30:2501;1:1374",razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+02 Lista atualizada (atendimento finalizado),contraste_texto_1.4.3,reprova,Label,"I30:2501;1:1383",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+02 Lista atualizada (atendimento finalizado),contraste_componente_1.4.11,reprova,Toast Atendimento finalizado,30:2502,razao 1.00:1 (minimo 3:1)
+02 Lista atualizada (atendimento finalizado),contraste_texto_1.4.3,reprova,pi-times,"I30:2502;1:2600;630:9894",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF

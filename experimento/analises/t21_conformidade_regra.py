@@ -150,6 +150,10 @@ def regras(m, n, nome_comp, tally):
 def andar(n, tally, cont):
     if n.get("visible", True) is False:
         return
+    b = n.get("absoluteBoundingBox")
+    # mesma regra do verificador v3: nó fora da área visível do quadro (cortado pela borda) não conta
+    if b and not (b["x"] < QUADRO["x"] + QUADRO["width"] and b["x"] + b["width"] > QUADRO["x"] and b["y"] < QUADRO["y"] + QUADRO["height"] and b["y"] + b["height"] > QUADRO["y"]):
+        return
     if n["type"] == "INSTANCE":
         k = chave_de.get((amb_atual, n.get("componentId")))
         if k in principais:
@@ -163,6 +167,7 @@ def andar(n, tally, cont):
 for r in csv.DictReader(open(os.path.join(EXP, "indice.csv"), encoding="utf-8")):
     amb_atual = r["ambiente"]
     no = json.load(open(os.path.join(RAIZ, r["png"][:-4] + ".json"), encoding="utf-8"))
+    QUADRO = no["absoluteBoundingBox"]
     b = resultado.setdefault(r["pagina"], {"amb": r["ambiente"], "t": [0, 0], "inst": [0], "telas": 0})
     andar(no, b["t"], b["inst"])
     b["telas"] += 1

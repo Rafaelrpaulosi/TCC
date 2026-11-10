@@ -5,9 +5,9 @@ Gerado por `t21_conformidade_regra.py` sobre as telas exportadas em 07/11/2026. 
 | Bloco | Telas | Instâncias do DS avaliadas | Regras | Atendidas | Conformidade (%) |
 |---|---|---|---|---|---|
 | B1-A-01 | 1 | 17 | 493 | 487 | 98.78 |
-| B2-A-01 | 3 | 90 | 576 | 555 | 96.35 |
-| B3-A-01 | 2 | 64 | 390 | 374 | 95.9 |
-| B4-A-01 | 4 | 106 | 610 | 579 | 94.92 |
+| B2-A-01 | 3 | 87 | 561 | 540 | 96.26 |
+| B3-A-01 | 2 | 34 | 294 | 290 | 98.64 |
+| B4-A-01 | 4 | 70 | 493 | 476 | 96.55 |
 | B5-A-01 | 3 | 63 | 805 | 787 | 97.76 |
 | B1-B-01 | 2 | 32 | 1064 | 1064 | 100.0 |
 | B2-B-01 | 2 | 24 | 300 | 298 | 99.33 |
@@ -22,7 +22,7 @@ Gerado por `t21_conformidade_regra.py` sobre as telas exportadas em 07/11/2026. 
 
 | Ambiente | Média dos blocos (%) | Mínimo | Máximo |
 |---|---|---|---|
-| A | 96.74 | 94.92 | 98.78 |
+| A | 97.6 | 96.26 | 98.78 |
 | B | 99.49 | 98.5 | 100.0 |
 | C | 99.09 | 98.32 | 99.74 |
 
@@ -30,13 +30,13 @@ Gerado por `t21_conformidade_regra.py` sobre as telas exportadas em 07/11/2026. 
 
 | Tipo | Ocorrências | Exemplos (componente › camada: principal → instância) |
 |---|---|---|
-| cor de preenchimento | 139 | Size=Small › Vector: #000000@1.00 → #54A275@1.00; Size=Small › Vector: #000000@1.00 → #54A275@1.00; Size=Small › Vector: #000000@1.00 → #5D6066@1.00; Size=Small › Vector: #000000@1.00 → #5D6066@1.00 |
+| cor de preenchimento | 113 | Size=Small › Vector: #000000@1.00 → #54A275@1.00; Size=Small › Vector: #000000@1.00 → #54A275@1.00; Size=Small › Vector: #000000@1.00 → #5D6066@1.00; Size=Small › Vector: #000000@1.00 → #5D6066@1.00 |
 | raio do canto | 2 | State=Default, Night Mode=No › _Button Settings: 250.0 → 8.0; State=Default, Night Mode=No › _Button Settings: 250.0 → 8.0 |
 
 ## Regras não atendidas por tipo de camada e ambiente
 
 | Ambiente | Ícone (vetor) | Texto | Contêiner ou forma |
 |---|---|---|---|
-| A | 89 | 1 | 2 |
+| A | 63 | 1 | 2 |
 | B | 12 | 4 | 0 |
 | C | 33 | 0 | 0 |

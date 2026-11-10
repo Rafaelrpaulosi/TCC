@@ -65,3 +65,5 @@ Pontos que o protocolo não decidia. O Rafael confere cada um; se discordar, a m
 7. **Queixa pré-preenchida no C:** digitada igual aos outros ambientes (40 caracteres), conforme o protocolo. O pré-preenchimento fica como observação.
 8. **Início do Bloco 4 no A:** a tela [2] do B4-A (registro salvo no histórico), e não a [1], que é a reabertura do bloco.
 9. **Início do Bloco 5 no C:** o relatório do B4-C (tela [3]), porque o gatilho "Finalizar atendimento" não está nas telas do B5-C; o C é uma conversa contínua.
+
+- 09/11/2026: o Rafael conferiu e aprovou as sequências e as 9 interpretações ("KLM ok todos").

@@ -1,0 +1,844 @@
+{
+  "gerado_em": "2026-11-09T23:06:25.412Z",
+  "fonte": "exportacao API Figma 07/11/2026 (experimento/exportacoes)",
+  "fileKey": null,
+  "total_prototipos": 2,
+  "prototipos": [
+    {
+      "prototipo": "01 Confirmação da finalização",
+      "prototipoId": "29:2198",
+      "metricas": {
+        "densidade_total_nos": 263,
+        "textos_total": 66,
+        "textos_aprovados_contraste": 57,
+        "textos_pct_conformidade_1_4_3": 86.36,
+        "componentes_total": 22,
+        "componentes_aprovados_contraste": 18,
+        "componentes_pct_conformidade_1_4_11": 81.82,
+        "alvos_toque_total": 22,
+        "alvos_toque_aprovados": 22,
+        "alvos_toque_pct_conformidade_2_5_8": 100,
+        "aderencia_design_system_pct": 97.28,
+        "aderencia_nos_aderentes": 179,
+        "aderencia_nos_elegiveis": 184,
+        "cores_distintas_fora_token": 14,
+        "tamanhos_fonte_distintos_fora_token": 7
+      },
+      "valoresForaToken": {
+        "cores": [
+          "#000000",
+          "#003F1A",
+          "#1A1D22",
+          "#54A275",
+          "#594600",
+          "#5D6066",
+          "#8F9299",
+          "#B1D349",
+          "#E0E4EC",
+          "#ED1450",
+          "#EFFFBF",
+          "#F5F7FC",
+          "#FEF0BE",
+          "#FFFFFF"
+        ],
+        "tamanhosFonte": [
+          8,
+          11,
+          12,
+          14,
+          16,
+          22,
+          24
+        ]
+      },
+      "findings": [
+        {
+          "prototipo": "01 Confirmação da finalização",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Menu",
+          "noId": "29:2199",
+          "detalhe": "razao 1.00:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "01 Confirmação da finalização",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Vector",
+          "noId": "I29:2199;1:2661;1:2705",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "01 Confirmação da finalização",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Vector",
+          "noId": "I29:2199;1:2661;1:2707",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "01 Confirmação da finalização",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Vector",
+          "noId": "I29:2199;1:2661;1:2708",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "01 Confirmação da finalização",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Vector",
+          "noId": "I29:2199;1:2661;1:2709",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "01 Confirmação da finalização",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Menu Item",
+          "noId": "I29:2199;1:2662;1:3169;1:3273",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "01 Confirmação da finalização",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Maria Cristina",
+          "noId": "I29:2199;1:2664;1:3289",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "01 Confirmação da finalização",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Consultório Campo Largo",
+          "noId": "I29:2199;1:2664;1:3294",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "01 Confirmação da finalização",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Ellipse 3",
+          "noId": "I29:2199;1:2664;1:3296;1:2954",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "01 Confirmação da finalização",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I29:2199;1:2665;1:3327",
+          "detalhe": "razao 4.36:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "01 Confirmação da finalização",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Page Header",
+          "noId": "29:2200",
+          "detalhe": "razao 1.07:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "01 Confirmação da finalização",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I29:2200;1:2733;346:9110",
+          "detalhe": "razao 2.88:1 (minimo 4.5:1) sobre fundo #F5F7FC"
+        },
+        {
+          "prototipo": "01 Confirmação da finalização",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Alerta de alergia",
+          "noId": "29:2223",
+          "detalhe": "razao 1.14:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "01 Confirmação da finalização",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I29:2231;1:440",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "01 Confirmação da finalização",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "icon",
+          "noId": "I29:2233;1:361;1:3643",
+          "detalhe": "razao 1.79:1 (minimo 4.5:1) sobre fundo #144027"
+        },
+        {
+          "prototipo": "01 Confirmação da finalização",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Modal Finalizar atendimento",
+          "noId": "29:2481",
+          "detalhe": "razao 1.00:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "01 Confirmação da finalização",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "pi-times",
+          "noId": "I29:2481;1:2617;630:9894",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "01 Confirmação da finalização",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I29:2481;1:2619;1:3162;346:9110",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        }
+      ]
+    },
+    {
+      "prototipo": "02 Lista atualizada (atendimento finalizado)",
+      "prototipoId": "30:2470",
+      "metricas": {
+        "densidade_total_nos": 432,
+        "textos_total": 101,
+        "textos_aprovados_contraste": 50,
+        "textos_pct_conformidade_1_4_3": 49.5,
+        "componentes_total": 21,
+        "componentes_aprovados_contraste": 7,
+        "componentes_pct_conformidade_1_4_11": 33.33,
+        "alvos_toque_total": 21,
+        "alvos_toque_aprovados": 18,
+        "alvos_toque_pct_conformidade_2_5_8": 85.71,
+        "aderencia_design_system_pct": 98.36,
+        "aderencia_nos_aderentes": 299,
+        "aderencia_nos_elegiveis": 304,
+        "cores_distintas_fora_token": 22,
+        "tamanhos_fonte_distintos_fora_token": 7
+      },
+      "valoresForaToken": {
+        "cores": [
+          "#000000",
+          "#003F1A",
+          "#14261C",
+          "#1A1D22",
+          "#1E2606",
+          "#495916",
+          "#54A275",
+          "#594600",
+          "#5D6066",
+          "#65C997",
+          "#8F9299",
+          "#A1D6B7",
+          "#B1D349",
+          "#C4C8D0",
+          "#D0FA7D",
+          "#E0E4EC",
+          "#ED1450",
+          "#EFFFBF",
+          "#F5F7FC",
+          "#FEEB7F",
+          "#FFBFD1",
+          "#FFFFFF"
+        ],
+        "tamanhosFonte": [
+          8,
+          11,
+          12,
+          14,
+          16,
+          22,
+          24
+        ]
+      },
+      "findings": [
+        {
+          "prototipo": "02 Lista atualizada (atendimento finalizado)",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Menu",
+          "noId": "30:2471",
+          "detalhe": "razao 1.00:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "02 Lista atualizada (atendimento finalizado)",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Vector",
+          "noId": "I30:2471;1:2661;1:2705",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "02 Lista atualizada (atendimento finalizado)",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Vector",
+          "noId": "I30:2471;1:2661;1:2707",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "02 Lista atualizada (atendimento finalizado)",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Vector",
+          "noId": "I30:2471;1:2661;1:2708",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "02 Lista atualizada (atendimento finalizado)",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Vector",
+          "noId": "I30:2471;1:2661;1:2709",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "02 Lista atualizada (atendimento finalizado)",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Menu Item",
+          "noId": "I30:2471;1:2662;1:3169;1:3273",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "02 Lista atualizada (atendimento finalizado)",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Maria Cristina",
+          "noId": "I30:2471;1:2664;1:3289",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "02 Lista atualizada (atendimento finalizado)",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Consultório Campo Largo",
+          "noId": "I30:2471;1:2664;1:3294",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "02 Lista atualizada (atendimento finalizado)",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Ellipse 3",
+          "noId": "I30:2471;1:2664;1:3296;1:2954",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "02 Lista atualizada (atendimento finalizado)",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I30:2471;1:2665;1:3327",
+          "detalhe": "razao 4.36:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "02 Lista atualizada (atendimento finalizado)",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Page Header",
+          "noId": "30:2472",
+          "detalhe": "razao 1.07:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "02 Lista atualizada (atendimento finalizado)",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Tag/Color",
+          "noId": "30:2480",
+          "detalhe": "razao 1.01:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "02 Lista atualizada (atendimento finalizado)",
+          "criterio": "alvo_toque_2.5.8",
+          "gravidade": "reprova",
+          "no": "Tag/Color",
+          "noId": "30:2480",
+          "detalhe": "69x23 px (minimo 24x24)"
+        },
+        {
+          "prototipo": "02 Lista atualizada (atendimento finalizado)",
+          "criterio": "alvo_toque_2.5.8",
+          "gravidade": "reprova",
+          "no": "Agenda/Tag",
+          "noId": "30:2481",
+          "detalhe": "70x23 px (minimo 24x24)"
+        },
+        {
+          "prototipo": "02 Lista atualizada (atendimento finalizado)",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Icon/clock",
+          "noId": "30:2483",
+          "detalhe": "razao 1.00:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "02 Lista atualizada (atendimento finalizado)",
+          "criterio": "alvo_toque_2.5.8",
+          "gravidade": "reprova",
+          "no": "Icon/clock",
+          "noId": "30:2483",
+          "detalhe": "16x16 px (minimo 24x24)"
+        },
+        {
+          "prototipo": "02 Lista atualizada (atendimento finalizado)",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Tab Title",
+          "noId": "I30:2488;1:2787",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "02 Lista atualizada (atendimento finalizado)",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Search Bar",
+          "noId": "30:2492",
+          "detalhe": "razao 1.07:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "02 Lista atualizada (atendimento finalizado)",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Pesquisar",
+          "noId": "I30:2492;1:1300;1:3044",
+          "detalhe": "razao 2.91:1 (minimo 4.5:1) sobre fundo #F5F7FC"
+        },
+        {
+          "prototipo": "02 Lista atualizada (atendimento finalizado)",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Paciente 08:00",
+          "noId": "30:2494",
+          "detalhe": "razao 1.07:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "02 Lista atualizada (atendimento finalizado)",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I30:2494;1:1537;1:2147;1:657",
+          "detalhe": "razao 1.32:1 (minimo 4.5:1) sobre fundo #E0E4EC"
+        },
+        {
+          "prototipo": "02 Lista atualizada (atendimento finalizado)",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Dérick Cabral Castanheira",
+          "noId": "I30:2494;1:1545",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "02 Lista atualizada (atendimento finalizado)",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "I30:2494;1:1546",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "02 Lista atualizada (atendimento finalizado)",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "I30:2494;1:1548",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "02 Lista atualizada (atendimento finalizado)",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "07:50",
+          "noId": "I30:2494;1:1551",
+          "detalhe": "razao 1.68:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "02 Lista atualizada (atendimento finalizado)",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "I30:2494;1:1552",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "02 Lista atualizada (atendimento finalizado)",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "08:12",
+          "noId": "I30:2494;1:1555",
+          "detalhe": "razao 1.68:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "02 Lista atualizada (atendimento finalizado)",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I30:2494;1:1563",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "02 Lista atualizada (atendimento finalizado)",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Paciente 08:20",
+          "noId": "30:2495",
+          "detalhe": "razao 1.07:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "02 Lista atualizada (atendimento finalizado)",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I30:2495;1:1537;1:2147;1:657",
+          "detalhe": "razao 1.32:1 (minimo 4.5:1) sobre fundo #E0E4EC"
+        },
+        {
+          "prototipo": "02 Lista atualizada (atendimento finalizado)",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Dérick Cabral Castanheira",
+          "noId": "I30:2495;1:1545",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "02 Lista atualizada (atendimento finalizado)",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "I30:2495;1:1546",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "02 Lista atualizada (atendimento finalizado)",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "I30:2495;1:1548",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "02 Lista atualizada (atendimento finalizado)",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "07:50",
+          "noId": "I30:2495;1:1551",
+          "detalhe": "razao 1.68:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "02 Lista atualizada (atendimento finalizado)",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "I30:2495;1:1552",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "02 Lista atualizada (atendimento finalizado)",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "08:12",
+          "noId": "I30:2495;1:1555",
+          "detalhe": "razao 1.68:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "02 Lista atualizada (atendimento finalizado)",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I30:2495;1:1563",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "02 Lista atualizada (atendimento finalizado)",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Paciente 08:40",
+          "noId": "30:2496",
+          "detalhe": "razao 1.07:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "02 Lista atualizada (atendimento finalizado)",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I30:2496;1:1678;1:2177;1:755",
+          "detalhe": "razao 2.83:1 (minimo 4.5:1) sobre fundo #FFBFD1"
+        },
+        {
+          "prototipo": "02 Lista atualizada (atendimento finalizado)",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Dérick Cabral Castanheira",
+          "noId": "I30:2496;1:1686",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "02 Lista atualizada (atendimento finalizado)",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "I30:2496;1:1687",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "02 Lista atualizada (atendimento finalizado)",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I30:2496;1:1695",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "02 Lista atualizada (atendimento finalizado)",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Paciente 09:00",
+          "noId": "30:2497",
+          "detalhe": "razao 1.07:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "02 Lista atualizada (atendimento finalizado)",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I30:2497;1:1537;1:2147;1:657",
+          "detalhe": "razao 1.32:1 (minimo 4.5:1) sobre fundo #E0E4EC"
+        },
+        {
+          "prototipo": "02 Lista atualizada (atendimento finalizado)",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Dérick Cabral Castanheira",
+          "noId": "I30:2497;1:1545",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "02 Lista atualizada (atendimento finalizado)",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "I30:2497;1:1546",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "02 Lista atualizada (atendimento finalizado)",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "I30:2497;1:1548",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "02 Lista atualizada (atendimento finalizado)",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "07:50",
+          "noId": "I30:2497;1:1551",
+          "detalhe": "razao 1.68:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "02 Lista atualizada (atendimento finalizado)",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "I30:2497;1:1552",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "02 Lista atualizada (atendimento finalizado)",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "08:12",
+          "noId": "I30:2497;1:1555",
+          "detalhe": "razao 1.68:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "02 Lista atualizada (atendimento finalizado)",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I30:2497;1:1563",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "02 Lista atualizada (atendimento finalizado)",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Paciente 09:20",
+          "noId": "30:2498",
+          "detalhe": "razao 1.07:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "02 Lista atualizada (atendimento finalizado)",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Dérick Cabral Castanheira",
+          "noId": "I30:2498;1:1395",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "02 Lista atualizada (atendimento finalizado)",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "I30:2498;1:1396",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "02 Lista atualizada (atendimento finalizado)",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "I30:2498;1:1398",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "02 Lista atualizada (atendimento finalizado)",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "07:50",
+          "noId": "I30:2498;1:1401",
+          "detalhe": "razao 1.68:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "02 Lista atualizada (atendimento finalizado)",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I30:2498;1:1409",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "02 Lista atualizada (atendimento finalizado)",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Paciente 09:40",
+          "noId": "30:2499",
+          "detalhe": "razao 1.07:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "02 Lista atualizada (atendimento finalizado)",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Dérick Cabral Castanheira",
+          "noId": "I30:2499;1:1373",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "02 Lista atualizada (atendimento finalizado)",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "I30:2499;1:1374",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "02 Lista atualizada (atendimento finalizado)",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I30:2499;1:1383",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "02 Lista atualizada (atendimento finalizado)",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Paciente 10:00",
+          "noId": "30:2500",
+          "detalhe": "razao 1.07:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "02 Lista atualizada (atendimento finalizado)",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Dérick Cabral Castanheira",
+          "noId": "I30:2500;1:1373",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "02 Lista atualizada (atendimento finalizado)",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "I30:2500;1:1374",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "02 Lista atualizada (atendimento finalizado)",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I30:2500;1:1377;1:2228;1:414",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "02 Lista atualizada (atendimento finalizado)",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I30:2500;1:1383",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "02 Lista atualizada (atendimento finalizado)",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Paciente 10:20",
+          "noId": "30:2501",
+          "detalhe": "razao 1.07:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "02 Lista atualizada (atendimento finalizado)",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I30:2501;1:1371;1:2260;1:2206;1:2297",
+          "detalhe": "razao 2.02:1 (minimo 4.5:1) sobre fundo #65C997"
+        },
+        {
+          "prototipo": "02 Lista atualizada (atendimento finalizado)",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Dérick Cabral Castanheira",
+          "noId": "I30:2501;1:1373",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "02 Lista atualizada (atendimento finalizado)",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "I30:2501;1:1374",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "02 Lista atualizada (atendimento finalizado)",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I30:2501;1:1383",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "02 Lista atualizada (atendimento finalizado)",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Toast Atendimento finalizado",
+          "noId": "30:2502",
+          "detalhe": "razao 1.00:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "02 Lista atualizada (atendimento finalizado)",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "pi-times",
+          "noId": "I30:2502;1:2600;630:9894",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        }
+      ]
+    }
+  ]
+}

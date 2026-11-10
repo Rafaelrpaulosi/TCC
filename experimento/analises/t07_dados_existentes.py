@@ -88,7 +88,7 @@ p(f"B1-B {b1:.2f} min, B1-C {c1:.2f} min: diferença de **{100*(b1-c1)/b1:.1f}%*
 p("## 6. Densidade, valores fora de token e contraste por tamanho de texto\n")
 p("Agregação das Tabelas 3 e 4 (C4.12): percentual sobre todos os elementos das telas do bloco somados (`consolidar.py`), não média das telas.\n")
 p("| Execução | Telas | Nós por tela (média) | Cores fora de token (máx. por tela) | Tamanhos de fonte fora de token (máx. por tela) | Reprovações de contraste | das quais texto pequeno (mín. 4,5:1) |\n|---|---|---|---|---|---|---|")
-for d in sorted(glob.glob(os.path.join(EXP, "verificador_relatorios", "v2", "B*"))):
+for d in sorted(glob.glob(os.path.join(EXP, "verificador_relatorios", "v3", "B*"))):
     ex = os.path.basename(d)[:7]
     j = json.load(open(os.path.join(d, "relatorio.json"), encoding="utf-8"))
     ms = [q["metricas"] for q in j["prototipos"]]

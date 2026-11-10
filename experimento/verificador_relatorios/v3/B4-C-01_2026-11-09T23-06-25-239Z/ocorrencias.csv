@@ -1,0 +1,56 @@
+prototipo,criterio,gravidade,no,noId,detalhe
+01 Registro salvo (ação de gerar relatório),contraste_componente_1.4.11,reprova,Menu,24:2174,razao 1.00:1 (minimo 3:1)
+01 Registro salvo (ação de gerar relatório),aderencia_design_system,alerta,Vector,"I24:2174;1:2661;1:2705","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+01 Registro salvo (ação de gerar relatório),aderencia_design_system,alerta,Vector,"I24:2174;1:2661;1:2707","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+01 Registro salvo (ação de gerar relatório),aderencia_design_system,alerta,Vector,"I24:2174;1:2661;1:2708","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+01 Registro salvo (ação de gerar relatório),aderencia_design_system,alerta,Vector,"I24:2174;1:2661;1:2709","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+01 Registro salvo (ação de gerar relatório),contraste_texto_1.4.3,reprova,Menu Item,"I24:2174;1:2662;1:3169;1:3273",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+01 Registro salvo (ação de gerar relatório),contraste_texto_1.4.3,reprova,Maria Cristina,"I24:2174;1:2664;1:3289",razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+01 Registro salvo (ação de gerar relatório),contraste_texto_1.4.3,reprova,Consultório Campo Largo,"I24:2174;1:2664;1:3294",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+01 Registro salvo (ação de gerar relatório),aderencia_design_system,alerta,Ellipse 3,"I24:2174;1:2664;1:3296;1:2954","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+01 Registro salvo (ação de gerar relatório),contraste_texto_1.4.3,reprova,Label,"I24:2174;1:2665;1:3327",razao 4.36:1 (minimo 4.5:1) sobre fundo #FFFFFF
+01 Registro salvo (ação de gerar relatório),contraste_componente_1.4.11,reprova,Page Header,24:2175,razao 1.07:1 (minimo 3:1)
+01 Registro salvo (ação de gerar relatório),contraste_texto_1.4.3,reprova,Label,"I24:2175;1:2733;346:9110",razao 2.88:1 (minimo 4.5:1) sobre fundo #F5F7FC
+01 Registro salvo (ação de gerar relatório),contraste_componente_1.4.11,reprova,Alerta de alergia,24:2198,razao 1.14:1 (minimo 3:1)
+01 Registro salvo (ação de gerar relatório),contraste_texto_1.4.3,reprova,Label,"I24:2206;1:440",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+01 Registro salvo (ação de gerar relatório),contraste_texto_1.4.3,reprova,icon,"I24:2209;1:361;1:3643",razao 1.79:1 (minimo 4.5:1) sobre fundo #144027
+01 Registro salvo (ação de gerar relatório),contraste_componente_1.4.11,reprova,Toast Registro salvo,24:4704,razao 1.00:1 (minimo 3:1)
+01 Registro salvo (ação de gerar relatório),contraste_texto_1.4.3,reprova,pi-times,"I24:4704;1:2600;630:9894",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+02 Gerando relatório,contraste_componente_1.4.11,reprova,Menu,24:2211,razao 1.00:1 (minimo 3:1)
+02 Gerando relatório,aderencia_design_system,alerta,Vector,"I24:2211;1:2661;1:2705","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+02 Gerando relatório,aderencia_design_system,alerta,Vector,"I24:2211;1:2661;1:2707","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+02 Gerando relatório,aderencia_design_system,alerta,Vector,"I24:2211;1:2661;1:2708","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+02 Gerando relatório,aderencia_design_system,alerta,Vector,"I24:2211;1:2661;1:2709","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+02 Gerando relatório,contraste_texto_1.4.3,reprova,Menu Item,"I24:2211;1:2662;1:3169;1:3273",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+02 Gerando relatório,contraste_texto_1.4.3,reprova,Maria Cristina,"I24:2211;1:2664;1:3289",razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+02 Gerando relatório,contraste_texto_1.4.3,reprova,Consultório Campo Largo,"I24:2211;1:2664;1:3294",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+02 Gerando relatório,aderencia_design_system,alerta,Ellipse 3,"I24:2211;1:2664;1:3296;1:2954","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+02 Gerando relatório,contraste_texto_1.4.3,reprova,Label,"I24:2211;1:2665;1:3327",razao 4.36:1 (minimo 4.5:1) sobre fundo #FFFFFF
+02 Gerando relatório,contraste_componente_1.4.11,reprova,Page Header,24:2212,razao 1.07:1 (minimo 3:1)
+02 Gerando relatório,contraste_texto_1.4.3,reprova,Label,"I24:2212;1:2733;346:9110",razao 2.88:1 (minimo 4.5:1) sobre fundo #F5F7FC
+02 Gerando relatório,contraste_componente_1.4.11,reprova,Alerta de alergia,24:2235,razao 1.14:1 (minimo 3:1)
+02 Gerando relatório,contraste_texto_1.4.3,reprova,Label,"I24:2243;1:440",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+02 Gerando relatório,aderencia_design_system,alerta,Rectangle,"I24:2246;1:382;580:11214","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+03 Relatório gerado,contraste_componente_1.4.11,reprova,Menu,25:2753,razao 1.00:1 (minimo 3:1)
+03 Relatório gerado,aderencia_design_system,alerta,Vector,"I25:2753;1:2661;1:2705","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+03 Relatório gerado,aderencia_design_system,alerta,Vector,"I25:2753;1:2661;1:2707","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+03 Relatório gerado,aderencia_design_system,alerta,Vector,"I25:2753;1:2661;1:2708","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+03 Relatório gerado,aderencia_design_system,alerta,Vector,"I25:2753;1:2661;1:2709","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+03 Relatório gerado,contraste_texto_1.4.3,reprova,Menu Item,"I25:2753;1:2662;1:3169;1:3273",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+03 Relatório gerado,contraste_texto_1.4.3,reprova,Maria Cristina,"I25:2753;1:2664;1:3289",razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+03 Relatório gerado,contraste_texto_1.4.3,reprova,Consultório Campo Largo,"I25:2753;1:2664;1:3294",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+03 Relatório gerado,aderencia_design_system,alerta,Ellipse 3,"I25:2753;1:2664;1:3296;1:2954","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+03 Relatório gerado,contraste_texto_1.4.3,reprova,Label,"I25:2753;1:2665;1:3327",razao 4.36:1 (minimo 4.5:1) sobre fundo #FFFFFF
+03 Relatório gerado,contraste_componente_1.4.11,reprova,Page Header,25:2754,razao 1.07:1 (minimo 3:1)
+03 Relatório gerado,contraste_texto_1.4.3,reprova,Label,"I25:2754;1:2733;346:9110",razao 2.88:1 (minimo 4.5:1) sobre fundo #F5F7FC
+03 Relatório gerado,contraste_componente_1.4.11,reprova,Alerta de alergia,25:2777,razao 1.14:1 (minimo 3:1)
+03 Relatório gerado,contraste_texto_1.4.3,reprova,Label,"I25:2785;1:440",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+03 Relatório gerado,contraste_texto_1.4.3,reprova,icon,"I25:2787;1:361;1:3643",razao 1.79:1 (minimo 4.5:1) sobre fundo #144027
+03 Relatório gerado,contraste_componente_1.4.11,reprova,Modal Relatório da consulta,25:2893,razao 1.00:1 (minimo 3:1)
+03 Relatório gerado,contraste_texto_1.4.3,reprova,pi-times,"I25:2893;1:2625",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+03 Relatório gerado,aderencia_design_system,alerta,Vector,"I25:2893;1:2626;25:2683;1:2705","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+03 Relatório gerado,aderencia_design_system,alerta,Vector,"I25:2893;1:2626;25:2683;1:2707","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+03 Relatório gerado,aderencia_design_system,alerta,Vector,"I25:2893;1:2626;25:2683;1:2708","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+03 Relatório gerado,aderencia_design_system,alerta,Vector,"I25:2893;1:2626;25:2683;1:2709","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+03 Relatório gerado,contraste_texto_1.4.3,reprova,icon,"I25:2893;1:2627;1:3162;346:9109;1:3732",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+03 Relatório gerado,contraste_texto_1.4.3,reprova,Label,"I25:2893;1:2627;1:3162;346:9110",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF

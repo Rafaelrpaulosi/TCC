@@ -1,0 +1,40 @@
+prototipo,criterio,gravidade,no,noId,detalhe
+REGISTRO DE CONSULTA,contraste_componente_1.4.11,reprova,Menu,13:1571,razao 1.07:1 (minimo 3:1)
+REGISTRO DE CONSULTA,aderencia_design_system,alerta,Vector,"I13:1571;1030:19153;380:10016","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+REGISTRO DE CONSULTA,aderencia_design_system,alerta,Vector,"I13:1571;1030:19153;380:10017","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+REGISTRO DE CONSULTA,aderencia_design_system,alerta,Vector,"I13:1571;1030:19153;380:10018","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+REGISTRO DE CONSULTA,aderencia_design_system,alerta,Vector,"I13:1571;1030:19153;380:10019","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+REGISTRO DE CONSULTA,aderencia_design_system,alerta,Vector,"I13:1571;1030:19153;380:10020","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+REGISTRO DE CONSULTA,aderencia_design_system,alerta,Vector,"I13:1571;1030:19153;380:10021","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+REGISTRO DE CONSULTA,contraste_texto_1.4.3,reprova,Menu Item,"I13:1571;1030:19169;1919:18661;932:12065",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+REGISTRO DE CONSULTA,contraste_texto_1.4.3,reprova,Maria Cristina,"I13:1571;4740:100680;4683:100714",razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+REGISTRO DE CONSULTA,contraste_texto_1.4.3,reprova,Consultório Campo Largo,"I13:1571;4740:100680;4683:100716",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+REGISTRO DE CONSULTA,aderencia_design_system,alerta,Ellipse 3,"I13:1571;4740:100680;4683:100718;632:10618","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+REGISTRO DE CONSULTA,contraste_texto_1.4.3,reprova,Label,"I13:1571;23440:551616;23233:562999",razao 4.36:1 (minimo 4.5:1) sobre fundo #FFFFFF
+REGISTRO DE CONSULTA,contraste_componente_1.4.11,reprova,Header - Prontuário novo,13:1638,razao 1.07:1 (minimo 3:1)
+REGISTRO DE CONSULTA,contraste_texto_1.4.3,reprova,(505000),"I13:1638;44335:17824;10520:186848",razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+REGISTRO DE CONSULTA,contraste_texto_1.4.3,reprova,15/08/1984,"I13:1638;44335:17824;12472:248894",razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+REGISTRO DE CONSULTA,contraste_texto_1.4.3,reprova,Label,"I13:1638;44335:17824;38515:103787;346:8875",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+REGISTRO DE CONSULTA,contraste_texto_1.4.3,reprova,Label,"I13:1638;44335:17839;346:9110",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+REGISTRO DE CONSULTA,contraste_texto_1.4.3,reprova,Tab Title,"I13:1641;997:13665",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+REGISTRO DE CONSULTA,contraste_texto_1.4.3,reprova,Tab Title,"I13:1645;10656:198457",razao 1.27:1 (minimo 4.5:1) sobre fundo #FFFFFF
+REGISTRO DE CONSULTA,contraste_texto_1.4.3,reprova,Label,"I13:2048;344:8838",razao 1.32:1 (minimo 4.5:1) sobre fundo #E0E4EC
+REGISTRO DE CONSULTA 02,contraste_componente_1.4.11,reprova,Menu,13:2058,razao 1.07:1 (minimo 3:1)
+REGISTRO DE CONSULTA 02,aderencia_design_system,alerta,Vector,"I13:2058;1030:19153;380:10016","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+REGISTRO DE CONSULTA 02,aderencia_design_system,alerta,Vector,"I13:2058;1030:19153;380:10017","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+REGISTRO DE CONSULTA 02,aderencia_design_system,alerta,Vector,"I13:2058;1030:19153;380:10018","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+REGISTRO DE CONSULTA 02,aderencia_design_system,alerta,Vector,"I13:2058;1030:19153;380:10019","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+REGISTRO DE CONSULTA 02,aderencia_design_system,alerta,Vector,"I13:2058;1030:19153;380:10020","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+REGISTRO DE CONSULTA 02,aderencia_design_system,alerta,Vector,"I13:2058;1030:19153;380:10021","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+REGISTRO DE CONSULTA 02,contraste_texto_1.4.3,reprova,Menu Item,"I13:2058;1030:19169;1919:18661;932:12065",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+REGISTRO DE CONSULTA 02,contraste_texto_1.4.3,reprova,Maria Cristina,"I13:2058;4740:100680;4683:100714",razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+REGISTRO DE CONSULTA 02,contraste_texto_1.4.3,reprova,Consultório Campo Largo,"I13:2058;4740:100680;4683:100716",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+REGISTRO DE CONSULTA 02,aderencia_design_system,alerta,Ellipse 3,"I13:2058;4740:100680;4683:100718;632:10618","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+REGISTRO DE CONSULTA 02,contraste_texto_1.4.3,reprova,Label,"I13:2058;23440:551616;23233:562999",razao 4.36:1 (minimo 4.5:1) sobre fundo #FFFFFF
+REGISTRO DE CONSULTA 02,contraste_componente_1.4.11,reprova,Header - Prontuário novo,13:2060,razao 1.07:1 (minimo 3:1)
+REGISTRO DE CONSULTA 02,contraste_texto_1.4.3,reprova,(505000),"I13:2060;44335:17824;10520:186848",razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+REGISTRO DE CONSULTA 02,contraste_texto_1.4.3,reprova,15/08/1984,"I13:2060;44335:17824;12472:248894",razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+REGISTRO DE CONSULTA 02,contraste_texto_1.4.3,reprova,Label,"I13:2060;44335:17824;38515:103787;346:8875",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+REGISTRO DE CONSULTA 02,contraste_texto_1.4.3,reprova,Label,"I13:2060;44335:17839;346:9110",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+REGISTRO DE CONSULTA 02,contraste_texto_1.4.3,reprova,Tab Title,"I13:2063;997:13665",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+REGISTRO DE CONSULTA 02,contraste_texto_1.4.3,reprova,Tab Title,"I13:2067;10656:198457",razao 1.27:1 (minimo 4.5:1) sobre fundo #FFFFFF

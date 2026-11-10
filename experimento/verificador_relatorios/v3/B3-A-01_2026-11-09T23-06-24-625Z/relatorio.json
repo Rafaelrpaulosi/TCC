@@ -1,0 +1,428 @@
+{
+  "gerado_em": "2026-11-09T23:06:24.656Z",
+  "fonte": "exportacao API Figma 07/11/2026 (experimento/exportacoes)",
+  "fileKey": null,
+  "total_prototipos": 2,
+  "prototipos": [
+    {
+      "prototipo": "REGISTRO DE CONSULTA",
+      "prototipoId": "13:1119",
+      "metricas": {
+        "densidade_total_nos": 183,
+        "textos_total": 49,
+        "textos_aprovados_contraste": 38,
+        "textos_pct_conformidade_1_4_3": 77.55,
+        "componentes_total": 11,
+        "componentes_aprovados_contraste": 9,
+        "componentes_pct_conformidade_1_4_11": 81.82,
+        "alvos_toque_total": 11,
+        "alvos_toque_aprovados": 11,
+        "alvos_toque_pct_conformidade_2_5_8": 100,
+        "aderencia_design_system_pct": 94.31,
+        "aderencia_nos_aderentes": 116,
+        "aderencia_nos_elegiveis": 123,
+        "cores_distintas_fora_token": 17,
+        "tamanhos_fonte_distintos_fora_token": 8
+      },
+      "valoresForaToken": {
+        "cores": [
+          "#000000",
+          "#003F1A",
+          "#144027",
+          "#1A1D22",
+          "#261E00",
+          "#495916",
+          "#54A275",
+          "#5D6066",
+          "#8F9299",
+          "#A1D6B7",
+          "#B1D349",
+          "#C4C8D0",
+          "#E0E4EC",
+          "#ED1450",
+          "#EFFFBF",
+          "#FECA0A",
+          "#FFFFFF"
+        ],
+        "tamanhosFonte": [
+          8,
+          11,
+          12,
+          14,
+          16,
+          20,
+          22,
+          32
+        ]
+      },
+      "findings": [
+        {
+          "prototipo": "REGISTRO DE CONSULTA",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Menu",
+          "noId": "13:1571",
+          "detalhe": "razao 1.07:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "REGISTRO DE CONSULTA",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Vector",
+          "noId": "I13:1571;1030:19153;380:10016",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "REGISTRO DE CONSULTA",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Vector",
+          "noId": "I13:1571;1030:19153;380:10017",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "REGISTRO DE CONSULTA",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Vector",
+          "noId": "I13:1571;1030:19153;380:10018",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "REGISTRO DE CONSULTA",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Vector",
+          "noId": "I13:1571;1030:19153;380:10019",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "REGISTRO DE CONSULTA",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Vector",
+          "noId": "I13:1571;1030:19153;380:10020",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "REGISTRO DE CONSULTA",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Vector",
+          "noId": "I13:1571;1030:19153;380:10021",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "REGISTRO DE CONSULTA",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Menu Item",
+          "noId": "I13:1571;1030:19169;1919:18661;932:12065",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "REGISTRO DE CONSULTA",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Maria Cristina",
+          "noId": "I13:1571;4740:100680;4683:100714",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "REGISTRO DE CONSULTA",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Consultório Campo Largo",
+          "noId": "I13:1571;4740:100680;4683:100716",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "REGISTRO DE CONSULTA",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Ellipse 3",
+          "noId": "I13:1571;4740:100680;4683:100718;632:10618",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "REGISTRO DE CONSULTA",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I13:1571;23440:551616;23233:562999",
+          "detalhe": "razao 4.36:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "REGISTRO DE CONSULTA",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Header - Prontuário novo",
+          "noId": "13:1638",
+          "detalhe": "razao 1.07:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "REGISTRO DE CONSULTA",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "(505000)",
+          "noId": "I13:1638;44335:17824;10520:186848",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "REGISTRO DE CONSULTA",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "15/08/1984",
+          "noId": "I13:1638;44335:17824;12472:248894",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "REGISTRO DE CONSULTA",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I13:1638;44335:17824;38515:103787;346:8875",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "REGISTRO DE CONSULTA",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I13:1638;44335:17839;346:9110",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "REGISTRO DE CONSULTA",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Tab Title",
+          "noId": "I13:1641;997:13665",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "REGISTRO DE CONSULTA",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Tab Title",
+          "noId": "I13:1645;10656:198457",
+          "detalhe": "razao 1.27:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "REGISTRO DE CONSULTA",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I13:2048;344:8838",
+          "detalhe": "razao 1.32:1 (minimo 4.5:1) sobre fundo #E0E4EC"
+        }
+      ]
+    },
+    {
+      "prototipo": "REGISTRO DE CONSULTA 02",
+      "prototipoId": "13:2057",
+      "metricas": {
+        "densidade_total_nos": 183,
+        "textos_total": 49,
+        "textos_aprovados_contraste": 39,
+        "textos_pct_conformidade_1_4_3": 79.59,
+        "componentes_total": 11,
+        "componentes_aprovados_contraste": 9,
+        "componentes_pct_conformidade_1_4_11": 81.82,
+        "alvos_toque_total": 11,
+        "alvos_toque_aprovados": 11,
+        "alvos_toque_pct_conformidade_2_5_8": 100,
+        "aderencia_design_system_pct": 94.31,
+        "aderencia_nos_aderentes": 116,
+        "aderencia_nos_elegiveis": 123,
+        "cores_distintas_fora_token": 17,
+        "tamanhos_fonte_distintos_fora_token": 8
+      },
+      "valoresForaToken": {
+        "cores": [
+          "#000000",
+          "#003F1A",
+          "#144027",
+          "#1A1D22",
+          "#261E00",
+          "#495916",
+          "#54A275",
+          "#5D6066",
+          "#8F9299",
+          "#A1D6B7",
+          "#B1D349",
+          "#C4C8D0",
+          "#E0E4EC",
+          "#ED1450",
+          "#EFFFBF",
+          "#FECA0A",
+          "#FFFFFF"
+        ],
+        "tamanhosFonte": [
+          8,
+          11,
+          12,
+          14,
+          16,
+          20,
+          22,
+          32
+        ]
+      },
+      "findings": [
+        {
+          "prototipo": "REGISTRO DE CONSULTA 02",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Menu",
+          "noId": "13:2058",
+          "detalhe": "razao 1.07:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "REGISTRO DE CONSULTA 02",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Vector",
+          "noId": "I13:2058;1030:19153;380:10016",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "REGISTRO DE CONSULTA 02",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Vector",
+          "noId": "I13:2058;1030:19153;380:10017",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "REGISTRO DE CONSULTA 02",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Vector",
+          "noId": "I13:2058;1030:19153;380:10018",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "REGISTRO DE CONSULTA 02",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Vector",
+          "noId": "I13:2058;1030:19153;380:10019",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "REGISTRO DE CONSULTA 02",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Vector",
+          "noId": "I13:2058;1030:19153;380:10020",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "REGISTRO DE CONSULTA 02",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Vector",
+          "noId": "I13:2058;1030:19153;380:10021",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "REGISTRO DE CONSULTA 02",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Menu Item",
+          "noId": "I13:2058;1030:19169;1919:18661;932:12065",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "REGISTRO DE CONSULTA 02",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Maria Cristina",
+          "noId": "I13:2058;4740:100680;4683:100714",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "REGISTRO DE CONSULTA 02",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Consultório Campo Largo",
+          "noId": "I13:2058;4740:100680;4683:100716",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "REGISTRO DE CONSULTA 02",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Ellipse 3",
+          "noId": "I13:2058;4740:100680;4683:100718;632:10618",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "REGISTRO DE CONSULTA 02",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I13:2058;23440:551616;23233:562999",
+          "detalhe": "razao 4.36:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "REGISTRO DE CONSULTA 02",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Header - Prontuário novo",
+          "noId": "13:2060",
+          "detalhe": "razao 1.07:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "REGISTRO DE CONSULTA 02",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "(505000)",
+          "noId": "I13:2060;44335:17824;10520:186848",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "REGISTRO DE CONSULTA 02",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "15/08/1984",
+          "noId": "I13:2060;44335:17824;12472:248894",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "REGISTRO DE CONSULTA 02",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I13:2060;44335:17824;38515:103787;346:8875",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "REGISTRO DE CONSULTA 02",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I13:2060;44335:17839;346:9110",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "REGISTRO DE CONSULTA 02",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Tab Title",
+          "noId": "I13:2063;997:13665",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "REGISTRO DE CONSULTA 02",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Tab Title",
+          "noId": "I13:2067;10656:198457",
+          "detalhe": "razao 1.27:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        }
+      ]
+    }
+  ]
+}

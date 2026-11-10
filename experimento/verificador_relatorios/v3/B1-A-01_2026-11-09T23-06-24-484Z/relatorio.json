@@ -1,0 +1,534 @@
+{
+  "gerado_em": "2026-11-09T23:06:24.489Z",
+  "fonte": "exportacao API Figma 07/11/2026 (experimento/exportacoes)",
+  "fileKey": null,
+  "total_prototipos": 1,
+  "prototipos": [
+    {
+      "prototipo": "ATENDIMENTO",
+      "prototipoId": "1:5",
+      "metricas": {
+        "densidade_total_nos": 332,
+        "textos_total": 88,
+        "textos_aprovados_contraste": 46,
+        "textos_pct_conformidade_1_4_3": 52.27,
+        "componentes_total": 12,
+        "componentes_aprovados_contraste": 3,
+        "componentes_pct_conformidade_1_4_11": 25,
+        "alvos_toque_total": 12,
+        "alvos_toque_aprovados": 12,
+        "alvos_toque_pct_conformidade_2_5_8": 100,
+        "aderencia_design_system_pct": 96.62,
+        "aderencia_nos_aderentes": 229,
+        "aderencia_nos_elegiveis": 237,
+        "cores_distintas_fora_token": 19,
+        "tamanhos_fonte_distintos_fora_token": 6
+      },
+      "valoresForaToken": {
+        "cores": [
+          "#000000",
+          "#003F1A",
+          "#144027",
+          "#1A1D22",
+          "#495916",
+          "#54A275",
+          "#594600",
+          "#5D6066",
+          "#8F9299",
+          "#A1D6B7",
+          "#B1D349",
+          "#C4C8D0",
+          "#D0FA7D",
+          "#E0E4EC",
+          "#ED1450",
+          "#EFFFBF",
+          "#FEEB7F",
+          "#FFBFD1",
+          "#FFFFFF"
+        ],
+        "tamanhosFonte": [
+          8,
+          11,
+          12,
+          14,
+          16,
+          22
+        ]
+      },
+      "findings": [
+        {
+          "prototipo": "ATENDIMENTO",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Agenda Card",
+          "noId": "3:4441",
+          "detalhe": "razao 1.07:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I3:4441;2166:20595;1135:14357;1050:16389",
+          "detalhe": "razao 1.32:1 (minimo 4.5:1) sobre fundo #E0E4EC"
+        },
+        {
+          "prototipo": "ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Dérick Cabral Castanheira",
+          "noId": "I3:4441;2166:20603",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "I3:4441;2166:20604",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "I3:4441;11358:200966",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "I3:4441;11358:202199",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I3:4441;33291:98624",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ATENDIMENTO",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Agenda Card",
+          "noId": "3:4633",
+          "detalhe": "razao 1.07:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I3:4633;2166:20595;1135:15261;1118:13679",
+          "detalhe": "razao 2.83:1 (minimo 4.5:1) sobre fundo #FFBFD1"
+        },
+        {
+          "prototipo": "ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Dérick Cabral Castanheira",
+          "noId": "I3:4633;2166:20603",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "I3:4633;2166:20604",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "I3:4633;11358:200966",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I3:4633;33291:98624",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ATENDIMENTO",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Agenda Card",
+          "noId": "3:4728",
+          "detalhe": "razao 1.07:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Dérick Cabral Castanheira",
+          "noId": "I3:4728;2166:20603",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "I3:4728;2166:20604",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "I3:4728;11358:200966",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I3:4728;33291:98624",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ATENDIMENTO",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Agenda Card",
+          "noId": "3:4776",
+          "detalhe": "razao 1.07:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I3:4776;2166:20595;1135:15262;1118:13679",
+          "detalhe": "razao 2.83:1 (minimo 4.5:1) sobre fundo #FFBFD1"
+        },
+        {
+          "prototipo": "ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Dérick Cabral Castanheira",
+          "noId": "I3:4776;2166:20603",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "I3:4776;2166:20604",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "I3:4776;11358:200966",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I3:4776;33291:98624",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ATENDIMENTO",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Agenda Card",
+          "noId": "3:4824",
+          "detalhe": "razao 1.07:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Dérick Cabral Castanheira",
+          "noId": "I3:4824;2166:20603",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "I3:4824;2166:20604",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "I3:4824;11358:200966",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I3:4824;33291:98624",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ATENDIMENTO",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Agenda Card",
+          "noId": "3:4872",
+          "detalhe": "razao 1.07:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Dérick Cabral Castanheira",
+          "noId": "I3:4872;2166:20603",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "I3:4872;2166:20604",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "I3:4872;11358:200966",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "I3:4872;11358:202199",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I3:4872;33291:98624",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ATENDIMENTO",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Agenda Card",
+          "noId": "3:5035",
+          "detalhe": "razao 1.07:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Dérick Cabral Castanheira",
+          "noId": "I3:5035;2166:20603",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "I3:5035;2166:20604",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "I3:5035;11358:200966",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I3:5035;33291:98624",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ATENDIMENTO",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Agenda Card",
+          "noId": "3:5085",
+          "detalhe": "razao 1.07:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Dérick Cabral Castanheira",
+          "noId": "I3:5085;2166:20603",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "I3:5085;2166:20604",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "I3:5085;11358:200966",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I3:5085;33291:98624",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ATENDIMENTO",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Menu",
+          "noId": "3:1203",
+          "detalhe": "razao 1.07:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "ATENDIMENTO",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Vector",
+          "noId": "I3:1203;1030:19153;380:10016",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "ATENDIMENTO",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Vector",
+          "noId": "I3:1203;1030:19153;380:10017",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "ATENDIMENTO",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Vector",
+          "noId": "I3:1203;1030:19153;380:10018",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "ATENDIMENTO",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Vector",
+          "noId": "I3:1203;1030:19153;380:10019",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "ATENDIMENTO",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Vector",
+          "noId": "I3:1203;1030:19153;380:10020",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "ATENDIMENTO",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Vector",
+          "noId": "I3:1203;1030:19153;380:10021",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Menu Item",
+          "noId": "I3:1203;1030:19169;896:11401;932:12065",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Maria Cristina",
+          "noId": "I3:1203;4740:100680;4683:100714",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Consultório Campo Largo",
+          "noId": "I3:1203;4740:100680;4683:100716",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ATENDIMENTO",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Ellipse 3",
+          "noId": "I3:1203;4740:100680;4683:100718;632:10618",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I3:1203;23440:551616;23233:562999",
+          "detalhe": "razao 4.36:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "ATENDIMENTO",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Ellipse 4",
+          "noId": "I3:1310;361:8957",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "ATENDIMENTO",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Endocrinologista",
+          "noId": "3:1320",
+          "detalhe": "razao 2.90:1 (minimo 4.5:1) sobre fundo #F5F7FC"
+        }
+      ]
+    }
+  ]
+}

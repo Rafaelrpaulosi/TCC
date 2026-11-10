@@ -1,0 +1,1456 @@
+{
+  "gerado_em": "2026-11-09T23:06:24.570Z",
+  "fonte": "exportacao API Figma 07/11/2026 (experimento/exportacoes)",
+  "fileKey": null,
+  "total_prototipos": 3,
+  "prototipos": [
+    {
+      "prototipo": "DADOS DO PACIENTE",
+      "prototipoId": "3:5156",
+      "metricas": {
+        "densidade_total_nos": 256,
+        "textos_total": 77,
+        "textos_aprovados_contraste": 40,
+        "textos_pct_conformidade_1_4_3": 51.95,
+        "componentes_total": 25,
+        "componentes_aprovados_contraste": 20,
+        "componentes_pct_conformidade_1_4_11": 80,
+        "alvos_toque_total": 25,
+        "alvos_toque_aprovados": 19,
+        "alvos_toque_pct_conformidade_2_5_8": 76,
+        "aderencia_design_system_pct": 93.94,
+        "aderencia_nos_aderentes": 155,
+        "aderencia_nos_elegiveis": 165,
+        "cores_distintas_fora_token": 18,
+        "tamanhos_fonte_distintos_fora_token": 7
+      },
+      "valoresForaToken": {
+        "cores": [
+          "#000000",
+          "#003F1A",
+          "#144027",
+          "#1A1D22",
+          "#261E00",
+          "#495916",
+          "#54A275",
+          "#5D6066",
+          "#8F9299",
+          "#A1D6B7",
+          "#B1D349",
+          "#C4C8D0",
+          "#E0E4EC",
+          "#ED1450",
+          "#EFFFBF",
+          "#F5F7FC",
+          "#FECA0A",
+          "#FFFFFF"
+        ],
+        "tamanhosFonte": [
+          8,
+          11,
+          12,
+          14,
+          16,
+          22,
+          32
+        ]
+      },
+      "findings": [
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Menu",
+          "noId": "4:5661",
+          "detalhe": "razao 1.07:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Vector",
+          "noId": "I4:5661;1030:19153;380:10016",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Vector",
+          "noId": "I4:5661;1030:19153;380:10017",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Vector",
+          "noId": "I4:5661;1030:19153;380:10018",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Vector",
+          "noId": "I4:5661;1030:19153;380:10019",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Vector",
+          "noId": "I4:5661;1030:19153;380:10020",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Vector",
+          "noId": "I4:5661;1030:19153;380:10021",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Menu Item",
+          "noId": "I4:5661;1030:19169;1919:18661;932:12065",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Maria Cristina",
+          "noId": "I4:5661;4740:100680;4683:100714",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Consultório Campo Largo",
+          "noId": "I4:5661;4740:100680;4683:100716",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Ellipse 3",
+          "noId": "I4:5661;4740:100680;4683:100718;632:10618",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I4:5661;23440:551616;23233:562999",
+          "detalhe": "razao 4.36:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Header - Prontuário novo",
+          "noId": "4:6059",
+          "detalhe": "razao 1.07:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "(505000)",
+          "noId": "I4:6059;44335:17824;10520:186848",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "15/08/1984",
+          "noId": "I4:6059;44335:17824;12472:248894",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I4:6059;44335:17824;38515:103787;346:8875",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I4:6059;44335:17839;346:9110",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Tab Title",
+          "noId": "I4:6062;997:13665",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Tab Title",
+          "noId": "I4:6066;10656:198457",
+          "detalhe": "razao 1.27:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Ellipse 3",
+          "noId": "I5:6386;632:10618",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "(",
+          "noId": "5:6391",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "CRM",
+          "noId": "5:6392",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "5:6393",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Especialidade",
+          "noId": "5:6394",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": ")",
+          "noId": "5:6395",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Plano 1",
+          "noId": "5:6397",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "5:6398",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "alvo_toque_2.5.8",
+          "gravidade": "reprova",
+          "no": "Grayscale Tag",
+          "noId": "5:6400",
+          "detalhe": "76x23 px (minimo 24x24)"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "5:6401",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Icon/ lock-open",
+          "noId": "5:6409",
+          "detalhe": "razao 1.00:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "alvo_toque_2.5.8",
+          "gravidade": "reprova",
+          "no": "Icon/ lock-open",
+          "noId": "5:6409",
+          "detalhe": "16x16 px (minimo 24x24)"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I5:6429;347:8643",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Ellipse 3",
+          "noId": "I5:6447;632:10618",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "(",
+          "noId": "5:6452",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "CRM",
+          "noId": "5:6453",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "5:6454",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Especialidade",
+          "noId": "5:6455",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": ")",
+          "noId": "5:6456",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Plano 1",
+          "noId": "5:6458",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "5:6459",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "alvo_toque_2.5.8",
+          "gravidade": "reprova",
+          "no": "Grayscale Tag",
+          "noId": "5:6461",
+          "detalhe": "76x23 px (minimo 24x24)"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "5:6462",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Icon/ lock-open",
+          "noId": "5:6470",
+          "detalhe": "razao 1.00:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "alvo_toque_2.5.8",
+          "gravidade": "reprova",
+          "no": "Icon/ lock-open",
+          "noId": "5:6470",
+          "detalhe": "16x16 px (minimo 24x24)"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I5:6490;347:8643",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Ellipse 3",
+          "noId": "I5:6534;632:10618",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "(",
+          "noId": "5:6539",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "CRM",
+          "noId": "5:6540",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "5:6541",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Especialidade",
+          "noId": "5:6542",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": ")",
+          "noId": "5:6543",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Plano 1",
+          "noId": "5:6545",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "5:6546",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "alvo_toque_2.5.8",
+          "gravidade": "reprova",
+          "no": "Grayscale Tag",
+          "noId": "5:6548",
+          "detalhe": "76x23 px (minimo 24x24)"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "5:6549",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Icon/ lock-open",
+          "noId": "5:6557",
+          "detalhe": "razao 1.00:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "alvo_toque_2.5.8",
+          "gravidade": "reprova",
+          "no": "Icon/ lock-open",
+          "noId": "5:6557",
+          "detalhe": "16x16 px (minimo 24x24)"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I5:6577;347:8643",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        }
+      ]
+    },
+    {
+      "prototipo": "DADOS DO PACIENTE",
+      "prototipoId": "5:6593",
+      "metricas": {
+        "densidade_total_nos": 283,
+        "textos_total": 63,
+        "textos_aprovados_contraste": 31,
+        "textos_pct_conformidade_1_4_3": 49.21,
+        "componentes_total": 11,
+        "componentes_aprovados_contraste": 5,
+        "componentes_pct_conformidade_1_4_11": 45.45,
+        "alvos_toque_total": 11,
+        "alvos_toque_aprovados": 11,
+        "alvos_toque_pct_conformidade_2_5_8": 100,
+        "aderencia_design_system_pct": 96.65,
+        "aderencia_nos_aderentes": 202,
+        "aderencia_nos_elegiveis": 209,
+        "cores_distintas_fora_token": 16,
+        "tamanhos_fonte_distintos_fora_token": 7
+      },
+      "valoresForaToken": {
+        "cores": [
+          "#000000",
+          "#003F1A",
+          "#1A1D22",
+          "#261E00",
+          "#495916",
+          "#54A275",
+          "#5D6066",
+          "#8F9299",
+          "#B1D349",
+          "#C4C8D0",
+          "#E0E4EC",
+          "#ED1450",
+          "#EFFFBF",
+          "#F5F7FC",
+          "#FECA0A",
+          "#FFFFFF"
+        ],
+        "tamanhosFonte": [
+          8,
+          11,
+          12,
+          14,
+          16,
+          22,
+          32
+        ]
+      },
+      "findings": [
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Menu",
+          "noId": "5:6594",
+          "detalhe": "razao 1.07:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Vector",
+          "noId": "I5:6594;1030:19153;380:10016",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Vector",
+          "noId": "I5:6594;1030:19153;380:10017",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Vector",
+          "noId": "I5:6594;1030:19153;380:10018",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Vector",
+          "noId": "I5:6594;1030:19153;380:10019",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Vector",
+          "noId": "I5:6594;1030:19153;380:10020",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Vector",
+          "noId": "I5:6594;1030:19153;380:10021",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Menu Item",
+          "noId": "I5:6594;1030:19169;1919:18661;932:12065",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Maria Cristina",
+          "noId": "I5:6594;4740:100680;4683:100714",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Consultório Campo Largo",
+          "noId": "I5:6594;4740:100680;4683:100716",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Ellipse 3",
+          "noId": "I5:6594;4740:100680;4683:100718;632:10618",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I5:6594;23440:551616;23233:562999",
+          "detalhe": "razao 4.36:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Header - Prontuário novo",
+          "noId": "5:6596",
+          "detalhe": "razao 1.07:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "(505000)",
+          "noId": "I5:6596;44335:17824;10520:186848",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "15/08/1984",
+          "noId": "I5:6596;44335:17824;12472:248894",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I5:6596;44335:17824;38515:103787;346:8875",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I5:6596;44335:17839;346:9110",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Tab Title",
+          "noId": "I5:6600;997:13665",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Tab Title",
+          "noId": "I5:6603;10656:198457",
+          "detalhe": "razao 1.27:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Pesquisar",
+          "noId": "I6:8094;10749:193133;1208:18385;1208:18362",
+          "detalhe": "razao 2.90:1 (minimo 4.5:1) sobre fundo #F5F7FC"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Title",
+          "noId": "I6:8094;10463:187151;1187:16843",
+          "detalhe": "razao 2.90:1 (minimo 4.5:1) sobre fundo #F5F7FC"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Title",
+          "noId": "I6:8094;10463:187158;1187:16843",
+          "detalhe": "razao 2.90:1 (minimo 4.5:1) sobre fundo #F5F7FC"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Title",
+          "noId": "I6:8094;10746:191312;1187:16843",
+          "detalhe": "razao 2.90:1 (minimo 4.5:1) sobre fundo #F5F7FC"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Title",
+          "noId": "I6:8094;10463:187153;1187:16843",
+          "detalhe": "razao 2.90:1 (minimo 4.5:1) sobre fundo #F5F7FC"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Title",
+          "noId": "I6:8094;10463:187154;1187:16843",
+          "detalhe": "razao 2.90:1 (minimo 4.5:1) sobre fundo #F5F7FC"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Title",
+          "noId": "I6:8094;10463:187160;1187:16843",
+          "detalhe": "razao 2.90:1 (minimo 4.5:1) sobre fundo #F5F7FC"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Title",
+          "noId": "I6:8094;27956:574136;1187:16843",
+          "detalhe": "razao 2.90:1 (minimo 4.5:1) sobre fundo #F5F7FC"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Title",
+          "noId": "I6:8094;10463:187155;1187:16843",
+          "detalhe": "razao 2.90:1 (minimo 4.5:1) sobre fundo #F5F7FC"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Title",
+          "noId": "I6:8094;10463:187156;1187:16843",
+          "detalhe": "razao 2.90:1 (minimo 4.5:1) sobre fundo #F5F7FC"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Title",
+          "noId": "I6:8094;10746:191414;1187:16843",
+          "detalhe": "razao 2.90:1 (minimo 4.5:1) sobre fundo #F5F7FC"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Title",
+          "noId": "I6:8094;10749:192980;1187:16843",
+          "detalhe": "razao 2.90:1 (minimo 4.5:1) sobre fundo #F5F7FC"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Title",
+          "noId": "I6:8094;10463:187157;1187:16843",
+          "detalhe": "razao 2.90:1 (minimo 4.5:1) sobre fundo #F5F7FC"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I6:8244;632:11349",
+          "detalhe": "razao 1.32:1 (minimo 4.5:1) sobre fundo #E0E4EC"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Card Frame - 1 (Outline Focus)",
+          "noId": "6:8248",
+          "detalhe": "razao 1.07:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Pré-Atendimento",
+          "noId": "I6:8248;4810:105715;39909:938209",
+          "detalhe": "razao 2.88:1 (minimo 4.5:1) sobre fundo #F5F7FC"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Preenchido por Dr. Ciclano em 11 de Jan. de 2021",
+          "noId": "I6:8248;4810:105715;39909:938210",
+          "detalhe": "razao 2.90:1 (minimo 4.5:1) sobre fundo #F5F7FC"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Card Frame - 1 (Outline Focus)",
+          "noId": "6:8249",
+          "detalhe": "razao 1.07:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Pré-Atendimento",
+          "noId": "I6:8249;4810:105715;39909:938209",
+          "detalhe": "razao 2.88:1 (minimo 4.5:1) sobre fundo #F5F7FC"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Preenchido por Dr. Ciclano em 11 de Jan. de 2021",
+          "noId": "I6:8249;4810:105715;39909:938210",
+          "detalhe": "razao 2.90:1 (minimo 4.5:1) sobre fundo #F5F7FC"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Card Frame - 1 (Outline Focus)",
+          "noId": "6:8250",
+          "detalhe": "razao 1.07:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Pré-Atendimento",
+          "noId": "I6:8250;4810:105715;39909:938209",
+          "detalhe": "razao 2.88:1 (minimo 4.5:1) sobre fundo #F5F7FC"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Preenchido por Dr. Ciclano em 11 de Jan. de 2021",
+          "noId": "I6:8250;4810:105715;39909:938210",
+          "detalhe": "razao 2.90:1 (minimo 4.5:1) sobre fundo #F5F7FC"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Card Frame - 1 (Outline Focus)",
+          "noId": "6:8251",
+          "detalhe": "razao 1.07:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Pré-Atendimento",
+          "noId": "I6:8251;4810:105715;39909:938222",
+          "detalhe": "razao 1.56:1 (minimo 4.5:1) sobre fundo #F5F7FC"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Preenchido por Dr. Ciclano em 11 de Jan. de 2021",
+          "noId": "I6:8251;4810:105715;39909:938223",
+          "detalhe": "razao 2.90:1 (minimo 4.5:1) sobre fundo #F5F7FC"
+        }
+      ]
+    },
+    {
+      "prototipo": "DADOS DO PACIENTE",
+      "prototipoId": "8:8430",
+      "metricas": {
+        "densidade_total_nos": 256,
+        "textos_total": 77,
+        "textos_aprovados_contraste": 40,
+        "textos_pct_conformidade_1_4_3": 51.95,
+        "componentes_total": 25,
+        "componentes_aprovados_contraste": 20,
+        "componentes_pct_conformidade_1_4_11": 80,
+        "alvos_toque_total": 25,
+        "alvos_toque_aprovados": 19,
+        "alvos_toque_pct_conformidade_2_5_8": 76,
+        "aderencia_design_system_pct": 93.94,
+        "aderencia_nos_aderentes": 155,
+        "aderencia_nos_elegiveis": 165,
+        "cores_distintas_fora_token": 18,
+        "tamanhos_fonte_distintos_fora_token": 7
+      },
+      "valoresForaToken": {
+        "cores": [
+          "#000000",
+          "#003F1A",
+          "#144027",
+          "#1A1D22",
+          "#261E00",
+          "#495916",
+          "#54A275",
+          "#5D6066",
+          "#8F9299",
+          "#A1D6B7",
+          "#B1D349",
+          "#C4C8D0",
+          "#E0E4EC",
+          "#ED1450",
+          "#EFFFBF",
+          "#F5F7FC",
+          "#FECA0A",
+          "#FFFFFF"
+        ],
+        "tamanhosFonte": [
+          8,
+          11,
+          12,
+          14,
+          16,
+          22,
+          32
+        ]
+      },
+      "findings": [
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Menu",
+          "noId": "8:8431",
+          "detalhe": "razao 1.07:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Vector",
+          "noId": "I8:8431;1030:19153;380:10016",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Vector",
+          "noId": "I8:8431;1030:19153;380:10017",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Vector",
+          "noId": "I8:8431;1030:19153;380:10018",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Vector",
+          "noId": "I8:8431;1030:19153;380:10019",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Vector",
+          "noId": "I8:8431;1030:19153;380:10020",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Vector",
+          "noId": "I8:8431;1030:19153;380:10021",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Menu Item",
+          "noId": "I8:8431;1030:19169;1919:18661;932:12065",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Maria Cristina",
+          "noId": "I8:8431;4740:100680;4683:100714",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Consultório Campo Largo",
+          "noId": "I8:8431;4740:100680;4683:100716",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Ellipse 3",
+          "noId": "I8:8431;4740:100680;4683:100718;632:10618",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I8:8431;23440:551616;23233:562999",
+          "detalhe": "razao 4.36:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Header - Prontuário novo",
+          "noId": "8:8433",
+          "detalhe": "razao 1.07:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "(505000)",
+          "noId": "I8:8433;44335:17824;10520:186848",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "15/08/1984",
+          "noId": "I8:8433;44335:17824;12472:248894",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I8:8433;44335:17824;38515:103787;346:8875",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I8:8433;44335:17839;346:9110",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Tab Title",
+          "noId": "I8:8436;997:13665",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Tab Title",
+          "noId": "I8:8440;10656:198457",
+          "detalhe": "razao 1.27:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Ellipse 3",
+          "noId": "I8:8454;632:10618",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "(",
+          "noId": "8:8459",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "CRM",
+          "noId": "8:8460",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "8:8461",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Especialidade",
+          "noId": "8:8462",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": ")",
+          "noId": "8:8463",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Plano 1",
+          "noId": "8:8465",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "8:8466",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "alvo_toque_2.5.8",
+          "gravidade": "reprova",
+          "no": "Grayscale Tag",
+          "noId": "8:8468",
+          "detalhe": "76x23 px (minimo 24x24)"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "8:8469",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Icon/ lock-open",
+          "noId": "8:8477",
+          "detalhe": "razao 1.00:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "alvo_toque_2.5.8",
+          "gravidade": "reprova",
+          "no": "Icon/ lock-open",
+          "noId": "8:8477",
+          "detalhe": "16x16 px (minimo 24x24)"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I8:8497;347:8643",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Ellipse 3",
+          "noId": "I8:8501;632:10618",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "(",
+          "noId": "8:8506",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "CRM",
+          "noId": "8:8507",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "8:8508",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Especialidade",
+          "noId": "8:8509",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": ")",
+          "noId": "8:8510",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Plano 1",
+          "noId": "8:8512",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "8:8513",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "alvo_toque_2.5.8",
+          "gravidade": "reprova",
+          "no": "Grayscale Tag",
+          "noId": "8:8515",
+          "detalhe": "76x23 px (minimo 24x24)"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "8:8516",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Icon/ lock-open",
+          "noId": "8:8524",
+          "detalhe": "razao 1.00:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "alvo_toque_2.5.8",
+          "gravidade": "reprova",
+          "no": "Icon/ lock-open",
+          "noId": "8:8524",
+          "detalhe": "16x16 px (minimo 24x24)"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I8:8544;347:8643",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "aderencia_design_system",
+          "gravidade": "alerta",
+          "no": "Ellipse 3",
+          "noId": "I8:8548;632:10618",
+          "detalhe": "no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "(",
+          "noId": "8:8553",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "CRM",
+          "noId": "8:8554",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "8:8555",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Especialidade",
+          "noId": "8:8556",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": ")",
+          "noId": "8:8557",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Plano 1",
+          "noId": "8:8559",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "8:8560",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "alvo_toque_2.5.8",
+          "gravidade": "reprova",
+          "no": "Grayscale Tag",
+          "noId": "8:8562",
+          "detalhe": "76x23 px (minimo 24x24)"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "•",
+          "noId": "8:8563",
+          "detalhe": "razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_componente_1.4.11",
+          "gravidade": "reprova",
+          "no": "Icon/ lock-open",
+          "noId": "8:8571",
+          "detalhe": "razao 1.00:1 (minimo 3:1)"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "alvo_toque_2.5.8",
+          "gravidade": "reprova",
+          "no": "Icon/ lock-open",
+          "noId": "8:8571",
+          "detalhe": "16x16 px (minimo 24x24)"
+        },
+        {
+          "prototipo": "DADOS DO PACIENTE",
+          "criterio": "contraste_texto_1.4.3",
+          "gravidade": "reprova",
+          "no": "Label",
+          "noId": "I8:8591;347:8643",
+          "detalhe": "razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF"
+        }
+      ]
+    }
+  ]
+}

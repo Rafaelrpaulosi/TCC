@@ -1,0 +1,67 @@
+prototipo,criterio,gravidade,no,noId,detalhe
+Tela 1 · Dados do paciente (com queixa),contraste_componente_1.4.11,reprova,Menu,20:2266,razao 1.00:1 (minimo 3:1)
+Tela 1 · Dados do paciente (com queixa),aderencia_design_system,alerta,Vector,"I20:2266;4:2623;4:2667","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+Tela 1 · Dados do paciente (com queixa),aderencia_design_system,alerta,Vector,"I20:2266;4:2623;4:2669","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+Tela 1 · Dados do paciente (com queixa),aderencia_design_system,alerta,Vector,"I20:2266;4:2623;4:2670","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+Tela 1 · Dados do paciente (com queixa),aderencia_design_system,alerta,Vector,"I20:2266;4:2623;4:2671","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+Tela 1 · Dados do paciente (com queixa),contraste_texto_1.4.3,reprova,Maria Cristina,"I20:2266;4:2626;4:3272",razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+Tela 1 · Dados do paciente (com queixa),contraste_texto_1.4.3,reprova,Consultório Campo Largo,"I20:2266;4:2626;4:3277",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+Tela 1 · Dados do paciente (com queixa),aderencia_design_system,alerta,Ellipse 3,"I20:2266;4:2626;4:3279;4:2916","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+Tela 1 · Dados do paciente (com queixa),contraste_texto_1.4.3,reprova,Label,"I20:2266;4:2627;4:3310",razao 4.36:1 (minimo 4.5:1) sobre fundo #FFFFFF
+Tela 1 · Dados do paciente (com queixa),contraste_componente_1.4.11,reprova,Page Header,20:2337,razao 1.00:1 (minimo 3:1)
+Tela 1 · Dados do paciente (com queixa),contraste_texto_1.4.3,reprova,Label,"I20:2337;4:2715;346:9110",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+Tela 1 · Dados do paciente (com queixa),contraste_componente_1.4.11,reprova,Tag/Color,21:2514,razao 1.64:1 (minimo 3:1)
+Tela 1 · Dados do paciente (com queixa),alvo_toque_2.5.8,reprova,Tag/Color,21:2514,109x23 px (minimo 24x24)
+Tela 1 · Dados do paciente (com queixa),alvo_toque_2.5.8,reprova,Tag/Grayscale,21:2518,63x23 px (minimo 24x24)
+Tela 1 · Dados do paciente (com queixa),contraste_componente_1.4.11,reprova,Inline Message · Alergia,21:2523,razao 1.54:1 (minimo 3:1)
+Tela 1 · Dados do paciente (com queixa),contraste_componente_1.4.11,reprova,Card · Queixa registrada na recepção,21:2535,razao 1.07:1 (minimo 3:1)
+Tela 1 · Dados do paciente (com queixa),aderencia_design_system,alerta,Vector,"I21:2535;4:2797;20:2197;20:2192;4:5895","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+Tela 1 · Dados do paciente (com queixa),contraste_componente_1.4.11,reprova,Card · Histórico recente,21:2561,razao 1.07:1 (minimo 3:1)
+Tela 1 · Dados do paciente (com queixa),aderencia_design_system,alerta,Vector,"I21:2561;4:2797;21:2327;20:2192;4:5953","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+Tela 1 · Dados do paciente (com queixa),aderencia_design_system,alerta,Vector,"I21:2561;4:2797;21:2334;4:2811;632:10548","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+Tela 1 · Dados do paciente (com queixa),aderencia_design_system,alerta,Vector,"I21:2561;4:2797;21:2346;4:2811;632:10548","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+Tela 1 · Dados do paciente (com queixa),aderencia_design_system,alerta,Vector,"I21:2561;4:2797;21:2358;4:2811;632:10548","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+Tela 1 · Dados do paciente (com queixa),contraste_texto_1.4.3,reprova,Label,"I21:2561;4:2797;21:2370;4:344",razao 2.88:1 (minimo 4.5:1) sobre fundo #F5F7FC
+Tela 1 · Dados do paciente (com queixa),contraste_componente_1.4.11,reprova,Card · Últimos exames,22:2590,razao 1.07:1 (minimo 3:1)
+Tela 1 · Dados do paciente (com queixa),aderencia_design_system,alerta,Vector,"I22:2590;4:2797;21:2417;4:2831;632:10548","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+Tela 1 · Dados do paciente (com queixa),aderencia_design_system,alerta,Vector,"I22:2590;4:2797;21:2424;4:2831;632:10548","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+Tela 1 · Dados do paciente (com queixa),aderencia_design_system,alerta,Vector,"I22:2590;4:2797;21:2431;4:2831;632:10548","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+Tela 1 · Dados do paciente (com queixa),contraste_componente_1.4.11,reprova,Card · Condições e uso contínuo,21:2566,razao 1.07:1 (minimo 3:1)
+Tela 1 · Dados do paciente (com queixa),contraste_texto_1.4.3,reprova,Label,"I21:2566;4:2797;21:2388;4:2182",razao 3.12:1 (minimo 4.5:1) sobre fundo #8F9299
+Tela 1 · Dados do paciente (com queixa),contraste_texto_1.4.3,reprova,Label,"I21:2566;4:2797;21:2392;4:2182",razao 3.12:1 (minimo 4.5:1) sobre fundo #8F9299
+Tela 1 · Dados do paciente (com queixa),contraste_componente_1.4.11,reprova,Card · Identificação,21:2580,razao 1.07:1 (minimo 3:1)
+Tela 1 · Dados do paciente (com queixa),aderencia_design_system,alerta,Vector,"I21:2580;4:2797;21:2439;20:2192;4:6067","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+Tela 1 · Dados do paciente (com queixa),contraste_texto_1.4.3,reprova,Label,"I21:2583;4:299",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+Tela 2 · Dados do paciente (sem queixa),contraste_componente_1.4.11,reprova,Menu,24:2600,razao 1.00:1 (minimo 3:1)
+Tela 2 · Dados do paciente (sem queixa),aderencia_design_system,alerta,Vector,"I24:2600;4:2623;4:2667","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+Tela 2 · Dados do paciente (sem queixa),aderencia_design_system,alerta,Vector,"I24:2600;4:2623;4:2669","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+Tela 2 · Dados do paciente (sem queixa),aderencia_design_system,alerta,Vector,"I24:2600;4:2623;4:2670","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+Tela 2 · Dados do paciente (sem queixa),aderencia_design_system,alerta,Vector,"I24:2600;4:2623;4:2671","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+Tela 2 · Dados do paciente (sem queixa),contraste_texto_1.4.3,reprova,Maria Cristina,"I24:2600;4:2626;4:3272",razao 3.12:1 (minimo 4.5:1) sobre fundo #FFFFFF
+Tela 2 · Dados do paciente (sem queixa),contraste_texto_1.4.3,reprova,Consultório Campo Largo,"I24:2600;4:2626;4:3277",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+Tela 2 · Dados do paciente (sem queixa),aderencia_design_system,alerta,Ellipse 3,"I24:2600;4:2626;4:3279;4:2916","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+Tela 2 · Dados do paciente (sem queixa),contraste_texto_1.4.3,reprova,Label,"I24:2600;4:2627;4:3310",razao 4.36:1 (minimo 4.5:1) sobre fundo #FFFFFF
+Tela 2 · Dados do paciente (sem queixa),contraste_componente_1.4.11,reprova,Page Header,24:2601,razao 1.00:1 (minimo 3:1)
+Tela 2 · Dados do paciente (sem queixa),contraste_texto_1.4.3,reprova,Label,"I24:2601;4:2715;346:9110",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
+Tela 2 · Dados do paciente (sem queixa),contraste_componente_1.4.11,reprova,Tag/Color,24:2604,razao 1.64:1 (minimo 3:1)
+Tela 2 · Dados do paciente (sem queixa),alvo_toque_2.5.8,reprova,Tag/Color,24:2604,109x23 px (minimo 24x24)
+Tela 2 · Dados do paciente (sem queixa),alvo_toque_2.5.8,reprova,Tag/Grayscale,24:2605,63x23 px (minimo 24x24)
+Tela 2 · Dados do paciente (sem queixa),contraste_componente_1.4.11,reprova,Inline Message · Alergia,24:2607,razao 1.54:1 (minimo 3:1)
+Tela 2 · Dados do paciente (sem queixa),contraste_componente_1.4.11,reprova,Card · Queixa (sem registro),24:2610,razao 1.07:1 (minimo 3:1)
+Tela 2 · Dados do paciente (sem queixa),aderencia_design_system,alerta,Vector,"I24:2610;4:2797;24:2591;20:2192;4:5895","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+Tela 2 · Dados do paciente (sem queixa),contraste_componente_1.4.11,reprova,Card · Histórico recente,24:2611,razao 1.07:1 (minimo 3:1)
+Tela 2 · Dados do paciente (sem queixa),aderencia_design_system,alerta,Vector,"I24:2611;4:2797;21:2327;20:2192;4:5953","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+Tela 2 · Dados do paciente (sem queixa),aderencia_design_system,alerta,Vector,"I24:2611;4:2797;21:2334;4:2811;632:10548","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+Tela 2 · Dados do paciente (sem queixa),aderencia_design_system,alerta,Vector,"I24:2611;4:2797;21:2346;4:2811;632:10548","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+Tela 2 · Dados do paciente (sem queixa),aderencia_design_system,alerta,Vector,"I24:2611;4:2797;21:2358;4:2811;632:10548","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+Tela 2 · Dados do paciente (sem queixa),contraste_texto_1.4.3,reprova,Label,"I24:2611;4:2797;21:2370;4:344",razao 2.88:1 (minimo 4.5:1) sobre fundo #F5F7FC
+Tela 2 · Dados do paciente (sem queixa),contraste_componente_1.4.11,reprova,Card · Últimos exames,24:2612,razao 1.07:1 (minimo 3:1)
+Tela 2 · Dados do paciente (sem queixa),aderencia_design_system,alerta,Vector,"I24:2612;4:2797;21:2417;4:2831;632:10548","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+Tela 2 · Dados do paciente (sem queixa),aderencia_design_system,alerta,Vector,"I24:2612;4:2797;21:2424;4:2831;632:10548","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+Tela 2 · Dados do paciente (sem queixa),aderencia_design_system,alerta,Vector,"I24:2612;4:2797;21:2431;4:2831;632:10548","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+Tela 2 · Dados do paciente (sem queixa),contraste_componente_1.4.11,reprova,Card · Condições e uso contínuo,24:2614,razao 1.07:1 (minimo 3:1)
+Tela 2 · Dados do paciente (sem queixa),contraste_texto_1.4.3,reprova,Label,"I24:2614;4:2797;21:2388;4:2182",razao 3.12:1 (minimo 4.5:1) sobre fundo #8F9299
+Tela 2 · Dados do paciente (sem queixa),contraste_texto_1.4.3,reprova,Label,"I24:2614;4:2797;21:2392;4:2182",razao 3.12:1 (minimo 4.5:1) sobre fundo #8F9299
+Tela 2 · Dados do paciente (sem queixa),contraste_componente_1.4.11,reprova,Card · Identificação,24:2615,razao 1.07:1 (minimo 3:1)
+Tela 2 · Dados do paciente (sem queixa),aderencia_design_system,alerta,Vector,"I24:2615;4:2797;21:2439;20:2192;4:6067","no com preenchimento/traco proprio, sem estilo ou variavel da biblioteca vinculada"
+Tela 2 · Dados do paciente (sem queixa),contraste_texto_1.4.3,reprova,Label,"I24:2617;4:299",razao 3.09:1 (minimo 4.5:1) sobre fundo #FFFFFF
